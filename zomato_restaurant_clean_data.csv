@@ -1,0 +1,1194 @@
+Restaurant_Name,Rating,Cuisine_Type,Cost_for_One,Delivery_Time (min),OFF_offer,Url_link
+Beijing Bites,4.1,"Chinese, Seafood, Thai, Rolls, Momos, Malaysian",¹ 250.00,32,   100 OFF,https://www.zomato.com/bangalore/beijing-bites-richmond-road/order
+Maven Kitchen,4.6,"Chinese, North Eastern, Beverages",¹ 250.00,52,NA,https://www.zomato.com/bangalore/maven-kitchen-ejipura-bangalore/order
+McDonald's,4,"Burger, Fast Food, Beverages",¹ 250.00,29,Free New McSaver Pizza McPuff,https://www.zomato.com/bangalore/mcdonalds-mg-road/order
+Burger King,4.1,"Burger, Fast Food, Desserts, Beverages",¹ 250.00,38,NA,https://www.zomato.com/bangalore/burger-king-commercial-street/order
+Mani's Dum Biryani,4.4,"Biryani, North Indian, Beverages",¹ 250.00,48,NA,https://www.zomato.com/bangalore/manis-dum-biryani-ulsoor/order
+Thalassery Restaurant,4.1,"Kerala, South Indian, Seafood, North Indian, Chinese, Shawarma, Biryani, Beverages",¹ 250.00,51,NA,https://www.zomato.com/bangalore/thalassery-restaurant-koramangala-5th-block-bangalore/order
+Kanti Sweets,4.4,"Mithai, Desserts, Street Food",¹ 250.00,26,NA,https://www.zomato.com/bangalore/kanti-sweets-brigade-road/order
+Polar Bear,4.3,"Ice Cream, Desserts, Shake, Beverages, Sandwich",¹ 250.00,35,NA,https://www.zomato.com/bangalore/polar-bear-1-basavanagudi/order
+EasyBites By Empire,4.2,"Burger, Fast Food",¹ 250.00,33,10% OFF,https://www.zomato.com/bangalore/easybites-by-empire-brigade-road-bangalore/order
+Truffles,4.3,"Burger, Italian, Desserts, Continental, American, Fast Food, Beverages",¹ 250.00,28,   150 OFF,https://www.zomato.com/bangalore/truffles-2-st-marks-road/order
+Nandhini Deluxe,4,"Andhra, Biryani, North Indian",¹ 250.00,26,40% OFF,https://www.zomato.com/bangalore/nandhini-deluxe-st-marks-road-bangalore/order
+Biriyani Zone,4.2,"Biryani, Andhra, North Indian, Chinese, Kebab, Seafood, Desserts, Beverages",¹ 250.00,52,20% OFF,https://www.zomato.com/bangalore/biriyani-zone-thippasandra-bangalore/order
+Andhra Gunpowder,4.3,"Andhra, Biryani, South Indian, Desserts, Beverages, Hyderabadi",¹ 250.00,37,   100 OFF,https://www.zomato.com/bangalore/andhra-gunpowder-seshadripuram-bangalore/order
+Leon's Burgers & Wings,4.2,"Burger, Fast Food, Wraps",¹ 250.00,43,NA,https://www.zomato.com/bangalore/leons-burgers-wings-frazer-town-bangalore/order
+Sharief Bhai,3.8,"Biryani, Kebab, Mughlai, Arabian, South Indian, Rolls, Desserts, Beverages",¹ 250.00,46,20% OFF,https://www.zomato.com/bangalore/sharief-bhai-frazer-town-bangalore/order
+California Burrito,4.5,"Mexican, American, Continental, Healthy Food, Beverages, Fast Food",¹ 250.00,42,50% OFF,https://www.zomato.com/bangalore/california-burrito-malleshwaram/order
+Chinese Wok,4.2,"Momos, Chinese",¹ 250.00,49,Flat 20% OFF,https://www.zomato.com/bangalore/chinese-wok-malleshwaram-bangalore/order
+Dindigul Thalappakatti,4.2,"Biryani, South Indian, North Indian, Mughlai, Chinese, Seafood, Desserts, Beverages",¹ 250.00,33,NA,https://www.zomato.com/bangalore/dindigul-thalappakatti-mg-road-bangalore/order
+Paradise Biryani - A Legend Since 1953,4.1,"Biryani, Kebab, North Indian, Rolls, Chinese, Desserts",¹ 250.00,40,30% OFF,https://www.zomato.com/bangalore/paradise-biryani-a-legend-since-1953-rajajinagar-bangalore/order
+Sri Udupi Food Hub,4.1,"South Indian, Chinese, Biryani, North Indian, Sandwich, Desserts, Juices, Beverages",¹ 250.00,39,50% OFF,https://www.zomato.com/bangalore/sri-udupi-food-hub-majestic-bangalore/order
+Namaste,4.1,"South Indian, Chinese, Beverages",¹ 250.00,NA,40% OFF,https://www.zomato.com/bangalore/namaste-1-ulsoor-bangalore/order
+RNR Biryani - Taste Of 1953,4.3,"Biryani, South Indian, Kebab, Desserts, Beverages",¹ 250.00,50,NA,https://www.zomato.com/bangalore/rnr-biryani-taste-of-1953-1-jayanagar-bangalore/order
+Wendy's Burgers,4,"Burger, Fast Food, American",¹ 250.00,38,   125 OFF,https://www.zomato.com/bangalore/wendys-burgers-shanti-nagar-bangalore/order
+La Pino'z Pizza,4.1,"Pizza, Pasta, Italian, Fast Food",¹ 250.00,48,   150 OFF,https://www.zomato.com/bangalore/la-pinoz-pizza-frazer-town-bangalore/order
+Corner House Ice Creams,4.6,"Ice Cream, Desserts, Shake",¹ 150.00,30,NA,https://www.zomato.com/bangalore/corner-house-ice-creams-residency-road-bangalore/order
+Al-Bek,4,"North Indian, Biryani, Arabian, Mughlai, Chinese",¹ 150.00,39,NA,https://www.zomato.com/bangalore/al-bek-malleshwaram/order
+Anand Sweets And Savouries,4.4,"Mithai, North Indian, Fast Food, Street Food",¹ 150.00,37,NA,https://www.zomato.com/bangalore/anand-sweets-and-savouries-commercial-street-bangalore/order
+Big Bowl,4,"Continental, Chinese, Oriental, Asian, Healthy Food, Sandwich",¹ 150.00,60,Flat 20% OFF,https://www.zomato.com/bangalore/big-bowl-hosur-road-bangalore/order
+Kannur Food Point,3.9,"Kerala, Biryani, South Indian, Arabian, Beverages, Juices, Shake, Chinese",¹ 150.00,48,   150 OFF,https://www.zomato.com/bangalore/kannur-food-point-btm/order
+Ambur Star Briyani Since 1890,4.2,"Biryani, Chettinad, Chinese, North Indian, Mughlai",¹ 150.00,55,20% OFF,https://www.zomato.com/bangalore/ambur-star-briyani-since-1890-indiranagar-bangalore/order
+Paakashala,4.2,"South Indian, North Indian, Biryani, Chinese, Street Food, Sandwich, Ice Cream, Beverages",¹ 150.00,32,50% OFF,https://www.zomato.com/bangalore/paakashala-mg-road-bangalore/order
+Onesta,3.6,"Pizza, Pasta, Sandwich, Fast Food, Desserts, Beverages",¹ 150.00,NA,   125 OFF,https://www.zomato.com/bangalore/onesta-indiranagar-bangalore/order
+Bakingo,4.4,"Bakery, Desserts",¹ 150.00,28,NA,https://www.zomato.com/bangalore/bakingo-vasanth-nagar-bangalore/order
+Chickpet Donne Biryani House,3.7,Biryani,¹ 150.00,50,NA,https://www.zomato.com/bangalore/chickpet-donne-biryani-house-jayanagar-bangalore/order
+Subway,3.8,"Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",¹ 150.00,21,NA,https://www.zomato.com/bangalore/subway-lavelle-road/order
+Kabab Magic,3.5,"North Indian, Biryani, Hyderabadi, Mughlai, Chinese, Rolls, Shawarma",¹ 150.00,28,NA,https://www.zomato.com/bangalore/kabab-magic-richmond-town-bangalore/order
+BOX8 - Desi Meals,4.6,"North Indian, Biryani, Fast Food, Wraps, Ice Cream, Desserts, Beverages",¹ 250.00,33,50% OFF,https://www.zomato.com/bangalore/box8-desi-meals-shanti-nagar-bangalore/order
+Nagarjuna - Since 1984,4.3,"Andhra, Biryani, South Indian",¹ 250.00,31,NA,https://www.zomato.com/bangalore/nagarjuna-since-1984-residency-road-bangalore/order
+Imperial Restaurant - Since 1954,4.1,"North Indian, Mughlai, Chinese, Biryani, Seafood, Desserts, Shake, Beverages",¹ 250.00,29,NA,https://www.zomato.com/bangalore/imperial-restaurant-since-1954-residency-road-bangalore/order
+Natural Ice Cream,4.5,"Ice Cream, Shake",¹ 250.00,20,NA,https://www.zomato.com/bangalore/natural-ice-cream-st-marks-road/order
+Narmada Chain of Restaurants,4.3,"Biryani, Andhra, North Indian, Chinese, Mughlai, Beverages",¹ 250.00,50,NA,https://www.zomato.com/bangalore/narmada-chain-of-restaurants-koramangala-5th-block-bangalore/order
+WOW! Momo,3.8,"Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts",¹ 250.00,37,40% OFF,https://www.zomato.com/bangalore/wow-momo-church-street-bangalore/order
+EatFit,4.2,"Healthy Food, Pizza, North Indian, Burger, Biryani, Chinese, Desserts, Beverages",¹ 250.00,33,40% OFF,https://www.zomato.com/bangalore/eatfit-vasanth-nagar-bangalore/order
+Chicpet Donne Biriyani House,3.7,"Biryani, South Indian, Kebab",¹ 250.00,48,NA,https://www.zomato.com/bangalore/chicpet-donne-biriyani-house-koramangala-7th-block-bangalore/order
+Sri Udupi Park,4.2,"South Indian, Chinese, Street Food, Beverages, North Indian, Shake",¹ 250.00,37,NA,https://www.zomato.com/bangalore/sri-udupi-park-residency-road/order
+Vijayalakshmi Veg,4,"South Indian, Chinese, North Indian, Sichuan, Beverages",¹ 250.00,40,NA,https://www.zomato.com/bangalore/vijayalakshmi-veg-frazer-town-bangalore/order
+Behrouz Biryani,4,"Biryani, Kebab, North Indian",¹ 250.00,36,   125 OFF,https://www.zomato.com/bangalore/behrouz-biryani-shanti-nagar-bangalore/order
+Hyderabad Biryaani House - Since 2003,3.8,"Biryani, North Indian, Hyderabadi, Kebab, Chinese, Andhra, Seafood",¹ 250.00,29,NA,https://www.zomato.com/bangalore/hyderabad-biryaani-house-since-2003-richmond-road-bangalore/order
+Roti-Wala.Com,4.1,"North Indian, Chinese, Sichuan, Shake, Beverages, Salad",¹ 100.00,59,20% OFF,https://www.zomato.com/bangalore/roti-wala-com-btm-bangalore/order
+Donne Biryani House,3.8,"Biryani, South Indian",¹ 100.00,39,NA,https://www.zomato.com/bangalore/donne-biryani-house-malleshwaram/order
+Rolls On Wheels - Shawarma & Wraps,4,"Rolls, Kebab, Fast Food, Wraps, Momos, Shawarma, Beverages, Desserts",¹ 100.00,38,40% OFF,https://www.zomato.com/bangalore/rolls-on-wheels-shawarma-wraps-cunningham-road-bangalore/order
+"Faasos - Wraps, Rolls & Shawarma",4,"Rolls, Wraps, Shawarma",¹ 100.00,38,   125 OFF,https://www.zomato.com/bangalore/faasos-wraps-rolls-shawarma-vasanth-nagar-bangalore/order
+Kwality Wall's Ice Cream And More,4.2,"Ice Cream, Desserts",¹ 100.00,30,   150 OFF,https://www.zomato.com/bangalore/kwality-walls-ice-cream-and-more-1-shanti-nagar-bangalore/order
+Kapoor's Cafe,4.2,"North Indian, Fast Food, Street Food, Desserts",¹ 100.00,54,NA,https://www.zomato.com/bangalore/kapoors-cafe-jayanagar-bangalore/order
+Potful - Claypot Biryanis,4.2,"Biryani, North Indian, Mughlai, Kebab, Desserts, Beverages",¹ 100.00,76,   150 OFF,https://www.zomato.com/bangalore/potful-claypot-biryanis-thippasandra-bangalore/order
+The Belgian Waffle Co.,4.4,"Waffle, Ice Cream, Desserts, Beverages",¹ 100.00,44,   200 OFF,https://www.zomato.com/bangalore/the-belgian-waffle-co-seshadripuram-bangalore/order
+NIC Ice Creams,4.5,"Ice Cream, Desserts",¹ 100.00,38,NA,https://www.zomato.com/bangalore/nic-ice-creams-frazer-town-bangalore/order
+Taco Bell,3.9,"Mexican, Wraps, Fast Food",¹ 100.00,41,40% OFF,https://www.zomato.com/bangalore/taco-bell-brigade-road-bangalore/order
+CakeZone Patisserie,4.3,"Bakery, Desserts, Mithai",¹ 100.00,50,60% OFF,https://www.zomato.com/bangalore/cakezone-patisserie-hosur-road-bangalore/order
+Brahmins' Thatte Idli,4.1,South Indian,¹ 100.00,38,20% OFF,https://www.zomato.com/bangalore/brahmins-thatte-idli-1-malleshwaram-bangalore/order
+New Udupi Grand,4.1,"South Indian, North Indian, Street Food, Beverages, Chinese, Shake",¹ 100.00,48,NA,https://www.zomato.com/bangalore/new-udupi-grand-1-koramangala-8th-block-bangalore/order
+Hotel Aditya- Mahalakshmipuram,4.3,"Biryani, North Indian, South Indian, Mughlai",¹ 100.00,47,NA,https://www.zomato.com/bangalore/hotel-aditya-mahalakshmipuram-rajajinagar-bangalore/order
+Theobroma,4.4,"Bakery, Desserts, Fast Food, Beverages",¹ 100.00,16,NA,https://www.zomato.com/bangalore/theobroma-lavelle-road-bangalore/order
+Biryani Blues,4.4,"Biryani, Hyderabadi, Mughlai",¹ 100.00,28,40% OFF,https://www.zomato.com/bangalore/biryani-blues-church-street-bangalore/order
+Amma's Pastries,4.2,"Bakery, Desserts",¹ 100.00,44,NA,https://www.zomato.com/bangalore/ammas-pastries-ulsoor/order
+Puliyogare Point,4.2,"South Indian, Desserts",¹ 100.00,41,Flat 10% OFF,https://www.zomato.com/bangalore/puliyogare-point-basavanagudi/order
+Ambur Hot Dum Biryani,4.2,"Biryani, South Indian, Kebab",¹ 100.00,45,NA,https://www.zomato.com/bangalore/ambur-hot-dum-biryani-btm/order
+Samosa Party,4.4,"Street Food, Tea, North Indian, Beverages, Mithai, Desserts",¹ 100.00,33,10% OFF,https://www.zomato.com/bangalore/samosa-party-brigade-road-bangalore/order
+Biryani By Kilo,4.2,"Biryani, Hyderabadi, Kebab, North Indian, Mithai, Beverages",¹ 100.00,65,30% OFF,https://www.zomato.com/bangalore/biryani-by-kilo-koramangala-6th-block-bangalore/order
+Lassi Shop,3.5,"Beverages, Shake, Juices, Ice Cream, Desserts, Burger, Fast Food",¹ 100.00,22,NA,https://www.zomato.com/bangalore/lassi-shop-1-residency-road-bangalore/order
+Asha Sweet Center - Since 1951,4,"North Indian, Mithai, Fast Food",¹ 100.00,29,NA,https://www.zomato.com/bangalore/asha-sweet-center-since-1951-shanti-nagar-bangalore/order
+Sai Prasadam,4.1,"South Indian, North Indian, Chinese",¹ 100.00,47,   125 OFF,https://www.zomato.com/bangalore/sai-prasadam-vijay-nagar-bangalore/order
+Shivanna Military Hotel,4,"South Indian, Biryani, Chinese, Street Food",¹ 100.00,41,NA,https://www.zomato.com/bangalore/shivanna-military-hotel-basaveshwara-nagar-bangalore/order
+Nahdi Mandi,4.2,Mandi,¹ 100.00,58,NA,https://www.zomato.com/bangalore/nahdi-mandi-btm-bangalore/order
+Hotel N.G.T Non Veg,4.1,"Biryani, South Indian, Chinese",¹ 100.00,45,NA,https://www.zomato.com/bangalore/hotel-n-g-t-non-veg-vijay-nagar-bangalore/order
+Priyadarshini Grand,4.4,"South Indian, North Indian, Chinese, Street Food, Mithai, Beverages, Ice Cream",¹ 100.00,47,NA,https://www.zomato.com/bangalore/priyadarshini-grand-basaveshwara-nagar/order
+IDC Kitchen,4.3,"South Indian, Beverages",¹ 100.00,26,Free Kesari Bhath,https://www.zomato.com/bangalore/idc-kitchen-richmond-road-bangalore/order
+Krishna Vaibhava,4.2,"South Indian, North Indian, Mithai, Chinese, Biryani",¹ 100.00,49,20% OFF,https://www.zomato.com/bangalore/krishna-vaibhava-vijay-nagar-bangalore/order
+Desi Masala,4.1,"North Indian, Chinese, Biryani",¹ 100.00,46,NA,https://www.zomato.com/bangalore/desi-masala-1-majestic-bangalore/order
+Daily Kitchen - Homely Meals,4.4,"North Indian, Desserts, Beverages",¹ 100.00,34,50% OFF,https://www.zomato.com/bangalore/daily-kitchen-homely-meals-langford-town-bangalore/order
+Call Me Chow,4.1,"Chinese, Japanese, Thai, Indonesian, Asian",¹ 100.00,55,50% OFF,https://www.zomato.com/bangalore/call-me-chow-koramangala-8th-block-bangalore/order
+Smoor,4.4,"Desserts, Bakery, Cafe, Beverages, Ice Cream, Asian, Pasta",¹ 100.00,24,   175 OFF,https://www.zomato.com/bangalore/smoor-lavelle-road-bangalore/order
+Kolkata Kathi Rolls,3.7,"Rolls, Biryani, Chinese, North Indian, Sichuan",¹ 100.00,56,40% OFF,https://www.zomato.com/bangalore/kolkata-kathi-rolls-jp-nagar/order
+Sangam Sweets - Since 1964,4.3,"Mithai, Street Food, Fast Food",¹ 100.00,38,NA,https://www.zomato.com/bangalore/sangam-sweets-since-1964-majestic-bangalore/order
+Glen`s Bakehouse,4.2,"Bakery, Cafe, Italian, Continental, Fast Food, Beverages, Desserts",¹ 250.00,22,NA,https://www.zomato.com/bangalore/glen-s-bakehouse-lavelle-road-bangalore/order
+LunchBox - Meals and Thalis,3.9,"North Indian, Biryani, Mughlai",¹ 250.00,39,   150 OFF,https://www.zomato.com/bangalore/lunchbox-meals-and-thalis-shanti-nagar-bangalore/order
+Oven Story Pizza - Standout Toppings,4.5,"Pizza, Italian, Pasta",¹ 250.00,29,   150 OFF,https://www.zomato.com/bangalore/oven-story-pizza-standout-toppings-shanti-nagar-bangalore/order
+Baskin Robbins - Ice Cream Desserts,4,"Ice Cream, Desserts, Shake, Bakery",¹ 250.00,31,NA,https://www.zomato.com/bangalore/baskin-robbins-ice-cream-desserts-2-brigade-road-bangalore/order
+Brothers Biriyani,4,"Biryani, South Indian",¹ 250.00,48,NA,https://www.zomato.com/bangalore/brothers-biriyani-basavanagudi-bangalore/order
+Punjabi Nawabi,3.8,"North Indian, Biryani, Mughlai, Chinese, Kebab",¹ 250.00,50,60% OFF,https://www.zomato.com/bangalore/punjabi-nawabi-koramangala-7th-block-bangalore/order
+The Punjabi Rasoi,4.1,"North Indian, Mughlai",¹ 250.00,59,NA,https://www.zomato.com/bangalore/the-punjabi-rasoi-indiranagar/order
+Kannur Food Kitchen,3.7,"Kerala, Biryani, South Indian, Arabian, Beverages, Juices, Shake, Chinese",¹ 250.00,50,50% OFF,https://www.zomato.com/bangalore/kannur-food-kitchen-btm-bangalore/order
+WarmOven Cake & Desserts,3.6,"Bakery, Desserts, Ice Cream, Shake, Beverages",¹ 250.00,42,50% OFF,https://www.zomato.com/bangalore/warmoven-cake-desserts-vasanth-nagar-bangalore/order
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",4.1,"Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food",¹ 250.00,27,20% OFF,https://www.zomato.com/bangalore/frozen-bottle-milkshakes-desserts-and-ice-cream-brigade-road-bangalore/order
+Shivaji Military Hotel - Since 1935,4,"Biryani, South Indian",¹ 250.00,53,NA,https://www.zomato.com/bangalore/shivaji-military-hotel-since-1935-jayanagar-bangalore/order
+Haldiram's Restaurant,3.7,"Mithai, South Indian, North Indian, Sandwich, Street Food, Biryani, Beverages",¹ 250.00,40,   100 OFF,https://www.zomato.com/bangalore/haldirams-restaurant-seshadripuram-bangalore/order
+Namo Andhra,4.2,Andhra,¹ 150.00,46,20% OFF,https://www.zomato.com/bangalore/namo-andhra-frazer-town-bangalore/order
+Savi Sagar,3.9,"North Indian, South Indian, Chinese, Sandwich, Street Food, Ice Cream, Juices, Beverages",¹ 150.00,39,NA,https://www.zomato.com/bangalore/savi-sagar-malleshwaram-bangalore/order
+Great Indian Khichdi by EatFit,4.3,"North Indian, Healthy Food, South Indian, Fast Food, Mithai, Juices, Desserts, Beverages",¹ 150.00,33,60% OFF,https://www.zomato.com/bangalore/great-indian-khichdi-by-eatfit-1-vasanth-nagar-bangalore/order
+Mandya Nati Style,3.6,"South Indian, Biryani",¹ 150.00,42,60% OFF,https://www.zomato.com/bangalore/mandya-nati-style-vijay-nagar-bangalore/order
+Afghani Tandoori Hub,3.3,"Biryani, North Indian, Chinese, Fast Food, Street Food, Sichuan, Desserts, Beverages",¹ 150.00,48,60% OFF,https://www.zomato.com/bangalore/afghani-tandoori-hub-btm-bangalore/order
+Halli Jonne Biriyani,4.2,"Biryani, South Indian",¹ 150.00,50,NA,https://www.zomato.com/bangalore/halli-jonne-biriyani-jayanagar/order
+Chowman,4.2,"Chinese, Thai, Asian, Seafood, Sichuan, Desserts, Beverages",¹ 150.00,49,   100 OFF,https://www.zomato.com/bangalore/chowman-hosur-road-bangalore/order
+Hari Super Sandwich,3.8,"Street Food, Sandwich, Fast Food, Pizza, Burger",¹ 150.00,29,Flat 20% OFF,https://www.zomato.com/bangalore/hari-super-sandwich-brigade-road-bangalore/order
+Goli Vada Pav No. 1,4.1,"Fast Food, Street Food, Maharashtrian, Rolls, Ice Cream",¹ 150.00,42,NA,https://www.zomato.com/bangalore/goli-vada-pav-no-1-jayanagar-bangalore/order
+Basaveshwar Khanavali,4.4,South Indian,¹ 150.00,33,NA,https://www.zomato.com/bangalore/basaveshwar-khanavali-2-residency-road-bangalore/order
+ITC Aashirvaad Soul Creations,4.3,"North Indian, Healthy Food, Beverages, Desserts",¹ 150.00,35,30% OFF,https://www.zomato.com/bangalore/itc-aashirvaad-soul-creations-commercial-street-bangalore/order
+Shyamji's Chole Bhature,4,"North Indian, Street Food, Fast Food, Desserts, Beverages",¹ 150.00,38,10% OFF,https://www.zomato.com/bangalore/shyamjis-chole-bhature-malleshwaram-bangalore/order
+The Pizza Bakery,4.2,"Pizza, Pasta, Continental, Italian, Salad, Desserts, Beverages",¹ 400.00,28,30% OFF,https://www.zomato.com/bangalore/the-pizza-bakery-church-street-bangalore/order
+Paris Panini - Gourmet Sandwiches & Wraps,4.4,"Sandwich, Wraps, Pasta, Salad, Desserts, Continental",¹ 400.00,31,30% OFF,https://www.zomato.com/bangalore/paris-panini-gourmet-sandwiches-wraps-church-street-bangalore/order
+MOJO Pizza - 2X Toppings,4.5,"Pizza, Italian, Fast Food, Desserts",¹ 400.00,30,50% OFF,https://www.zomato.com/bangalore/mojo-pizza-2x-toppings-shanti-nagar-bangalore/order
+Cakewala,4.2,"Bakery, Desserts",¹ 400.00,49,NA,https://www.zomato.com/bangalore/cakewala-1-jayanagar/order
+Bowl Soul,3.7,"Continental, Chinese, Oriental, Asian, Healthy Food, Sandwich",¹ 400.00,34,Everything @    133 only,https://www.zomato.com/bangalore/bowl-soul-richmond-town-bangalore/order
+Royal Restaurant,3.9,"North Indian, Chinese, Sichuan",¹ 400.00,37,30% OFF,https://www.zomato.com/bangalore/royal-restaurant-shivajinagar/order
+Ghee Tadka Khichdi,4.4,North Indian,¹ 400.00,37,   200 OFF,https://www.zomato.com/bangalore/ghee-tadka-khichdi-seshadripuram-bangalore/order
+The Taj Hotel,4,"North Indian, Biryani, Chinese",¹ 400.00,35,NA,https://www.zomato.com/bangalore/the-taj-hotel-1-city-market-bangalore/order
+AB's - Absolute Barbecues,3.6,"Biryani, BBQ, Kebab, North Indian, Desserts",¹ 400.00,49,40% OFF,https://www.zomato.com/bangalore/abs-absolute-barbecues-koramangala-5th-block-bangalore/order
+Kuttanad Restaurant,4,"Kerala, South Indian, Chinese, Seafood, Beverages",¹ 400.00,52,NA,https://www.zomato.com/bangalore/kuttanad-restaurant-koramangala-5th-block-bangalore/order
+NH1 Bowls - Highway To North,4.5,"North Indian, Fast Food, Desserts, Beverages",¹ 400.00,27,50% OFF,https://www.zomato.com/bangalore/nh1-bowls-highway-to-north-langford-town-bangalore/order
+Barbeque Nation,3.9,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts",¹ 400.00,46,30% OFF,https://www.zomato.com/bangalore/barbeque-nation-ulsoor-bangalore/order
+Biggies Burger,4,"Burger, American, Fast Food, Wraps, Beverages, Shake",¹ 150.00,30,40% OFF,https://www.zomato.com/bangalore/biggies-burger-church-street-bangalore/order
+TrueCakes - Fresh | Eggless | Cakes,4.2,"Bakery, Desserts",¹ 150.00,60,50% OFF,https://www.zomato.com/bangalore/truecakes-fresh-eggless-cakes-indiranagar-bangalore/order
+Royal Biryani Kitchen,3.4,"Biryani, North Indian, Mughlai, Fast Food, Beverages, Sichuan",¹ 150.00,50,60% OFF,https://www.zomato.com/bangalore/royal-biryani-kitchen-btm-bangalore/order
+Meat And Eat,3.7,"Burger, Sandwich, Fast Food, Wraps, Biryani, Beverages, Desserts",¹ 150.00,NA,   125 OFF,https://www.zomato.com/bangalore/meat-and-eat-domlur/order
+Gopaljee Cafe,3.9,"North Indian, Street Food, Beverages",¹ 150.00,46,40% OFF,https://www.zomato.com/bangalore/gopaljee-cafe-koramangala-7th-block-bangalore/order
+Aattutheeram Kerala Restaurant,3.8,"Kerala, Biryani, Chinese, South Indian, Seafood, Beverages",¹ 150.00,51,20% OFF,https://www.zomato.com/bangalore/aattutheeram-kerala-restaurant-koramangala-5th-block-bangalore/order
+Aromas Of Biryani,4,"Biryani, North Indian, South Indian, Hyderabadi",¹ 150.00,51,NA,https://www.zomato.com/bangalore/aromas-of-biryani-1-jayanagar-bangalore/order
+Starbucks Coffee,4.3,"Cafe, Coffee, Desserts, Beverages",¹ 150.00,17,   100 OFF,https://www.zomato.com/bangalore/starbucks-coffee-lavelle-road-bangalore/order
+Muthashy's,4.3,"Kerala, South Indian, Chinese, Sichuan",¹ 150.00,52,NA,https://www.zomato.com/bangalore/muthashys-btm-bangalore/order
+Anjappar,3.9,"South Indian, Chettinad, North Indian, Biryani, Chinese, Sichuan, Desserts, Beverages",¹ 150.00,39,NA,https://www.zomato.com/bangalore/anjappar-brigade-road-bangalore/order
+Chai Point,4.3,"Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",¹ 150.00,31,40% OFF,https://www.zomato.com/bangalore/chai-point-church-street-bangalore/order
+Biryani Trip - Destination Hyderabad,4.1,"Biryani, South Indian, Mughlai, Andhra, Desserts, Hyderabadi",¹ 150.00,35,20% OFF,https://www.zomato.com/bangalore/biryani-trip-destination-hyderabad-seshadripuram-bangalore/order
+Rajdhani,4.1,"Gujarati, North Indian, Rajasthani",¹ 150.00,70,Flat 15% OFF,https://www.zomato.com/bangalore/rajdhani-1-malleshwaram-bangalore/order
+Kolkata Famous Kati Rolls,3.7,Rolls,¹ 150.00,46,NA,https://www.zomato.com/bangalore/kolkata-famous-kati-rolls-rajajinagar-bangalore/order
+New Shanthi Sagar,4,"South Indian, North Indian, Chinese, Sandwich, Biryani, Ice Cream, Shake, Beverages",¹ 150.00,58,NA,https://www.zomato.com/bangalore/new-shanthi-sagar-basavanagudi/order
+Chulha Chauki Da Dhaba,4.3,"North Indian, Chinese, Kebab, Mughlai, Biryani, Beverages",¹ 150.00,65,NA,https://www.zomato.com/bangalore/chulha-chauki-da-dhaba-indiranagar-bangalore/order
+Chaat Street - Desi Chaat & Chai,3.8,"Street Food, Fast Food, North Indian, Beverages, Tea",¹ 150.00,NA,40% OFF,https://www.zomato.com/bangalore/chaat-street-desi-chaat-chai-ulsoor-bangalore/order
+Sreeraj Lassi Bar - Since 1973,4.1,"Ice Cream, Beverages, Desserts, , Juices",¹ 150.00,28,NA,https://www.zomato.com/bangalore/sreeraj-lassi-bar-since-1973-shanti-nagar-bangalore/order
+Sri Vishnu Park,4,"South Indian, North Indian, Chinese, Biryani, Sandwich, Street Food, Desserts, Shake",¹ 150.00,60,NA,https://www.zomato.com/bangalore/sri-vishnu-park-btm/order
+Third Wave Coffee,4,"Cafe, Coffee, Sandwich, Pizza, Fast Food, Tea, Beverages",¹ 150.00,28,10% OFF,https://www.zomato.com/bangalore/third-wave-coffee-lavelle-road-bangalore/order
+WOW! China,3.5,"Chinese, Oriental, Asian, Sichuan, Seafood, Momos",¹ 150.00,37,40% OFF,https://www.zomato.com/bangalore/wow-china-church-street-bangalore/order
+Hotel Kadamba Veg,4.1,"South Indian, North Indian, Chinese, Biryani, Mithai, Shake, Beverages",¹ 150.00,49,NA,https://www.zomato.com/bangalore/hotel-kadamba-veg-rajajinagar/order
+Shree Mahalakshmi Sweets,4.2,"Mithai, Street Food",¹ 150.00,38,NA,https://www.zomato.com/bangalore/shree-mahalakshmi-sweets-2-basavanagudi-bangalore/order
+Arogya Ahaara,4.3,South Indian,¹ 150.00,60,NA,https://www.zomato.com/bangalore/arogya-ahaara-jp-nagar-bangalore/order
+Roti Ghar,4.3,"North Indian, Chinese, South Indian, Street Food, Fast Food, Desserts, Shake, Beverages",¹ 100.00,46,NA,https://www.zomato.com/bangalore/roti-ghar-basavanagudi/order
+Madras Meal Company,4.3,"South Indian, Chettinad, Tamil",¹ 100.00,48,20% OFF,https://www.zomato.com/bangalore/madras-meal-company-1-frazer-town-bangalore/order
+Apna Dhaba,4.1,"North Indian, Beverages",¹ 100.00,46,50% OFF,https://www.zomato.com/bangalore/apna-dhaba-basavanagudi-bangalore/order
+Meghana Biryani,3.2,"Biryani, North Indian, Mughlai, Chinese",¹ 100.00,52,NA,https://www.zomato.com/bangalore/meghana-biryani-btm-bangalore/order
+Savoury Restaurant,4.1,"North Indian, Arabian, Chinese, Mughlai, Seafood, Shawarma, Desserts, Beverages",¹ 100.00,44,20% OFF,https://www.zomato.com/bangalore/savoury-restaurant-1-frazer-town/order
+Pizza@99,3.1,"Pizza, Burger, Fast Food",¹ 100.00,48,NA,https://www.zomato.com/bangalore/pizza@99-rajajinagar-bangalore/order
+The Good Bowl,3.9,"North Indian, Biryani, Mughlai",¹ 100.00,34,10% OFF,https://www.zomato.com/bangalore/the-good-bowl-shanti-nagar-bangalore/order
+Sri Udupi Grand,3.8,"South Indian, North Indian, Chinese, Beverages, Shake",¹ 100.00,33,NA,https://www.zomato.com/bangalore/sri-udupi-grand-brigade-road-bangalore/order
+Olio - The Wood Fired Pizzeria,4,"Pizza, Italian, Fast Food, Beverages",¹ 100.00,40,50% OFF,https://www.zomato.com/bangalore/olio-the-wood-fired-pizzeria-vasanth-nagar-bangalore/order
+Punjabi Unplugged,4.1,North Indian,¹ 100.00,51,60% OFF,https://www.zomato.com/bangalore/punjabi-unplugged-koramangala-7th-block-bangalore/order
+Chetty's Corner,4.2,"Fast Food, Sandwich, Pizza, Burger, Street Food, Beverages",¹ 100.00,43,NA,https://www.zomato.com/bangalore/chettys-corner-malleshwaram-bangalore/order
+Sri Sai Cafe,4.1,"South Indian, Chinese, Street Food, North Indian",¹ 100.00,41,   125 OFF,https://www.zomato.com/bangalore/sri-sai-cafe-basavanagudi-bangalore/order
+New Taj Darbar,3.6,"North Indian, Chinese, Mughlai, Biryani",¹ 100.00,37,Free Gobi Manchurian FR,https://www.zomato.com/bangalore/new-taj-darbar-shivajinagar-bangalore/order
+ITC Master Chef Creations,4.2,"North Indian, Biryani, Mughlai, Kebab, Rolls, Modern Indian, Desserts",¹ 100.00,39,30% OFF,https://www.zomato.com/bangalore/itc-master-chef-creations-commercial-street-bangalore/order
+Dairy Day Ice Creams & Frozen Desserts,4.2,"Ice Cream, Desserts",¹ 100.00,29,NA,https://www.zomato.com/bangalore/dairy-day-ice-creams-frozen-desserts-shivajinagar-bangalore/order
+Laddoos,4,"Mithai, North Indian, Street Food",¹ 100.00,55,NA,https://www.zomato.com/bangalore/laddoos-btm/order
+Gochick,4.2,"Burger, Fast Food",¹ 100.00,38,50% OFF,https://www.zomato.com/bangalore/gochick-brigade-road-bangalore/order
+Big Bite,4.2,"Fast Food, Chinese, Street Food, Burger, Pizza, Beverages, Ice Cream",¹ 100.00,48,NA,https://www.zomato.com/bangalore/big-bite-vijay-nagar/order
+Aubree,4.4,"Bakery, Desserts, Italian, Thai, Fast Food",¹ 100.00,35,   200 OFF,https://www.zomato.com/bangalore/aubree-shivajinagar-bangalore/order
+Paragon Restaurant - Since 1939,4.2,"Kerala, Oriental, South Indian, Chinese, Seafood, Desserts, Beverages, North Indian",¹ 100.00,38,NA,https://www.zomato.com/bangalore/paragon-restaurant-since-1939-st-marks-road-bangalore/order
+Mangalore Kitchen,4.1,"Mangalorean, South Indian, Chinese",¹ 100.00,64,NA,https://www.zomato.com/bangalore/mangalore-kitchen-1-jeevan-bhima-nagar-bangalore/order
+Charminar Biryani House,4,"Biryani, North Indian, Chinese",¹ 100.00,58,30% OFF,https://www.zomato.com/bangalore/charminar-biryani-house-1-btm-bangalore/order
+SGS Non Veg - Gundu Pulav,4.5,"Biryani, Kebab, Seafood",¹ 100.00,40,NA,https://www.zomato.com/bangalore/sgs-non-veg-gundu-pulav-city-market-bangalore/order
+Madurai Idly Shop,4.1,South Indian,¹ 100.00,48,20% OFF,https://www.zomato.com/bangalore/madurai-idly-shop-1-koramangala-7th-block-bangalore/order
+Kailash Parbat,3.8,"North Indian, Street Food, Biryani, Desserts, Beverages",¹ 250.00,38,   150 OFF,https://www.zomato.com/bangalore/kailash-parbat-commercial-street-bangalore/order
+Dum Safar Biryani,4.1,"Biryani, North Indian, Kebab, BBQ, Beverages, Desserts",¹ 250.00,46,40% OFF,https://www.zomato.com/bangalore/dum-safar-biryani-ulsoor-bangalore/order
+Mad Over Donuts,4.3,"Desserts, Bakery, Beverages",¹ 250.00,29,20% OFF,https://www.zomato.com/bangalore/mad-over-donuts-brigade-road/order
+Kabab King Restaurant,3.5,"North Indian, Chinese",¹ 250.00,58,NA,https://www.zomato.com/bangalore/kabab-king-restaurant-1-banashankari-bangalore/order
+Rajanna Military Hotel,3.9,South Indian,¹ 250.00,41,NA,https://www.zomato.com/bangalore/rajanna-military-hotel-rajajinagar-bangalore/order
+Shanthi Sagar,4.1,"South Indian, North Indian, Chinese, Street Food, Desserts, Shake, Beverages",¹ 250.00,49,NA,https://www.zomato.com/bangalore/shanthi-sagar-ulsoor/order
+Olive Street Food Cafe,4.3,"Fast Food, Burger, Shake, Beverages, Sandwich",¹ 250.00,66,20% OFF,https://www.zomato.com/bangalore/olive-street-food-cafe-kammanahalli-bangalore/order
+Shanmukha,4.1,"Biryani, Hyderabadi, Andhra, Chinese, Desserts, Beverages, Seafood",¹ 250.00,58,40% OFF,https://www.zomato.com/bangalore/shanmukha-1-jp-nagar-bangalore/order
+Chicken County Restaurant,4.3,"North Indian, Chinese, Mughlai, Biryani, Seafood, Rolls, Fast Food, Ice Cream",¹ 250.00,42,NA,https://www.zomato.com/bangalore/chicken-county-restaurant-3-majestic-bangalore/order
+Home Plate by EatFit,4.2,"North Indian, South Indian, Healthy Food, Desserts, Beverages, Andhra, Mithai, Pizza",¹ 250.00,31,60% OFF,https://www.zomato.com/bangalore/home-plate-by-eatfit-vasanth-nagar-bangalore/order
+Krispy Kreme,4,Desserts,¹ 250.00,39,   150 OFF,https://www.zomato.com/bangalore/krispy-kreme-brigade-road-bangalore/order
+The Biryani Life,3.8,"Biryani, Mughlai",¹ 250.00,39,10% OFF,https://www.zomato.com/bangalore/the-biryani-life-shanti-nagar-bangalore/order
+Kakal Kai Ruchi,4.1,"North Indian, South Indian, Chinese, Biryani, Street Food, Beverages, Desserts",¹ 200.00,48,NA,https://www.zomato.com/bangalore/kakal-kai-ruchi-rajajinagar-bangalore/order
+Paratha Envy,4.4,North Indian,¹ 200.00,60,20% OFF,https://www.zomato.com/bangalore/paratha-envy-koramangala-6th-block-bangalore/order
+HRX by EatFit,4.2,"Healthy Food, Salad, Burger, Mexican, Pasta, Desserts, Beverages",¹ 200.00,33,10% OFF,https://www.zomato.com/bangalore/hrx-by-eatfit-vasanth-nagar-bangalore/order
+New Shanthi Sagar,4.1,"North Indian, Street Food, Fast Food, South Indian, Chinese, Ice Cream, Shake",¹ 200.00,43,   125 OFF,https://www.zomato.com/bangalore/new-shanthi-sagar-rajajinagar-bangalore/order
+Empire Juices And Desserts,4.2,"Juices, Beverages, Shake, Ice Cream, Desserts",¹ 150.00,29,20% OFF,https://www.zomato.com/bangalore/empire-juices-and-desserts-shivajinagar-bangalore/order
+Biryani Pot,3.9,"Biryani, North Indian, Chinese, Hyderabadi, Andhra, Wraps, Sichuan",¹ 200.00,51,20% OFF,https://www.zomato.com/bangalore/biryani-pot-btm/order
+FB Cakes,3.7,Bakery,¹ 150.00,51,NA,https://www.zomato.com/bangalore/fb-cakes-1-btm-bangalore/order
+Kolkata No. 1 Kati Rolls,3.9,Rolls,¹ 100.00,48,NA,https://www.zomato.com/bangalore/kolkata-no-1-kati-rolls-rajajinagar-bangalore/order
+Jose Mess,4.1,"Kerala, South Indian, Biryani",¹ 150.00,46,NA,https://www.zomato.com/bangalore/jose-mess-hosur-road-bangalore/order
+Om Agarwal Bhavan,4.3,"North Indian, Sandwich, Street Food, Desserts",¹ 150.00,51,40% OFF,https://www.zomato.com/bangalore/om-agarwal-bhavan-basaveshwara-nagar-bangalore/order
+"The Dessert Heaven - Pastry, Brownie and Cakes",4.3,"Desserts, Bakery, Mithai",¹ 100.00,53,50% OFF,https://www.zomato.com/bangalore/the-dessert-heaven-pastry-brownie-and-cakes-hosur-road-bangalore/order
+Lulu Hypermarket,4,"Arabian, North Indian, South Indian, Salad, Biryani, Fast Food, Bakery",¹ 200.00,53,NA,https://www.zomato.com/bangalore/lulu-hypermarket-rajajinagar-bangalore/order
+Madeena Hotel,4.2,"Biryani, Kebab, North Indian",¹ 150.00,54,NA,https://www.zomato.com/bangalore/madeena-hotel-koramangala-5th-block-bangalore/order
+Cremeux Pizza & Bakery Cafe,4.1,"Pizza, Bakery, Cafe, Sandwich, Beverages, Burger",¹ 150.00,60,50% OFF,https://www.zomato.com/bangalore/cremeux-pizza-bakery-cafe-jayanagar-bangalore/order
+Shanthi Sagar,4.2,"South Indian, North Indian, Chinese, Biryani, Ice Cream, Juices, Shake, Beverages",¹ 150.00,52,NA,https://www.zomato.com/bangalore/shanthi-sagar-basaveshwara-nagar/order
+Bob's Bar,3.8,"South Indian, Biryani, Sandwich, Desserts, Bakery, Beverages",¹ 150.00,56,   150 OFF,https://www.zomato.com/bangalore/bobs-bar-koramangala-7th-block-bangalore/order
+The Bhojan-Pure Veg Delights,4,"North Indian, Street Food",¹ 150.00,57,20% OFF,https://www.zomato.com/bangalore/the-bhojan-pure-veg-delights-koramangala-6th-block-bangalore/order
+Kabab King,3.5,"North Indian, Chinese, Juices, Shake",¹ 150.00,59,NA,https://www.zomato.com/bangalore/kabab-king-kumaraswamy-layout-bangalore/order
+Chikpet Donne Biriyani House,3.5,"Biryani, South Indian, Andhra",¹ 150.00,42,NA,https://www.zomato.com/bangalore/chikpet-donne-biriyani-house-rajajinagar/order
+Falahaar & Kota Kachori,3.8,"North Indian, Rajasthani, Fast Food, Mithai, Beverages, Desserts",¹ 150.00,56,20% OFF,https://www.zomato.com/bangalore/falahaar-kota-kachori-koramangala-7th-block-bangalore/order
+Hotel Navayuga,4.3,"Andhra, Biryani",¹ 150.00,36,NA,https://www.zomato.com/bangalore/hotel-navayuga-majestic/order
+Sweet Truth - Cake and Desserts,4,"Bakery, Desserts, Ice Cream",¹ 150.00,43,   150 OFF,https://www.zomato.com/bangalore/sweet-truth-cake-and-desserts-shanti-nagar-bangalore/order
+Egg Corner,4,"Fast Food, Street Food",¹ 150.00,46,NA,https://www.zomato.com/bangalore/egg-corner-vijay-nagar-bangalore/order
+Millet Express,4,"Healthy Food, South Indian, North Indian, Biryani",¹ 150.00,NA,   125 OFF,https://www.zomato.com/bangalore/millet-express-1-indiranagar-bangalore/order
+Sri Mahadeshwara Mushroom Dum Biriyani,4.5,"Chinese, Biryani",¹ 100.00,45,NA,https://www.zomato.com/bangalore/sri-mahadeshwara-mushroom-dum-biriyani-banashankari-bangalore/order
+Kritunga,3.3,"South Indian, North Indian",¹ 100.00,46,NA,https://www.zomato.com/bangalore/kritunga-majestic-bangalore/order
+FNP Cakes By Ferns N Petals,3.5,"Bakery, Desserts",¹ 100.00,55,20% OFF,https://www.zomato.com/bangalore/fnp-cakes-by-ferns-n-petals-koramangala-3rd-block-bangalore/order
+Marwadi Chaat & Tiffin Services - Jodhpur Wala,3.9,"North Indian, Chinese, Street Food, Beverages",¹ 100.00,30,40% OFF,https://www.zomato.com/bangalore/marwadi-chaat-tiffin-services-jodhpur-wala-shanti-nagar-bangalore/order
+LeanCrust Pizza - ThinCrust Experts,4.5,"Pizza, Italian, Fast Food, Desserts",¹ 100.00,33,50% OFF,https://www.zomato.com/bangalore/leancrust-pizza-thincrust-experts-langford-town-bangalore/order
+Hyderabad Biryani Hotel,4.2,Biryani,¹ 100.00,37,NA,https://www.zomato.com/bangalore/hyderabad-biryani-hotel-malleshwaram-bangalore/order
+Swathi Restaurant,4.1,"Andhra, North Indian, Chinese, Biryani, Mughlai, Oriental",¹ 100.00,49,Free Gulab Jamun [1 Piece],https://www.zomato.com/bangalore/swathi-restaurant-rajajinagar-bangalore/order
+Absolute Shawarma,4,"Shawarma, Burger, Momos, Fast Food, Shake",¹ 100.00,NA,Flat 20% OFF,https://www.zomato.com/bangalore/absolute-shawarma-jeevan-bhima-nagar-bangalore/order
+Rana Donne Biriyani,3.6,"Biryani, Fast Food",¹ 100.00,60,40% OFF,https://www.zomato.com/bangalore/rana-donne-biriyani-rajajinagar-bangalore/order
+Gandhinagar Donne Biriyani,4.2,"Biryani, North Indian",¹ 100.00,32,NA,https://www.zomato.com/bangalore/gandhinagar-donne-biriyani-1-majestic-bangalore/order
+Just Bake,3.8,Bakery,¹ 100.00,33,NA,https://www.zomato.com/bangalore/just-bake-seshadripuram/order
+Le Arabia,3.6,"Arabian, North Indian",¹ 100.00,53,NA,https://www.zomato.com/bangalore/le-arabia-basaveshwara-nagar-bangalore/order
+Szechuan Dragon,4.2,"Chinese, Asian, Thai, Beverages",¹ 200.00,48,30% OFF,https://www.zomato.com/bangalore/szechuan-dragon-banashankari/order
+Boba Bhai,4.2,"Bubble Tea, Burger, Beverages, Tea, Fast Food, Street Food, Momos, Shake",¹ 200.00,41,40% OFF,https://www.zomato.com/bangalore/boba-bhai-commercial-street-bangalore/order
+Roti-Wala.Com,3.9,"North Indian, Chinese",¹ 200.00,58,20% OFF,https://www.zomato.com/bangalore/roti-wala-com-kumaraswamy-layout-bangalore/order
+New Agarwal Bhavan,4.1,"Mithai, Street Food",¹ 200.00,38,NA,https://www.zomato.com/bangalore/new-agarwal-bhavan-sadashiv-nagar-bangalore/order
+Goila Butter Chicken,4,"North Indian, Mughlai, Biryani, Rolls",¹ 200.00,57,20% OFF,https://www.zomato.com/bangalore/goila-butter-chicken-koramangala-6th-block-bangalore/order
+Mangalore Lunch Home,4.2,"South Indian, Seafood, North Indian, Chinese, Biryani, Mangalorean",¹ 200.00,48,NA,https://www.zomato.com/bangalore/mangalore-lunch-home-basaveshwara-nagar-bangalore/order
+Meghana Biryani,3.1,"Biryani, North Indian, Mughlai, Chinese",¹ 200.00,48,NA,https://www.zomato.com/bangalore/meghana-biryani-vijay-nagar-bangalore/order
+Nisarga,4.2,"Andhra, North Indian, Chinese, Mangalorean, Seafood, Biryani",¹ 200.00,46,10% OFF,https://www.zomato.com/bangalore/nisarga-vijay-nagar/order
+Deccan Paradise,4.4,"Biryani, Hyderabadi, South Indian",¹ 200.00,46,NA,https://www.zomato.com/bangalore/deccan-paradise-2-majestic-bangalore/order
+Brik Oven,4,"Pizza, Italian, Beverages, Desserts, Shake",¹ 200.00,32,60% OFF,https://www.zomato.com/bangalore/brik-oven-church-street/order
+ZAZA Mughal Biryani,4.5,"Biryani, North Indian, Mughlai, Desserts, Beverages",¹ 200.00,28,50% OFF,https://www.zomato.com/bangalore/zaza-mughal-biryani-shanti-nagar-bangalore/order
+WOW! Chicken by WOW! Momo,3.6,"American, Fast Food, Burger, Beverages",¹ 200.00,63,40% OFF,https://www.zomato.com/bangalore/wow-chicken-by-wow-momo-malleshwaram-bangalore/order
+Kaapi Katte,3.7,"South Indian, Beverages",¹ 50.00,35,NA,https://www.zomato.com/bangalore/kaapi-katte-2-seshadripuram-bangalore/order
+Akshatha Biryani,4.3,"Biryani, Kebab, Chinese, North Indian, Beverages",¹ 50.00,36,NA,https://www.zomato.com/bangalore/akshatha-biryani-rt-nagar-bangalore/order
+Tomba Kitchens,4.3,"Naga, Manipuri, North Eastern, Chinese",¹ 50.00,50,NA,https://www.zomato.com/bangalore/tomba-kitchens-ejipura-bangalore/order
+Toscano,4.3,"Italian, Pizza, Pasta, Continental, Desserts, Steak, Seafood, Beverages",¹ 50.00,29,30% OFF,https://www.zomato.com/bangalore/toscano-lavelle-road/order
+Donne Biryani Palace,3.6,"Biryani, South Indian, Chinese, Fast Food, Mughlai",¹ 50.00,51,NA,https://www.zomato.com/bangalore/donne-biryani-palace-indiranagar-bangalore/order
+The Handi Crust,4,"North Indian, Street Food",¹ 50.00,51,20% OFF,https://www.zomato.com/bangalore/the-handi-crust-ulsoor-bangalore/order
+Malgudi's Donne Biriyani,4.3,"Biryani, North Indian",¹ 50.00,38,NA,https://www.zomato.com/bangalore/malgudis-donne-biriyani-1-rajajinagar/order
+ibaco,4.5,"Ice Cream, Desserts",¹ 50.00,27,NA,https://www.zomato.com/bangalore/ibaco-brigade-road-bangalore/order
+Magnolia Bakery,4.4,"Bakery, Desserts",¹ 50.00,48,NA,https://www.zomato.com/bangalore/magnolia-bakery-indiranagar-bangalore/order
+Oru Vadakkan Cafe,4.2,"Kerala, South Indian, Biryani, Seafood, Beverages",¹ 50.00,58,10% OFF,https://www.zomato.com/bangalore/oru-vadakkan-cafe-koramangala-5th-block-bangalore/order
+Salad Days,4.3,"Salad, Healthy Food, Sandwich, Juices",¹ 50.00,54,Free Pineapple Tepache [210 Ml],https://www.zomato.com/bangalore/salad-days-indiranagar-bangalore/order
+Halli Mane,4.1,"South Indian, North Indian, Chinese",¹ 50.00,42,Free Instant Ghee Kharabath Mix,https://www.zomato.com/bangalore/halli-mane-malleshwaram/order
+Ambur Biryani Point,3.7,"Biryani, Fast Food",¹ 100.00,47,NA,https://www.zomato.com/bangalore/ambur-biryani-point-koramangala-8th-block-bangalore/order
+Andhra Ruchulu,4.1,"Andhra, Biryani, North Indian, Chinese, Desserts, Juices",¹ 100.00,41,NA,https://www.zomato.com/bangalore/andhra-ruchulu-sankey-road-bangalore/order
+Udupi Garden,4.1,"South Indian, North Indian, Chinese, Salad, Biryani, Ice Cream, Shake, Beverages",¹ 100.00,49,10% OFF,https://www.zomato.com/bangalore/udupi-garden-jayanagar-bangalore/order
+Mini Punjabi Dhaba,4.4,North Indian,¹ 100.00,46,NA,https://www.zomato.com/bangalore/mini-punjabi-dhaba-banashankari/order
+Nammura Upachara,4.2,"South Indian, North Indian, Street Food, Chinese",¹ 100.00,51,20% OFF,https://www.zomato.com/bangalore/nammura-upachara-basaveshwara-nagar/order
+Juice Junction,4.2,"Juices, Beverages, Sandwich, Fast Food, Shake, Rolls, Healthy Food, Street Food",¹ 100.00,20,10% OFF,https://www.zomato.com/bangalore/juice-junction-st-marks-road/order
+Auntie Fung's,3.9,"Asian, Thai, Vietnamese, Japanese, Indonesian, Chinese, Korean, Burmese",¹ 100.00,NA,60% OFF,https://www.zomato.com/bangalore/auntie-fungs-indiranagar-bangalore/order
+99 Varieties Dosa & Pav Bhaji,3.7,"South Indian, Maharashtrian, Sichuan, Street Food",¹ 100.00,54,Flat 20% OFF,https://www.zomato.com/bangalore/99-varieties-dosa-pav-bhaji-koramangala-6th-block-bangalore/order
+Udupi Shanthi Sagar,4.1,"South Indian, North Indian, Chinese",¹ 100.00,44,NA,https://www.zomato.com/bangalore/udupi-shanthi-sagar-frazer-town-bangalore/order
+Ayodhya Sagar,4.3,"South Indian, North Indian, Chinese, Street Food, Desserts, Beverages",¹ 100.00,49,NA,https://www.zomato.com/bangalore/ayodhya-sagar-basaveshwara-nagar-bangalore/order
+Peetuk,4.1,"Bengali, Biryani, Rolls",¹ 100.00,48,NA,https://www.zomato.com/bangalore/peetuk-domlur-bangalore/order
+Church Street SOCIAL,4.1,"North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Korean, Beverages",¹ 100.00,34,50% OFF,https://www.zomato.com/ChurchStreetSocial/order
+Homely Hut,4.1,"North Indian, Beverages",¹ 150.00,52,20% OFF,https://www.zomato.com/bangalore/homely-hut-koramangala-7th-block-bangalore/order
+Cheesecake & Co.,4.3,"Bakery, Desserts",¹ 150.00,44,   100 OFF,https://www.zomato.com/bangalore/cheesecake-co-koramangala-8th-block-bangalore/order
+Kirti Kitchen,4,"North Indian, Chinese, Sichuan",¹ 150.00,65,NA,https://www.zomato.com/bangalore/kirti-kitchen-btm-bangalore/order
+Hari Super Sandwich,3.8,"Sandwich, Fast Food",¹ 150.00,57,30% OFF,https://www.zomato.com/bangalore/hari-super-sandwich-btm-bangalore/order
+Namo Andhra,4.4,"South Indian, Andhra",¹ 150.00,36,20% OFF,https://www.zomato.com/bangalore/namo-andhra-shivajinagar-bangalore/order
+"WeFit - Protein Bowls, Salads & Sandwiches",4.4,"Salad, Healthy Food, Sandwich",¹ 150.00,38,50% OFF,https://www.zomato.com/bangalore/wefit-protein-bowls-salads-sandwiches-shanti-nagar-bangalore/order
+Ande Ka Funda,3.7,"North Indian, Rolls, Chinese",¹ 150.00,62,NA,https://www.zomato.com/bangalore/ande-ka-funda-2-btm-bangalore/order
+Khichdi Bar,4,"Healthy Food, North Indian",¹ 150.00,44,30% OFF,https://www.zomato.com/bangalore/khichdi-bar-majestic-bangalore/order
+Udupi Ruchi,4,"South Indian, North Indian, Chinese, Biryani, Ice Cream, Beverages, Shake",¹ 150.00,37,NA,https://www.zomato.com/bangalore/udupi-ruchi-1-rajajinagar-bangalore/order
+Aramane Donne Biriyani,4.1,"Biryani, North Indian, South Indian, Andhra, Seafood, Chinese",¹ 150.00,42,NA,https://www.zomato.com/bangalore/aramane-donne-biriyani-koramangala-8th-block-bangalore/order
+Pasta Street,4.2,"Pasta, Pizza, Italian, Salad, Desserts, Beverages",¹ 150.00,33,60% OFF,https://www.zomato.com/bangalore/pasta-street-cunningham-road/order
+Donburi,4,"Chinese, Oriental, Asian",¹ 150.00,34,Everything @    129 only,https://www.zomato.com/bangalore/donburi-richmond-town-bangalore/order
+Madurai Pandi Mess,4.1,"Biryani, South Indian, Chettinad, Tamil",¹ 250.00,69,30% OFF,https://www.zomato.com/bangalore/madurai-pandi-mess-2-kammanahalli-bangalore/order
+Udupi Aatithya,4.3,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Juices, Beverages",¹ 250.00,38,NA,https://www.zomato.com/bangalore/udupi-aatithya-basavanagudi-bangalore/order
+Kataria's,3.5,"North Indian, Biryani",¹ 250.00,63,   125 OFF,https://www.zomato.com/bangalore/katarias-btm-bangalore/order
+Bangalikhana,4.2,"Bengali, Seafood",¹ 250.00,56,20% OFF,https://www.zomato.com/bangalore/bangalikhana-koramangala-7th-block-bangalore/order
+Rajathadri Food Fort,4.2,"South Indian, North Indian, Biryani, Chinese, Sichuan, Ice Cream, Desserts, Beverages",¹ 250.00,51,NA,https://www.zomato.com/bangalore/rajathadri-food-fort-jayanagar/order
+Dil Punjabi Daily,3.4,North Indian,¹ 250.00,48,40% OFF,https://www.zomato.com/bangalore/dil-punjabi-daily-majestic-bangalore/order
+Jodhpur Sweets,4.1,"Mithai, Desserts, Rajasthani, Street Food",¹ 250.00,56,10% OFF,https://www.zomato.com/bangalore/jodhpur-sweets-jayanagar-bangalore/order
+Hotel Chandrika,4.2,"South Indian, North Indian, Chinese, Fast Food, Biryani, Desserts, Juices, Beverages",¹ 250.00,31,NA,https://www.zomato.com/bangalore/hotel-chandrika-cunningham-road-bangalore/order
+Halli Donne Biryani Mane,3.6,"Biryani, Chinese",¹ 250.00,51,20% OFF,https://www.zomato.com/bangalore/halli-donne-biryani-mane-btm-bangalore/order
+Lo! - Low Carb And Keto Foods,4.3,"Healthy Food, North Indian, Sandwich, Salad",¹ 250.00,35,30% OFF,https://www.zomato.com/bangalore/lo-low-carb-and-keto-foods-shanti-nagar-bangalore/order
+Chung Wah,4,"Chinese, Asian, Thai, Sichuan, Korean",¹ 250.00,34,NA,https://www.zomato.com/bangalore/chung-wah-residency-road/order
+Rajanna Military Hotel,4.1,"Mughlai, Chinese, North Indian",¹ 250.00,45,NA,https://www.zomato.com/bangalore/rajanna-military-hotel-7-vijay-nagar-bangalore/order
+Davanagere Benne Dose,3.9,South Indian,¹ 50.00,59,NA,https://www.zomato.com/bangalore/davanagere-benne-dose-jayanagar-bangalore/order
+Sri Vishnu Park,4.1,"South Indian, North Indian, Chinese, Biryani, Street Food, Ice Cream, Juices, Beverages",¹ 50.00,39,NA,https://www.zomato.com/bangalore/sri-vishnu-park-shanti-nagar-bangalore/order
+The Rameshwaram Cafe,4.4,"South Indian, Beverages",¹ 50.00,49,NA,https://www.zomato.com/bangalore/the-rameshwaram-cafe-rajajinagar-bangalore/order
+Grameen Kulfi,4.6,"Ice Cream, Desserts",¹ 50.00,38,NA,https://www.zomato.com/bangalore/grameen-kulfi-koramangala-8th-block-bangalore/order
+UBQ by Barbeque Nation,3.9,"North Indian, BBQ, Biryani, Street Food, Kebab, Beverages, Desserts",¹ 50.00,43,40% OFF,https://www.zomato.com/bangalore/ubq-by-barbeque-nation-ulsoor-bangalore/order
+Nashville Fried Chicken - NFC,4.3,"American, Burger, Beverages, Desserts, Fast Food, Finger Food",¹ 50.00,54,   100 OFF,https://www.zomato.com/bangalore/nashville-fried-chicken-nfc-koramangala-7th-block-bangalore/order
+Purani Dilli By Anand Sweets,4.2,"North Indian, Street Food, Mithai, Chinese, Pizza, Rolls",¹ 50.00,38,NA,https://www.zomato.com/bangalore/purani-dilli-by-anand-sweets-commercial-street-bangalore/order
+Nammur Donne Biryani,4.2,"Biryani, South Indian",¹ 50.00,29,NA,https://www.zomato.com/bangalore/nammur-donne-biryani-frazer-town-bangalore/order
+The Square By Cafe Coffee Day,4,"Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts",¹ 50.00,17,   100 OFF,https://www.zomato.com/bangalore/the-square-by-cafe-coffee-day-lavelle-road-bangalore/order
+Protein Chef,3.7,"Healthy Food, North Indian, Sandwich, Salad",¹ 50.00,35,30% OFF,https://www.zomato.com/bangalore/protein-chef-shanti-nagar-bangalore/order
+The Dessert Zone,3.5,"Desserts, Shake, Ice Cream, Bakery, Beverages",¹ 50.00,43,50% OFF,https://www.zomato.com/bangalore/the-dessert-zone-vasanth-nagar-bangalore/order
+Rolls Kitchen,4.1,"Rolls, Burger, Sandwich",¹ 50.00,44,NA,https://www.zomato.com/bangalore/rolls-kitchen-rajajinagar/order
+Daily Sushi,4.3,"Sushi, Japanese, Korean, Asian, Beverages",¹ 450.00,35,50% OFF,https://www.zomato.com/bangalore/daily-sushi-church-street-bangalore/order
+Zomoz - The Momo Company,4.1,"Momos, Fast Food",¹ 450.00,60,   125 OFF,https://www.zomato.com/bangalore/zomoz-the-momo-company-basaveshwara-nagar-bangalore/order
+Donne Biriyani Mane,3.8,"Biryani, South Indian",¹ 450.00,52,NA,https://www.zomato.com/bangalore/donne-biriyani-mane-koramangala-4th-block-bangalore/order
+Smoke House Deli,4.3,"Continental, Italian, BBQ, Fast Food, Ice Cream, Salad, Desserts, Beverages",¹ 450.00,34,50% OFF,https://www.zomato.com/SmokeHouseDeli-LavelleRoad/order
+Singh Da Punjabi Dhaba,4,"North Indian, Biryani",¹ 450.00,50,60% OFF,https://www.zomato.com/bangalore/singh-da-punjabi-dhaba-koramangala-7th-block-bangalore/order
+Basaveshwarnagar Dosa Corner,4.3,South Indian,¹ 450.00,41,NA,https://www.zomato.com/bangalore/basaveshwarnagar-dosa-corner-basaveshwara-nagar/order
+Roti Tawa Wala,4.2,"North Indian, Chinese, Salad, Seafood, Beverages",¹ 450.00,51,NA,https://www.zomato.com/bangalore/roti-tawa-wala-koramangala-5th-block-bangalore/order
+Sandwich Guru,4,"Sandwich, Fast Food, Tea, Shake, Beverages",¹ 450.00,37,NA,https://www.zomato.com/bangalore/sandwich-guru-1-wilson-garden-bangalore/order
+Mizo Kitchen,4.4,"North Eastern, Chinese",¹ 450.00,54,NA,https://www.zomato.com/bangalore/mizo-kitchen-koramangala-5th-block-bangalore/order
+Cream Stone Ice Cream,4.1,"Ice Cream, Desserts, Shake, Beverages",¹ 450.00,42,NA,https://www.zomato.com/bangalore/cream-stone-ice-cream-frazer-town-bangalore/order
+Kolkata Famous Kati Rolls,3.9,"Rolls, North Indian",¹ 450.00,44,NA,https://www.zomato.com/bangalore/kolkata-famous-kati-rolls-rt-nagar-bangalore/order
+Art of Delight,4.6,"Ice Cream, Desserts, Waffle, Beverages",¹ 450.00,26,NA,https://www.zomato.com/bangalore/art-of-delight-residency-road/order
+RB Food Point,3.8,"North Indian, Chinese, Biryani",¹ 100.00,65,NA,https://www.zomato.com/bangalore/rb-food-point-btm-bangalore/order
+Savoury - Sea Shell Restaurant,4.1,"North Indian, Arabian, Chinese, Mughlai, Biryani, Desserts, Beverages",¹ 100.00,51,20% OFF,https://www.zomato.com/bangalore/savoury-sea-shell-restaurant-btm-bangalore/order
+Puneri Katta,4.3,"Maharashtrian, Street Food, North Indian",¹ 100.00,57,NA,https://www.zomato.com/bangalore/puneri-katta-btm-bangalore/order
+Huliyappa's Donne Biryani,4,"Biryani, South Indian",¹ 100.00,39,NA,https://www.zomato.com/bangalore/huliyappas-donne-biryani-rt-nagar/order
+S R M Ambur Hot Dum Biriyani,4.1,"Biryani, South Indian",¹ 100.00,46,NA,https://www.zomato.com/bangalore/s-r-m-ambur-hot-dum-biriyani-btm-bangalore/order
+Indian Chicken Biriyani Point,4.4,"Biryani, South Indian",¹ 100.00,42,NA,https://www.zomato.com/bangalore/indian-chicken-biriyani-point-vijay-nagar-bangalore/order
+Seoul Mate Korean Burger,4,"Korean, Fast Food, Burger, Bubble Tea, Shake",¹ 100.00,43,40% OFF,https://www.zomato.com/bangalore/seoul-mate-korean-burger-commercial-street-bangalore/order
+Sai Cafe Veg,4.2,"South Indian, Street Food",¹ 100.00,45,NA,https://www.zomato.com/bangalore/sai-cafe-veg-malleshwaram-bangalore/order
+Gokul Veg,4.2,"North Indian, Chinese, Desserts, Beverages",¹ 100.00,47,   100 OFF,https://www.zomato.com/bangalore/gokul-veg-basavanagudi/order
+Go Pizza,3.8,"Pizza, Fast Food",¹ 100.00,40,50% OFF,https://www.zomato.com/bangalore/go-pizza-church-street-bangalore/order
+Iyer Mess,4.2,South Indian,¹ 100.00,40,NA,https://www.zomato.com/bangalore/iyer-mess-malleshwaram/order
+Green Cravings,3.8,"Healthy Food, Steak, Sandwich, Continental, Beverages, Cafe",¹ 100.00,35,Everything @    159 only,https://www.zomato.com/bangalore/green-cravings-richmond-road-bangalore/order
+Kunafa World,4.3,Desserts,¹ 200.00,47,NA,https://www.zomato.com/bangalore/kunafa-world-frazer-town-bangalore/order
+Donne Biriyani Mane,4.2,"South Indian, Biryani",¹ 200.00,45,NA,https://www.zomato.com/bangalore/donne-biriyani-mane-basaveshwara-nagar/order
+Chicking,3.7,"Fast Food, Burger, Pizza",¹ 200.00,47,NA,https://www.zomato.com/bangalore/chicking-1-rajajinagar-bangalore/order
+Louis Burger,4.2,"Burger, Fast Food, Beverages, Desserts",¹ 200.00,54,   125 OFF,https://www.zomato.com/bangalore/louis-burger-koramangala-7th-block-bangalore/order
+Ghee and Turmeric,4,"North Indian, Mughlai, Biryani",¹ 200.00,57,40% OFF,https://www.zomato.com/bangalore/ghee-and-turmeric-indiranagar-bangalore/order
+Kullad Cafe,4,"North Indian, Fast Food",¹ 200.00,64,   250 OFF,https://www.zomato.com/bangalore/kullad-cafe-btm/order
+Delicacy,4,"Chinese, Thai, Sichuan, Seafood",¹ 200.00,48,NA,https://www.zomato.com/bangalore/delicacy-frazer-town/order
+Sardarji Londonwaley,4,"North Indian, Chinese, Mughlai, Biryani, Beverages",¹ 200.00,50,60% OFF,https://www.zomato.com/bangalore/sardarji-londonwaley-koramangala-7th-block-bangalore/order
+Biryani Crafts,4,"Biryani, North Indian, Chinese, Seafood, Street Food",¹ 200.00,57,30% OFF,https://www.zomato.com/bangalore/biryani-crafts-btm-bangalore/order
+Grand Paradise,3.4,"North Indian, Biryani, Mughlai, Seafood, Chinese, Street Food",¹ 200.00,64,NA,https://www.zomato.com/bangalore/grand-paradise-btm-bangalore/order
+The Purple Pan,4.2,"North Indian, Mughlai, Oriental, Chinese, Rolls, Beverages",¹ 200.00,45,NA,https://www.zomato.com/thepurplepan/order
+Raidan Restaurant,4.1,"North Indian, Arabian, Chinese, Shawarma, Sichuan, Mughlai",¹ 200.00,44,NA,https://www.zomato.com/bangalore/raidan-restaurant-rt-nagar-bangalore/order
+1947,4.2,"North Indian, Chinese, Biryani, Italian, Street Food, Salad, Desserts, Beverages",¹ 300.00,46,NA,https://www.zomato.com/bangalore/1947-malleshwaram/order
+New Prashanth Hotel,4.3,"Biryani, South Indian, Kebab, Mughlai",¹ 300.00,64,   100 OFF,https://www.zomato.com/bangalore/new-prashanth-hotel-banashankari/order
+Thenga Manga By Chef Pillai,3.9,"South Indian, Kerala",¹ 300.00,35,Free Tender Coconut Water,https://www.zomato.com/bangalore/thenga-manga-by-chef-pillai-brigade-road-bangalore/order
+Biriyani Mane,4.2,"Biryani, Chinese, North Indian, Mughlai, Kebab",¹ 300.00,59,NA,https://www.zomato.com/bangalore/biriyani-mane-jayanagar-bangalore/order
+Banchharam's,4.4,"Mithai, Street Food",¹ 300.00,44,NA,https://www.zomato.com/bangalore/banchharams-ulsoor-bangalore/order
+Indraprastha Restaurant,4.2,"South Indian, North Indian, Chinese, Biryani",¹ 300.00,47,NA,https://www.zomato.com/bangalore/indraprastha-restaurant-vijay-nagar/order
+No.10 Fort Cochin,4.2,"Seafood, Kerala, South Indian",¹ 300.00,34,NA,https://www.zomato.com/bangalore/no-10-fort-cochin-shanti-nagar-bangalore/order
+You Mee,4,"Asian, Sushi, Japanese, Chinese, Desserts, Beverages",¹ 300.00,59,   175 OFF,https://www.zomato.com/bangalore/you-mee-malleshwaram-bangalore/order
+A1 Ambur Chicken Biriyani Point,4,"Biryani, Tamil, Kebab",¹ 300.00,43,NA,https://www.zomato.com/bangalore/a1-ambur-chicken-biriyani-point-yeshwantpur-bangalore/order
+Taj Hotel,4.1,"North Indian, Mughlai, Chinese, South Indian, Afghan",¹ 300.00,34,NA,https://www.zomato.com/bangalore/taj-hotel-shivajinagar/order
+Razakhiya Hotel And Family Restaurant,4,"Rolls, Chinese, North Indian, Seafood, Biryani, Sichuan",¹ 300.00,56,   125 OFF,https://www.zomato.com/bangalore/razakhiya-hotel-and-family-restaurant-hbr-layout-bangalore/order
+Bengali Fun Foods,4.3,"Bengali, North Indian, Biryani, Rolls",¹ 300.00,57,NA,https://www.zomato.com/bangalore/bengali-fun-foods-btm-bangalore/order
+Sagar Hotel,4.3,"North Indian, Chinese, Street Food, Fast Food, South Indian, Juices, Beverages",¹ 150.00,45,NA,https://www.zomato.com/bangalore/sagar-hotel-rajajinagar/order
+Hotel Karavali Food Point,3.7,"Mangalorean, South Indian, North Indian, Chinese",¹ 150.00,49,NA,https://www.zomato.com/bangalore/hotel-karavali-food-point-vijay-nagar/order
+Donne Biryani Kote,3.7,"Biryani, South Indian",¹ 150.00,49,NA,https://www.zomato.com/bangalore/donne-biryani-kote-koramangala-2nd-block-bangalore/order
+Castle Mandi And BBQ'S,3.9,"North Indian, Chinese, Biryani",¹ 150.00,52,NA,https://www.zomato.com/bangalore/castle-mandi-and-bbqs-btm-bangalore/order
+Swiss Cream,3.9,"Ice Cream, Waffle, Desserts, Sandwich, Shake, Beverages",¹ 150.00,39,20% OFF,https://www.zomato.com/bangalore/swiss-cream-shanti-nagar-bangalore/order
+Vishnu Garden,4.2,"South Indian, North Indian, Chinese, Fast Food, Street Food, Ice Cream, Beverages, Shake",¹ 150.00,35,NA,https://www.zomato.com/bangalore/vishnu-garden-rt-nagar/order
+Veg Meals by Lunchbox,4.2,"North Indian, Biryani",¹ 150.00,42,60% OFF,https://www.zomato.com/bangalore/veg-meals-by-lunchbox-shanti-nagar-bangalore/order
+OOttupura,4.2,"Kerala, South Indian, Seafood, Chinese",¹ 150.00,49,NA,https://www.zomato.com/bangalore/oottupura-btm-bangalore/order
+O4H - Order For Health,4.4,"Healthy Food, Salad, Beverages",¹ 150.00,56,30% OFF,https://www.zomato.com/bangalore/o4h-order-for-health-btm-bangalore/order
+"Ovenfresh Pizzas, Cakes and Desserts",4,"Bakery, Desserts, Ice Cream, Mithai, Beverages, Pizza",¹ 150.00,61,40% OFF,https://www.zomato.com/bangalore/ovenfresh-pizzas-cakes-and-desserts-indiranagar-bangalore/order
+Krishnam Veg,4,"South Indian, North Indian, Chinese, Biryani, Street Food, Fast Food, Ice Cream, Beverages",¹ 150.00,26,Flat 20% OFF,https://www.zomato.com/bangalore/krishnam-veg-shanti-nagar-bangalore/order
+Bikaner Sweets,3.7,"Fast Food, Street Food, North Indian, Desserts, Beverages",¹ 150.00,39,NA,https://www.zomato.com/bangalore/bikaner-sweets-majestic-bangalore/order
+Dose Camp Since 1990,4.3,"South Indian, Street Food, Beverages, North Indian",¹ 200.00,31,40% OFF,https://www.zomato.com/bangalore/dose-camp-since-1990-malleshwaram-bangalore/order
+Kolkata Sholoana,3.8,"Bengali, Rolls",¹ 250.00,59,50% OFF,https://www.zomato.com/bangalore/kolkata-sholoana-btm-bangalore/order
+Marwadi Chaat Tiffin Services,3.6,"North Indian, Chinese",¹ 200.00,60,   175 OFF,https://www.zomato.com/bangalore/marwadi-chaat-tiffin-services-rajajinagar-bangalore/order
+Kottayam The Restaurant,3.9,"Kerala, Seafood, South Indian, North Indian, Chinese, Biryani",¹ 350.00,56,30% OFF,https://www.zomato.com/bangalore/kottayam-the-restaurant-koramangala-5th-block-bangalore/order
+Juice Junction,4.1,"Beverages, Juices, Fast Food, Shake",¹ 100.00,46,NA,https://www.zomato.com/bangalore/juice-junction-1-basavanagudi-bangalore/order
+By 2 Coffee,4.4,South Indian,¹ 100.00,34,NA,https://www.zomato.com/bangalore/by-2-coffee-basavanagudi-bangalore/order
+Mealful Rolls - India's Biggest Rolls,4.4,"Rolls, Wraps, North Indian, Fast Food, Desserts, Beverages",¹ 200.00,27,50% OFF,https://www.zomato.com/bangalore/mealful-rolls-indias-biggest-rolls-langford-town-bangalore/order
+Koriken,4.3,"Korean, Asian, Burger",¹ 200.00,43,NA,https://www.zomato.com/bangalore/koriken-2-frazer-town-bangalore/order
+Punjab Grill,4.1,"North Indian, Kebab, Biryani, Mughlai",¹ 800.00,40,   175 OFF,https://www.zomato.com/bangalore/punjab-grill-brigade-road-bangalore/order
+Bhattara Bhojana,4.3,South Indian,¹ 40.00,44,NA,https://www.zomato.com/bangalore/bhattara-bhojana-banashankari/order
+Trattoria by Toscano,4.1,"Pizza, Italian, Pasta, Continental, Desserts, Healthy Food, Beverages, Steak",¹ 300.00,34,40% OFF,https://www.zomato.com/bangalore/trattoria-by-toscano-church-street-bangalore/order
+Five Star New Ambur Biryani,3.4,"Biryani, Fast Food, South Indian",¹ 150.00,53,NA,https://www.zomato.com/bangalore/five-star-new-ambur-biryani-btm-bangalore/order
+The Momo Co.,4,"Momos, Chinese",¹ 250.00,58,Flat 20% OFF,https://www.zomato.com/bangalore/the-momo-co-hosur-road-bangalore/order
+7 Plates,4.1,"North Indian, Mughlai, Arabian, Chinese, Seafood",¹ 250.00,40,NA,https://www.zomato.com/bangalore/7-plates-rt-nagar/order
+Dunkin' - Donuts & Coffee,4.1,"Desserts, Coffee",¹ 250.00,34,40% OFF,https://www.zomato.com/bangalore/dunkin-donuts-coffee-cunningham-road-bangalore/order
+Madras Meal Company,4.2,"South Indian, Chettinad, Tamil",¹ 250.00,40,20% OFF,https://www.zomato.com/bangalore/madras-meal-company-seshadripuram-bangalore/order
+Agrawal's Kitchen,4,"North Indian, Biryani",¹ 250.00,63,50% OFF,https://www.zomato.com/bangalore/agrawals-kitchen-btm-bangalore/order
+Nagarjuna Chimney,4.2,"Andhra, Biryani, North Indian, Desserts, Beverages",¹ 250.00,50,NA,https://www.zomato.com/bangalore/nagarjuna-chimney-jayanagar/order
+Shiv Sagar Signature,4.1,"Sandwich, Pasta",¹ 250.00,47,NA,https://www.zomato.com/bangalore/shiv-sagar-signature-basavanagudi-bangalore/order
+Nano Duzi,4.1,"Chinese, Thai",¹ 250.00,52,NA,https://www.zomato.com/bangalore/nano-duzi-hosur-road-bangalore/order
+Kulfi Shulfi - Bombay Kulfis,4.3,"Ice Cream, Desserts",¹ 250.00,24,NA,https://www.zomato.com/bangalore/kulfi-shulfi-bombay-kulfis-shanti-nagar-bangalore/order
+Madno - House of Sundaes,3.9,"Ice Cream, Desserts, Shake",¹ 250.00,30,20% OFF,https://www.zomato.com/bangalore/madno-house-of-sundaes-brigade-road-bangalore/order
+ITC Sunfeast Baked Creations,4.5,"Bakery, Beverages, Cafe, Desserts, Sandwich, Shake",¹ 250.00,38,30% OFF,https://www.zomato.com/bangalore/itc-sunfeast-baked-creations-commercial-street-bangalore/order
+Hyderabadi Biryani Hub,4,"Hyderabadi, North Indian, Chinese, Mughlai, Biryani, Kebab, Ice Cream, Desserts",¹ 250.00,54,Flat 10% OFF,https://www.zomato.com/bangalore/hyderabadi-biryani-hub-btm/order
+Sri Udupi Grand,4.2,"South Indian, North Indian, Chinese, Street Food, Beverages, Shake",¹ 100.00,24,20% OFF,https://www.zomato.com/bangalore/sri-udupi-grand-shanti-nagar/order
+Momo Zone - The Momo Company,3.9,"Momos, Tibetan, Chinese",¹ 100.00,40,60% OFF,https://www.zomato.com/bangalore/momo-zone-the-momo-company-vasanth-nagar-bangalore/order
+Rolls Kitchen,4.2,"Rolls, Burger, Sandwich",¹ 100.00,22,NA,https://www.zomato.com/bangalore/rolls-kitchen-langford-town-bangalore/order
+Falhari - A Fruitful Habit,4.4,"Healthy Food, Desserts, Beverages, Juices",¹ 100.00,50,Flat 30% OFF,https://www.zomato.com/bangalore/falhari-a-fruitful-habit-hosur-road-bangalore/order
+Burger Seigneur,4.3,"Burger, American, Continental, Fast Food, Desserts, Coffee, Cafe, Beverages",¹ 100.00,32,   100 OFF,https://www.zomato.com/bangalore/burger-seigneur-church-street-bangalore/order
+Nando's- Flame Grilled PERi- PERi Chicken,4.2,"Burger, Healthy Food, Portuguese, Desserts",¹ 100.00,40,   100 OFF,https://www.zomato.com/bangalore/nandos-flame-grilled-peri-peri-chicken-brigade-road-bangalore/order
+Kabab Biryani Corner,3.7,"South Indian, Chinese, North Indian, Biryani, Kebab, Momos, Rolls",¹ 100.00,42,20% OFF,https://www.zomato.com/bangalore/kabab-biryani-corner-richmond-road-bangalore/order
+La Heaven,4.1,Desserts,¹ 100.00,53,NA,https://www.zomato.com/bangalore/la-heaven-frazer-town-bangalore/order
+XO Belgian Waffle,4.2,"Waffle, Desserts, Shake, Beverages",¹ 100.00,49,30% OFF,https://www.zomato.com/bangalore/xo-belgian-waffle-koramangala-5th-block/order
+Shuchi Ruchi,3.9,"South Indian, North Indian, Chinese",¹ 100.00,53,   250 OFF,https://www.zomato.com/bangalore/shuchi-ruchi-malleshwaram/order
+Sunkish Cafe,3.7,"Pizza, Burger, Sandwich, Fast Food, Momos, Shake, Tea, Beverages",¹ 100.00,43,NA,https://www.zomato.com/bangalore/sunkish-cafe-1-rajajinagar-bangalore/order
+Abhiruchi Hotel,3.6,"Andhra, Biryani, North Indian, Chinese",¹ 100.00,68,15% OFF,https://www.zomato.com/bangalore/abhiruchi-hotel-btm-bangalore/order
+Adya Nati Style,3.9,"South Indian, Mughlai, Biryani",¹ 200.00,55,NA,https://www.zomato.com/bangalore/adya-nati-style-vijay-nagar-bangalore/order
+Sattvam,4,"Chinese, Continental",¹ 200.00,53,NA,https://www.zomato.com/bangalore/sattvam-sadashiv-nagar/order
+Andhra Kitchen,3.9,"Andhra, Biryani",¹ 200.00,44,NA,https://www.zomato.com/bangalore/andhra-kitchen-btm/order
+IGP Cakes,4.2,"Bakery, Desserts, Mithai",¹ 200.00,40,60% OFF,https://www.zomato.com/bangalore/igp-cakes-wilson-garden-bangalore/order
+BIGGUYS Wings & More,3.9,"Burger, American, Fast Food, Wraps, Beverages, Shake",¹ 200.00,61,   150 OFF,https://www.zomato.com/bangalore/bigguys-wings-more-btm-bangalore/order
+Karavali Fine Dine,4.3,"North Indian, Biryani, Mughlai, Seafood, Chinese, Hyderabadi",¹ 200.00,47,20% OFF,https://www.zomato.com/bangalore/karavali-fine-dine-koramangala-7th-block-bangalore/order
+Cupcake Bliss Cakes & Desserts,4,"Bakery, Desserts, Ice Cream, Shake",¹ 200.00,40,50% OFF,https://www.zomato.com/bangalore/cupcake-bliss-cakes-desserts-vasanth-nagar-bangalore/order
+Dal Roti,3.8,"North Indian, Chinese",¹ 200.00,63,Free Gulab Jamun [1 Piece],https://www.zomato.com/bangalore/dal-roti-jp-nagar/order
+Homely Aromas,4.5,"North Indian, Chinese",¹ 200.00,55,Flat 30% OFF,https://www.zomato.com/bangalore/homely-aromas-koramangala-2nd-block-bangalore/order
+Indiana Burgers,3.8,"Burger, American, Fast Food, Desserts, Shake, Beverages",¹ 200.00,43,60% OFF,https://www.zomato.com/bangalore/indiana-burgers-vasanth-nagar-bangalore/order
+Raj Donne Biriyani Mane,4.2,"South Indian, Biryani",¹ 200.00,45,30% OFF,https://www.zomato.com/bangalore/raj-donne-biriyani-mane-rajajinagar-bangalore/order
+Haldiram's Sweets and Namkeen,4,"Mithai, South Indian, North Indian, Sandwich, Street Food, Biryani, Beverages",¹ 200.00,47,NA,https://www.zomato.com/bangalore/haldirams-sweets-and-namkeen-malleshwaram-bangalore/order
+Upahara Darshini,4.3,"South Indian, North Indian, Fast Food, Street Food, Ice Cream, Beverages, Chinese",¹ 100.00,48,NA,https://www.zomato.com/bangalore/upahara-darshini-jayanagar/order
+Pizza House,4.2,"Pizza, Fast Food, Burger",¹ 100.00,49,NA,https://www.zomato.com/bangalore/pizza-house-1-rt-nagar-bangalore/order
+Pizza House,4.3,"Burger, Pizza, Street Food, Fast Food, Shake, Beverages, Ice Cream",¹ 100.00,46,NA,https://www.zomato.com/bangalore/pizza-house-frazer-town-bangalore/order
+Biryani Canteen,4.2,"Biryani, North Indian, Chinese",¹ 100.00,43,NA,https://www.zomato.com/bangalore/biryani-canteen-rajajinagar-bangalore/order
+Harley's Fine Baking,4.3,"Bakery, Desserts",¹ 100.00,58,NA,https://www.zomato.com/bangalore/harleys-fine-baking-koramangala-7th-block-bangalore/order
+KC Das,4.2,"Mithai, Street Food, Mishti, Bengali",¹ 100.00,25,NA,https://www.zomato.com/bangalore/kc-das-st-marks-road-bangalore/order
+Caterspoint,4.3,"Sandwich, Salad, Healthy Food, Italian, Fast Food, Continental, Desserts, Beverages",¹ 100.00,54,30% OFF,https://www.zomato.com/bangalore/caterspoint-indiranagar-bangalore/order
+Ganesh Food Joint,4.2,"South Indian, North Indian, Chinese, Fast Food, Desserts, Beverages",¹ 100.00,34,Free Kesari Bath,https://www.zomato.com/bangalore/ganesh-food-joint-frazer-town/order
+Kaati Zone Rolls and Wraps,3.7,"Rolls, Wraps, Fast Food, Desserts, Shake, Beverages",¹ 100.00,38,60% OFF,https://www.zomato.com/bangalore/kaati-zone-rolls-and-wraps-vasanth-nagar-bangalore/order
+Ryu Ramen Co.,4.2,Japanese,¹ 100.00,68,   200 OFF,https://www.zomato.com/bangalore/ryu-ramen-co-koramangala-6th-block-bangalore/order
+Hotel Annapoorna,4.2,"Biryani, South Indian, North Indian, Street Food",¹ 100.00,38,NA,https://www.zomato.com/bangalore/hotel-annapoorna-majestic/order
+Crusto's - Cheese Burst Pizza,4.3,"Healthy Food, Pizza, North Indian, Burger, Biryani, Chinese, Desserts, Beverages",¹ 100.00,39,50% OFF,https://www.zomato.com/bangalore/crustos-cheese-burst-pizza-vasanth-nagar-bangalore/order
+ATH - All Things Healthy!,4.4,"Healthy Food, North Indian, Sandwich, Salad",¹ 150.00,35,30% OFF,https://www.zomato.com/bangalore/ath-all-things-healthy-shanti-nagar-bangalore/order
+Chef Master,4.2,"Biryani, Seafood, Kerala, North Indian, South Indian, Chinese, Beverages",¹ 150.00,46,NA,https://www.zomato.com/bangalore/chef-master-jayanagar-bangalore/order
+Murugan Cafe,4.4,"South Indian, Beverages",¹ 100.00,33,NA,https://www.zomato.com/bangalore/murugan-cafe-shanti-nagar-bangalore/order
+Udupi Aatithya,4.2,"South Indian, North Indian, Chinese, Biryani",¹ 150.00,50,NA,https://www.zomato.com/bangalore/udupi-aatithya-btm-bangalore/order
+Sukh Sagar,4.4,"South Indian, North Indian, Chinese",¹ 200.00,45,NA,https://www.zomato.com/bangalore/sukh-sagar-majestic/order
+Shrinidhi Military Hotel,3.9,"South Indian, Biryani",¹ 150.00,46,NA,https://www.zomato.com/bangalore/shrinidhi-military-hotel-basavanagudi/order
+Asha Food Camp,4.2,"Chinese, Sandwich, South Indian, North Indian, Desserts, Beverages",¹ 300.00,44,NA,https://www.zomato.com/bangalore/asha-food-camp-malleshwaram/order
+Raata Multicuisine Restaurant,4,"South Indian, Arabian",¹ 150.00,53,NA,https://www.zomato.com/bangalore/raata-multicuisine-restaurant-basaveshwara-nagar-bangalore/order
+NOTO - Ice Creams & Desserts,4.2,"Ice Cream, Desserts",¹ 100.00,29,20% OFF,https://www.zomato.com/bangalore/noto-ice-creams-desserts-richmond-road-bangalore/order
+Blue Tokai Coffee Roasters,4.2,"Cafe, Coffee, Beverages",¹ 250.00,34,10% OFF,https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-infantry-road-bangalore/order
+Just Shawarma,4.1,"Shawarma, Fast Food, Beverages, Lebanese",¹ 150.00,49,20% OFF,https://www.zomato.com/bangalore/just-shawarma-jayanagar/order
+RS Shiv Sagar,4.1,"North Indian, Chinese, Sandwich, Beverages, Desserts, South Indian, Street Food, Mexican",¹ 400.00,38,NA,https://www.zomato.com/bangalore/rs-shiv-sagar-mg-road/order
+Taste Of Malabar,4.3,"Kerala, South Indian",¹ 150.00,50,NA,https://www.zomato.com/bangalore/taste-of-malabar-btm-bangalore/order
+Restaurant Chef Pillai,4.2,Kerala,¹ 150.00,33,Free Seasonal Fresh Juices,https://www.zomato.com/bangalore/restaurant-chef-pillai-brigade-road-bangalore/order
+Sri Srinivas Pork Hotel,3.2,Fast Food,¹ 150.00,43,NA,https://www.zomato.com/bangalore/sri-srinivas-pork-hotel-ejipura-bangalore/order
+Hotel Karavali,4.1,"Mangalorean, Seafood, North Indian, South Indian, Chinese",¹ 150.00,31,NA,https://www.zomato.com/bangalore/hotel-karavali-residency-road-bangalore/order
+Red Bucket Biryani,3.6,"Biryani, North Indian",¹ 150.00,51,NA,https://www.zomato.com/bangalore/red-bucket-biryani-btm-bangalore/order
+Anand Sweets And Savouries,4.4,"Mithai, North Indian, Fast Food, Street Food",¹ 150.00,39,NA,https://www.zomato.com/bangalore/anand-sweets-and-savouries-1-rajajinagar-bangalore/order
+Chinita Real Mexican Food,4.4,"Mexican, Salad, Desserts, Beverages",¹ 150.00,56,50% OFF,https://www.zomato.com/bangalore/chinita-real-mexican-food-indiranagar/order
+Donne Biryani House,3.3,"Biryani, South Indian, Kebab",¹ 150.00,49,50% OFF,https://www.zomato.com/bangalore/donne-biryani-house-vijay-nagar-bangalore/order
+Sagar Fast Food,4.2,"South Indian, North Indian, Street Food, Chinese, Beverages, Shake",¹ 150.00,53,NA,https://www.zomato.com/bangalore/sagar-fast-food-koramangala-8th-block/order
+Bucket Biryani,4.2,"Biryani, North Indian, Mughlai, Chinese, Seafood, Kebab",¹ 150.00,29,NA,https://www.zomato.com/bangalore/bucket-biryani-brigade-road-bangalore/order
+Keventers Ice Cream,4.2,"Ice Cream, Desserts",¹ 150.00,35,40% OFF,https://www.zomato.com/bangalore/keventers-ice-cream-brigade-road-bangalore/order
+Thom's Bakery - Since 1970,4.4,"Bakery, Fast Food",¹ 150.00,43,20% OFF,https://www.zomato.com/bangalore/thoms-bakery-since-1970-frazer-town-bangalore/order
+Swad Punjab Da,4.2,North Indian,¹ 200.00,56,NA,https://www.zomato.com/bangalore/swad-punjab-da-btm/order
+Dawat Durbar,3.9,"North Indian, Chinese, Mughlai",¹ 200.00,43,25% OFF,https://www.zomato.com/bangalore/dawat-durbar-shivajinagar-bangalore/order
+Udupi Sagar,3.8,"South Indian, North Indian, Chinese, Juices, Beverages, Shake",¹ 200.00,32,NA,https://www.zomato.com/bangalore/udupi-sagar-city-market-bangalore/order
+Raghavendra Tiffin,4.1,"Chinese, South Indian",¹ 200.00,56,NA,https://www.zomato.com/bangalore/raghavendra-tiffin-koramangala-1st-block-bangalore/order
+Salads Point,4.5,"Salad, Healthy Food, Juices, Beverages",¹ 200.00,55,   100 OFF,https://www.zomato.com/bangalore/salads-point-indiranagar-bangalore/order
+Chikpet Donne Biriyani House,4.3,"South Indian, Biryani",¹ 200.00,33,NA,https://www.zomato.com/bangalore/chikpet-donne-biriyani-house-seshadripuram-bangalore/order
+Bake and Juice,3.9,"Arabian, Sandwich, Burger, Biryani, Lebanese, Beverages, Juices, Shake",¹ 200.00,57,50% OFF,https://www.zomato.com/bangalore/bake-and-juice-hosur-road-bangalore/order
+Marwadi Chaat Tiffin Services,3.4,"North Indian, Street Food, Chinese",¹ 200.00,71,40% OFF,https://www.zomato.com/bangalore/marwadi-chaat-tiffin-services-btm-bangalore/order
+The Salad Studio,4.2,"Salad, Healthy Food",¹ 200.00,54,NA,https://www.zomato.com/bangalore/the-salad-studio-indiranagar-bangalore/order
+Naidu Biryani Palace,3.5,"Biryani, South Indian, North Indian",¹ 200.00,50,50% OFF,https://www.zomato.com/bangalore/naidu-biryani-palace-basaveshwara-nagar-bangalore/order
+Sri Krishna Sagar,4.1,"South Indian, North Indian, Chinese, Street Food, Desserts, Sandwich, Shake, Beverages",¹ 200.00,62,NA,https://www.zomato.com/bangalore/sri-krishna-sagar-koramangala-6th-block-bangalore/order
+China Pearl,4.3,"Chinese, North Indian, Seafood, Fast Food, Sichuan, Desserts, Beverages",¹ 200.00,61,NA,https://www.zomato.com/bangalore/china-pearl-koramangala-6th-block/order
+Shanthi Sagar,3.7,"South Indian, North Indian, Chinese, Biryani, Beverages",¹ 100.00,58,NA,https://www.zomato.com/bangalore/shanthi-sagar-jp-nagar/order
+Rolls And Chicken Combos,3.5,"North Indian, Chinese, Rolls",¹ 100.00,40,NA,https://www.zomato.com/bangalore/rolls-and-chicken-combos-shanti-nagar-bangalore/order
+Captain Olive,4.2,"Burger, Sandwich, Wraps, Fast Food",¹ 100.00,62,   125 OFF,https://www.zomato.com/bangalore/captain-olive-btm-bangalore/order
+Hotel Prakruthi,4.1,"South Indian, Biryani",¹ 100.00,44,NA,https://www.zomato.com/bangalore/hotel-prakruthi-vijay-nagar/order
+The Deagh,4,"Biryani, Shawarma, North Indian, Mughlai, Arabian, Seafood",¹ 100.00,42,NA,https://www.zomato.com/bangalore/the-deagh-frazer-town/order
+SLV Corner Restaurant,4.3,"South Indian, North Indian, Street Food, Chinese, Beverages",¹ 100.00,40,NA,https://www.zomato.com/bangalore/slv-corner-restaurant-basavanagudi/order
+IBC (Indian Biryani Company),4,"Biryani, North Indian, Mughlai",¹ 100.00,58,NA,https://www.zomato.com/bangalore/ibc-indian-biryani-company-koramangala-5th-block-bangalore/order
+Rajathagiri Palace,4.1,"South Indian, Chinese, Juices, Shake, Beverages",¹ 100.00,55,Free Buttermilk,https://www.zomato.com/bangalore/rajathagiri-palace-jp-nagar-bangalore/order
+Sri Krishna Sweets,4.3,"Mithai, Desserts",¹ 100.00,36,NA,https://www.zomato.com/bangalore/sri-krishna-sweets-malleshwaram/order
+Firangi Bake,3.8,"Italian, Mexican, Pasta",¹ 100.00,34,   150 OFF,https://www.zomato.com/bangalore/firangi-bake-1-shanti-nagar-bangalore/order
+Go Zero - Ice Creams & Desserts,4.3,"Ice Cream, Desserts, Healthy Food",¹ 100.00,39,   200 OFF,https://www.zomato.com/bangalore/go-zero-ice-creams-desserts-jayanagar-bangalore/order
+Sorbetto,4.4,"Ice Cream, Desserts",¹ 100.00,51,Flat 15% OFF,https://www.zomato.com/bangalore/sorbetto-koramangala-6th-block-bangalore/order
+Santhanam Sweets & Savouries,4.4,"Mithai, Street Food",¹ 100.00,34,NA,https://www.zomato.com/bangalore/santhanam-sweets-savouries-commercial-street-bangalore/order
+Candice's Gourmet Sandwiches,4.5,"Sandwich, Salad, American, Wraps, Desserts, Beverages",¹ 100.00,57,50% OFF,https://www.zomato.com/bangalore/candices-gourmet-sandwiches-indiranagar-bangalore/order
+Rasotsav,4.2,"North Indian, Rajasthani",¹ 100.00,52,NA,https://www.zomato.com/bangalore/rasotsav-majestic-bangalore/order
+Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,4,"South Indian, Mithai",¹ 100.00,42,NA,https://www.zomato.com/bangalore/uttara-karnataka-jolada-rotti-mattu-chapati-angadi-basavanagudi-bangalore/order
+Prakriti Delux,3.8,"Biryani, North Indian, South Indian",¹ 100.00,44,NA,https://www.zomato.com/bangalore/prakriti-delux-rajajinagar-bangalore/order
+Sweet Chariot Cafe,4.4,"Bakery, Desserts, Fast Food",¹ 100.00,21,NA,https://www.zomato.com/bangalore/sweet-chariot-cafe-residency-road/order
+Sri Udupi Utsav,3.8,"South Indian, Chinese, North Indian, Biryani, Street Food, Ice Cream, Desserts, Beverages",¹ 100.00,44,NA,https://www.zomato.com/bangalore/sri-udupi-utsav-koramangala-8th-block-bangalore/order
+Bheema's,4.2,"Andhra, Biryani, South Indian",¹ 100.00,30,NA,https://www.zomato.com/bangalore/bheemas-church-street/order
+Litti Twist,4.3,"North Indian, Bihari, Street Food, Chinese, Desserts, Beverages",¹ 100.00,55,50% OFF,https://www.zomato.com/bangalore/litti-twist-btm/order
+Ragoo's Kitchen,4.1,"Mangalorean, Chinese, North Indian, Biryani, Seafood, Kebab",¹ 100.00,52,30% OFF,https://www.zomato.com/bangalore/ragoos-kitchen-rajajinagar-bangalore/order
+Al Zara Mandi Arabian Restaurant,4.1,"North Indian, Mandi, Mughlai, Kebab, Desserts",¹ 100.00,43,NA,https://www.zomato.com/bangalore/al-zara-mandi-arabian-restaurant-frazer-town-bangalore/order
+New Alameen Restaurant,3.4,"Biryani, Kerala, North Indian, Chinese",¹ 100.00,40,50% OFF,https://www.zomato.com/bangalore/new-alameen-restaurant-ulsoor-bangalore/order
+Boss Burger,4.2,"Burger, Fast Food, American, Finger Food, Desserts, Beverages, Continental",¹ 300.00,32,50% OFF,https://www.zomato.com/bangalore/boss-burger-lavelle-road-bangalore/order
+Oh! Calcutta,4.4,"Bengali, Finger Food, Seafood, Biryani, Mughlai",¹ 300.00,35,NA,https://www.zomato.com/bangalore/oh-calcutta-church-street-bangalore/order
+The Bengal Club,4.2,"Bengali, Biryani, Rolls",¹ 300.00,49,NA,https://www.zomato.com/bangalore/the-bengal-club-domlur-bangalore/order
+Kadamba Samrat,4,"South Indian, North Indian, Biryani, Chinese, Street Food, Juices",¹ 300.00,42,NA,https://www.zomato.com/bangalore/kadamba-samrat-vijay-nagar-bangalore/order
+Pai Vihar,4.1,"South Indian, Street Food, Chinese, North Indian, Biryani, Fast Food, Desserts, Beverages",¹ 300.00,30,NA,https://www.zomato.com/bangalore/pai-vihar-city-market/order
+Texas Burgers,3.7,Burger,¹ 300.00,NA,NA,https://www.zomato.com/bangalore/texas-burgers-thippasandra-bangalore/order
+Ultimate Punjabi,4.2,"North Indian, Chinese, Sichuan",¹ 300.00,57,40% OFF,https://www.zomato.com/bangalore/ultimate-punjabi-btm-bangalore/order
+Sree Krishna Kafe,4.3,"South Indian, Beverages",¹ 300.00,50,NA,https://www.zomato.com/bangalore/sree-krishna-kafe-koramangala-5th-block/order
+New Prashanth Hotel,4.3,"South Indian, Biryani",¹ 300.00,46,20% OFF,https://www.zomato.com/bangalore/new-prashanth-hotel-rajajinagar-bangalore/order
+Malgudi Mylari Mane,4.3,"South Indian, Biryani",¹ 300.00,53,   100 OFF,https://www.zomato.com/bangalore/malgudi-mylari-mane-1-koramangala-5th-block-bangalore/order
+Sree Banashankari Donne Biriyani,4.1,"Biryani, South Indian",¹ 300.00,42,   125 OFF,https://www.zomato.com/bangalore/sree-banashankari-donne-biriyani-basaveshwara-nagar-bangalore/order
+Vrindavan Kitchen,3.8,"North Indian, Street Food, Shake, Ice Cream, Beverages",¹ 300.00,58,NA,https://www.zomato.com/bangalore/vrindavan-kitchen-1-rajajinagar-bangalore/order
+Suryawanshi,4.1,"North Indian, Maharashtrian, Malwani, Street Food, Mughlai, Seafood, Desserts, Beverages",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/suryawanshi-indiranagar/order
+Udupi Upahar Veg Restuarant,4.1,"North Indian, South Indian, Fast Food, Chinese, Ice Cream, Beverages, Shake, Sichuan",¹ 200.00,44,NA,https://www.zomato.com/bangalore/udupi-upahar-veg-restuarant-rt-nagar-bangalore/order
+Rolls Mania,4.1,Rolls,¹ 200.00,31,NA,https://www.zomato.com/bangalore/rolls-mania-st-marks-road-bangalore/order
+Delicious Momos,4.3,"Chinese, Momos, Sichuan",¹ 200.00,64,NA,https://www.zomato.com/bangalore/delicious-momos-kammanahalli/order
+Marenahalli Donne Biriyani,4.3,"Biryani, Fast Food",¹ 200.00,51,NA,https://www.zomato.com/bangalore/marenahalli-donne-biriyani-jp-nagar-bangalore/order
+Karavali Lunch Home,4.1,"Seafood, Mangalorean",¹ 200.00,43,NA,https://www.zomato.com/bangalore/karavali-lunch-home-malleshwaram/order
+Ghar Ka Khana,4.3,North Indian,¹ 200.00,60,   200 OFF,https://www.zomato.com/bangalore/ghar-ka-khana-btm-bangalore/order
+Kaippunnyam Restaurant,4.1,"Kerala, Biryani, North Indian",¹ 200.00,36,Free Tender Coconut Pudding,https://www.zomato.com/bangalore/kaippunnyam-restaurant-1-brigade-road-bangalore/order
+Mainland China,4.1,"Chinese, Sushi, Seafood, Asian, Japanese, Beverages",¹ 200.00,40,NA,https://www.zomato.com/bangalore/mainland-china-1-church-street-bangalore/order
+BAKASURA NATI UTA,3.8,"South Indian, Biryani, North Indian, Chinese",¹ 200.00,39,NA,https://www.zomato.com/bangalore/bakasura-nati-uta-rajajinagar-bangalore/order
+Donne Biryani Zone,3.4,"North Indian, South Indian, Biryani, Chinese",¹ 200.00,49,50% OFF,https://www.zomato.com/bangalore/donne-biryani-zone-basaveshwara-nagar-bangalore/order
+Hola Pasta - Fresh Gourmet Pasta,4,"Pasta, Fast Food",¹ 200.00,25,50% OFF,https://www.zomato.com/bangalore/hola-pasta-fresh-gourmet-pasta-langford-town-bangalore/order
+Shawarma Time,3.6,"Shawarma, Arabian, Rolls",¹ 100.00,39,NA,https://www.zomato.com/bangalore/shawarma-time-rt-nagar-bangalore/order
+Polamma's Mess,4.3,"Andhra, Biryani, South Indian, Chinese, North Indian",¹ 100.00,43,NA,https://www.zomato.com/bangalore/polammas-mess-btm/order
+Hotel Moonlight,4.1,"North Indian, Mughlai, Chinese",¹ 100.00,41,NA,https://www.zomato.com/bangalore/hotel-moonlight-1-malleshwaram/order
+Dear Tummy,3.9,"Cafe, Continental",¹ 100.00,42,NA,https://www.zomato.com/bangalore/dear-tummy-church-street-bangalore/order
+Grill Daddy,4.3,"Continental, Pizza, Burger, Sandwich, Steak, Desserts, Shake, Beverages",¹ 100.00,70,30% OFF,https://www.zomato.com/bangalore/grill-daddy-koramangala-1st-block-bangalore/order
+Halli Mane Donne Biriyani,4,"North Indian, Biryani, BBQ",¹ 100.00,46,NA,https://www.zomato.com/bangalore/halli-mane-donne-biriyani-rajajinagar-bangalore/order
+Shetty Lunch Home,4.4,"Mangalorean, North Indian, Biryani, Chinese",¹ 100.00,48,NA,https://www.zomato.com/bangalore/shetty-lunch-home-sadashiv-nagar-bangalore/order
+Suguna Kabab Corner,4.4,"Biryani, Kebab, South Indian",¹ 100.00,42,NA,https://www.zomato.com/bangalore/suguna-kabab-corner-vijay-nagar-bangalore/order
+Express By ABs,4.3,"Biryani, BBQ, Kebab, North Indian, Desserts",¹ 100.00,49,40% OFF,https://www.zomato.com/bangalore/express-by-abs-koramangala-5th-block-bangalore/order
+Bihari Bowl,3.8,Bihari,¹ 100.00,40,30% OFF,https://www.zomato.com/bangalore/bihari-bowl-infantry-road-bangalore/order
+Thaliwalaa.com,4,"North Indian, Beverages, Chinese",¹ 100.00,63,NA,https://www.zomato.com/bangalore/thaliwalaa-com-btm-bangalore/order
+Bengaluru Donne Biriyani Katte,4.2,"Biryani, South Indian",¹ 100.00,36,NA,https://www.zomato.com/bangalore/bengaluru-donne-biriyani-katte-majestic-bangalore/order
+Indus Family Restaurant,4,"North Indian, Biryani, Chinese",¹ 200.00,55,NA,https://www.zomato.com/bangalore/indus-family-restaurant-btm/order
+Punjabi Dhaba,4.1,"North Indian, Chinese, Mughlai",¹ 200.00,39,20% OFF,https://www.zomato.com/bangalore/punjabi-dhaba-majestic/order
+Sri Venkateshwara Sweet Meat Stall,4.3,"Mithai, Street Food, Fast Food, North Indian",¹ 200.00,40,NA,https://www.zomato.com/bangalore/sri-venkateshwara-sweet-meat-stall-basavanagudi/order
+Green Onion,4.3,"Chinese, Asian, Seafood, Sichuan",¹ 200.00,31,NA,https://www.zomato.com/bangalore/green-onion-residency-road/order
+Prasuma Momo Kitchen,4.3,"Momos, Chinese, Asian, Japanese, Tibetan, Street Food, Finger Food, Beverages",¹ 200.00,51,   150 OFF,https://www.zomato.com/bangalore/prasuma-momo-kitchen-koramangala-7th-block-bangalore/order
+Shahi Family Restaurant,3.3,"Biryani, Kerala, North Indian, Chinese",¹ 200.00,39,50% OFF,https://www.zomato.com/bangalore/shahi-family-restaurant-ulsoor-bangalore/order
+Mangaluru Kairuchi,4,"Mangalorean, Seafood",¹ 200.00,60,10% OFF,https://www.zomato.com/bangalore/mangaluru-kairuchi-btm-bangalore/order
+Al Taza,4.2,"Shawarma, Lebanese",¹ 200.00,54,10% OFF,https://www.zomato.com/bangalore/al-taza-koramangala-1st-block-bangalore/order
+Arambam-Start with Millet,3.8,"South Indian, Healthy Food, Beverages",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/arambam-start-with-millet-indiranagar-bangalore/order
+Mane Holige Kuruku Thindi,4.3,Mithai,¹ 200.00,54,NA,https://www.zomato.com/bangalore/mane-holige-kuruku-thindi-jayanagar-bangalore/order
+Salt - Indian Restaurant Bar & Grill,4.2,"North Indian, BBQ, Biryani, Mughlai, Seafood, Beverages, Desserts",¹ 200.00,28,40% OFF,https://www.zomato.com/bangalore/salt-indian-restaurant-bar-grill-lavelle-road-bangalore/order
+Garden Fresh,4.2,"Juices, Beverages",¹ 200.00,59,NA,https://www.zomato.com/bangalore/garden-fresh-btm/order
+The Hole In The Wall Cafe,4.3,"Cafe, Continental, Burger, Sandwich, Shake, Beverages, Desserts",¹ 200.00,54,NA,https://www.zomato.com/bangalore/the-hole-in-the-wall-cafe-koramangala-4th-block-bangalore/order
+1522 - The Pub,4.1,"Sandwich, Chinese, North Indian, Continental, Finger Food, Seafood, Beverages, BBQ",¹ 200.00,39,NA,https://www.zomato.com/bangalore/1522-the-pub-residency-road-bangalore/order
+Pizza 'N' Burger Bites,3.6,"Pizza, Burger, Sandwich",¹ 200.00,47,NA,https://www.zomato.com/bangalore/pizza-n-burger-bites-rajajinagar-bangalore/order
+Burger It Up,3.9,"Burger, American, Fast Food, Desserts, Shake, Beverages",¹ 200.00,39,60% OFF,https://www.zomato.com/bangalore/burger-it-up-vasanth-nagar-bangalore/order
+Shri Krishna Vaibhava,4,"North Indian, South Indian, Chinese, Sandwich, Biryani, Street Food, Beverages",¹ 200.00,50,NA,https://www.zomato.com/bangalore/shri-krishna-vaibhava-basaveshwara-nagar-bangalore/order
+Amar Rannaghor,4.1,"Bengali, Mishti",¹ 200.00,63,50% OFF,https://www.zomato.com/bangalore/amar-rannaghor-btm-bangalore/order
+Venu's Donne Biriyani,4.4,"Biryani, Fast Food",¹ 200.00,48,NA,https://www.zomato.com/bangalore/venus-donne-biriyani-btm-bangalore/order
+Ranganna Military Hotel,4.1,South Indian,¹ 200.00,51,NA,https://www.zomato.com/bangalore/ranganna-military-hotel-jayanagar/order
+Brownie Bites,4,"Chinese, Fast Food, Momos, Sandwich, Ice Cream, Desserts, Beverages, Sichuan",¹ 200.00,49,20% OFF,https://www.zomato.com/bangalore/brownie-bites-rajajinagar-bangalore/order
+Sri Ganesha Bombay Vada Pav Corner,4.4,Street Food,¹ 200.00,35,NA,https://www.zomato.com/bangalore/sri-ganesha-bombay-vada-pav-corner-seshadripuram-bangalore/order
+Holige Mane,4.3,"Mithai, Street Food",¹ 200.00,56,NA,https://www.zomato.com/bangalore/holige-mane-jayanagar-bangalore/order
+Bathinda Junction,4.2,"North Indian, Kebab, Street Food, Desserts, Beverages",¹ 200.00,55,NA,https://www.zomato.com/bangalore/bathinda-junction-koramangala-7th-block-bangalore/order
+C. K. Mega Hot Food,4.1,"Chinese, Seafood, Sichuan",¹ 200.00,59,NA,https://www.zomato.com/bangalore/c-k-mega-hot-food-btm/order
+South Delicacy,3.9,"South Indian, North Indian, Chinese, Biryani, Ice Cream, Juices, Shake, Beverages",¹ 200.00,46,30% OFF,https://www.zomato.com/bangalore/south-delicacy-rajajinagar-bangalore/order
+Plan B,4.1,"American, Continental, Burger, Pizza, Tex-Mex, Fast Food",¹ 200.00,39,   150 OFF,https://www.zomato.com/bangalore/plan-b-brigade-road/order
+No Sugar Please!,4.1,"Beverages, Juices, Healthy Food",¹ 200.00,47,50% OFF,https://www.zomato.com/bangalore/no-sugar-please-malleshwaram-bangalore/order
+Namo Andhra,4.1,Andhra,¹ 200.00,53,20% OFF,https://www.zomato.com/bangalore/namo-andhra-koramangala-6th-block-bangalore/order
+Khaomomo,4.2,"Momos, Chinese, Tibetan",¹ 200.00,57,NA,https://www.zomato.com/bangalore/khaomomo-domlur-bangalore/order
+Chai Days,4.3,"Tea, Beverages, Street Food",¹ 200.00,47,40% OFF,https://www.zomato.com/bangalore/chai-days-koramangala-5th-block-bangalore/order
+Chettinad Food House,3.9,"South Indian, Chettinad, North Indian, Chinese",¹ 200.00,54,NA,https://www.zomato.com/bangalore/chettinad-food-house-1-btm/order
+Rotti Mane,4.2,South Indian,¹ 200.00,55,NA,https://www.zomato.com/bangalore/rotti-mane-jayanagar/order
+The Ganache Factory,4.3,"Bakery, Desserts",¹ 200.00,59,   150 OFF,https://www.zomato.com/bangalore/the-ganache-factory-domlur-bangalore/order
+Sree Venkateswara Foods & SVSS Biryani,4.2,"Biryani, North Indian, Chinese, Street Food, Seafood",¹ 200.00,50,NA,https://www.zomato.com/bangalore/sree-venkateswara-foods-svss-biryani-indiranagar-bangalore/order
+India Sweet House,4.2,Mithai,¹ 200.00,45,30% OFF,https://www.zomato.com/bangalore/india-sweet-house-1-city-market-bangalore/order
+Boba Tree,4.2,"Cafe, Beverages, Bubble Tea, Pizza, Burger, Fast Food, Desserts",¹ 250.00,53,NA,https://www.zomato.com/bangalore/boba-tree-1-indiranagar-bangalore/order
+The Lassi Corner,3.4,"Beverages, Sandwich, Wraps, Fast Food, Burger, Desserts, Ice Cream, Shake",¹ 250.00,52,NA,https://www.zomato.com/bangalore/the-lassi-corner-koramangala-7th-block-bangalore/order
+Rahhams,4.3,"Biryani, North Indian, Mughlai, Chinese, Kebab, Arabian",¹ 250.00,44,NA,https://www.zomato.com/bangalore/rahhams-frazer-town-bangalore/order
+GetAWay - Ice Creams & Desserts,4.1,"Ice Cream, Healthy Food, Desserts, Bakery",¹ 250.00,45,40% OFF,https://www.zomato.com/bangalore/getaway-ice-creams-desserts-domlur-bangalore/order
+Mega Biryani,3.7,Biryani,¹ 250.00,39,   200 OFF,https://www.zomato.com/bangalore/mega-biryani-frazer-town-bangalore/order
+The Rice Bowl,4.2,"Asian, Chinese, Sichuan, Seafood, Desserts",¹ 250.00,28,NA,https://www.zomato.com/bangalore/the-rice-bowl-1-lavelle-road/order
+Uttarakarnataka Jolada Rotti Mane,4,South Indian,¹ 250.00,50,NA,https://www.zomato.com/bangalore/uttarakarnataka-jolada-rotti-mane-banashankari-bangalore/order
+Tandoori Knight,3.8,"North Indian, Chinese",¹ 250.00,58,50% OFF,https://www.zomato.com/bangalore/tandoori-knight-banashankari/order
+Uttara Karnataka Jolada Rotti Mattu Chapati Angadi,3.4,"South Indian, Street Food, Desserts",¹ 250.00,40,NA,https://www.zomato.com/bangalore/uttara-karnataka-jolada-rotti-mattu-chapati-angadi-wilson-garden-bangalore/order
+Kamat Bugle Rock,4.3,"South Indian, Fast Food, Chinese, Street Food, North Indian, Desserts, Beverages",¹ 250.00,48,NA,https://www.zomato.com/bangalore/kamat-bugle-rock-basavanagudi/order
+Prasidhi Food Corner,4.3,South Indian,¹ 250.00,55,NA,https://www.zomato.com/bangalore/prasidhi-food-corner-jp-nagar-bangalore/order
+Pizza Galleria,4,"Pizza, Burger, Sandwich, Fast Food, Shake, Beverages, Wraps",¹ 250.00,43,NA,https://www.zomato.com/bangalore/pizza-galleria-basavanagudi-bangalore/order
+MISU,4.3,"Asian, Chinese, Thai, Japanese",¹ 550.00,35,   200 OFF,https://www.zomato.com/bangalore/misu-st-marks-road-bangalore/order
+Tibetan Mother's Kitchen,3.9,"Tibetan, Chinese, Asian, Momos, Sichuan",¹ 550.00,54,NA,https://www.zomato.com/bangalore/tibetan-mothers-kitchen-koramangala-7th-block/order
+Donne Biryani,3.7,"Biryani, South Indian",¹ 550.00,48,NA,https://www.zomato.com/bangalore/donne-biryani-btm-bangalore/order
+Uttara Karnatakada Gama Gama,4.3,South Indian,¹ 550.00,48,NA,https://www.zomato.com/bangalore/uttara-karnatakada-gama-gama-basavanagudi-bangalore/order
+Cookie Man,4.3,"Desserts, Bakery",¹ 550.00,32,   125 OFF,https://www.zomato.com/bangalore/cookie-man-brigade-road/order
+Beegara Mane Baadoota,4.1,"South Indian, Mughlai, Biryani, Street Food",¹ 550.00,42,NA,https://www.zomato.com/bangalore/beegara-mane-baadoota-rajajinagar-bangalore/order
+Kabab Magic Roll,4,"Chinese, Fast Food, Rolls, BBQ, North Indian",¹ 550.00,44,30% OFF,https://www.zomato.com/bangalore/kabab-magic-roll-1-richmond-road-bangalore/order
+Karunadu Awesome Foods,4.1,South Indian,¹ 550.00,55,NA,https://www.zomato.com/bangalore/karunadu-awesome-foods-3-btm-bangalore/order
+Karama Restaurant,4.1,"Kashmiri, Mughlai, Arabian, BBQ, Seafood, Biryani, North Indian, Desserts",¹ 550.00,47,Flat 10% OFF,https://www.zomato.com/bangalore/karama-restaurant-frazer-town/order
+Dhanraj Ji Chole Bhature,4.1,"North Indian, Beverages, Desserts",¹ 550.00,53,20% OFF,https://www.zomato.com/bangalore/dhanraj-ji-chole-bhature-koramangala-7th-block-bangalore/order
+Slay Coffee Bar,3.9,"Cafe, Coffee, Beverages, Fast Food, Sandwich, Burger",¹ 550.00,42,20% OFF,https://www.zomato.com/bangalore/slay-coffee-bar-ulsoor-bangalore/order
+The Food Corner,4.3,"Chinese, North Indian, Street Food, Fast Food, Beverages, Rolls, Sandwich, Sichuan",¹ 550.00,34,NA,https://www.zomato.com/bangalore/the-food-corner-vasanth-nagar-bangalore/order
+New Krishna Sagar,3.5,"South Indian, North Indian, Chinese, Beverages",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/new-krishna-sagar-indiranagar/order
+Thalassery Restaurant,4.1,"Kerala, South Indian",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/thalassery-restaurant-airport-road-bangalore/order
+Thalairaj Biryani,4.2,"Andhra, Biryani, Hyderabadi, South Indian, Beverages",¹ 100.00,NA,50% OFF,https://www.zomato.com/bangalore/thalairaj-biryani-indiranagar-bangalore/order
+Rotti Walla,3.6,"North Indian, South Indian, Chinese, Mughlai, Biryani, Fast Food, Beverages, Desserts",¹ 100.00,NA,   100 OFF,https://www.zomato.com/bangalore/rotti-walla-jeevan-bhima-nagar-bangalore/order
+Natraj Chole Bhature,4.2,"North Indian, Street Food, Desserts",¹ 100.00,NA,Flat 20% OFF,https://www.zomato.com/bangalore/natraj-chole-bhature-indiranagar-bangalore/order
+Donne Biryani Adda,3.5,"Biryani, South Indian",¹ 100.00,NA,   100 OFF,https://www.zomato.com/bangalore/donne-biryani-adda-jeevan-bhima-nagar-bangalore/order
+M.M.A Kabab and Rolls,3.5,"North Indian, Mughlai, Chinese, Kebab, Rolls, Seafood, Arabian, Biryani",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/m-m-a-kabab-and-rolls-old-madras-road-bangalore/order
+New Udupi Garden,3.9,"South Indian, North Indian, Chinese, Salad, Biryani, Ice Cream, Shake, Beverages",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/new-udupi-garden-airport-road-bangalore/order
+Madras Curd Rice Company,3.9,South Indian,¹ 100.00,NA,NA,https://www.zomato.com/bangalore/madras-curd-rice-company-indiranagar-bangalore/order
+Sannidhi Grand,4,"South Indian, North Indian, Street Food, Chinese, Beverages",¹ 100.00,NA,60% OFF,https://www.zomato.com/bangalore/sannidhi-grand-kammanahalli/order
+Dil Punjabi Daily,3.7,North Indian,¹ 100.00,NA,40% OFF,https://www.zomato.com/bangalore/dil-punjabi-daily-kammanahalli-bangalore/order
+Apsara Ice Creams,4.5,"Ice Cream, Desserts",¹ 100.00,NA,   125 OFF,https://www.zomato.com/bangalore/apsara-ice-creams-indiranagar-bangalore/order
+Gowda's Nati Cafe,3.4,"Biryani, South Indian, Chinese",¹ 150.00,58,NA,https://www.zomato.com/bangalore/gowdas-nati-cafe-1-btm-bangalore/order
+Sundae Everyday Ice Creams,3.3,"Ice Cream, Desserts, Shake",¹ 150.00,35,50% OFF,https://www.zomato.com/bangalore/sundae-everyday-ice-creams-vasanth-nagar-bangalore/order
+New Rajanna Military Hotel,4,"Biryani, South Indian",¹ 150.00,42,NA,https://www.zomato.com/bangalore/new-rajanna-military-hotel-rajajinagar-bangalore/order
+Gowda's Donne Biriyani,4.2,"Biryani, Chinese, North Indian, Mughlai",¹ 150.00,46,NA,https://www.zomato.com/bangalore/gowdas-donne-biriyani-2-rt-nagar-bangalore/order
+Mubarak Restaurant,4.1,"North Indian, Chinese, Kebab, Sichuan",¹ 150.00,44,NA,https://www.zomato.com/bangalore/mubarak-restaurant-rajajinagar-bangalore/order
+Kairali,4.3,"South Indian, Seafood, Biryani",¹ 150.00,51,NA,https://www.zomato.com/bangalore/kairali-btm-bangalore/order
+Panchami,4.1,"North Indian, Chinese, Street Food, Fast Food, Juices, Shake",¹ 150.00,49,NA,https://www.zomato.com/bangalore/panchami-banashankari/order
+Nisarga Grand,4,"South Indian, Beverages",¹ 150.00,38,NA,https://www.zomato.com/bangalore/nisarga-grand-city-market-bangalore/order
+Chalukya Samrat Cafe Since 1977,4.2,"South Indian, North Indian, Chinese, Street Food, Beverages",¹ 150.00,30,60% OFF,https://www.zomato.com/bangalore/chalukya-samrat-cafe-since-1977-st-marks-road-bangalore/order
+RollsKing,4.1,"Rolls, Fast Food, North Indian",¹ 150.00,54,40% OFF,https://www.zomato.com/bangalore/rollsking-btm-bangalore/order
+Chichaba's Taj,4.1,"Biryani, North Indian, Kebab, Mughlai, Seafood",¹ 150.00,43,NA,https://www.zomato.com/bangalore/chichabas-taj-frazer-town/order
+Sri Rajarajeshwari Iyer Mess,4.4,South Indian,¹ 150.00,42,NA,https://www.zomato.com/bangalore/sri-rajarajeshwari-iyer-mess-malleshwaram-bangalore/order
+Kalpavriksha Grand,4.3,"South Indian, North Indian, Chinese, Street Food, Beverages",¹ 100.00,56,NA,https://www.zomato.com/bangalore/kalpavriksha-grand-jayanagar-bangalore/order
+Hotel Revoli Inn,4.1,"Chinese, North Indian, Mughlai",¹ 100.00,30,NA,https://www.zomato.com/bangalore/hotel-revoli-inn-shanti-nagar-bangalore/order
+Thai House,4.1,Thai,¹ 100.00,56,NA,https://www.zomato.com/bangalore/thai-house-thippasandra-bangalore/order
+Gowdru Hotel,3.4,"Biryani, South Indian, Kebab",¹ 100.00,51,40% OFF,https://www.zomato.com/bangalore/gowdru-hotel-basaveshwara-nagar-bangalore/order
+Tasty Munch,4,"Fast Food, Sandwich, Pizza, Chinese, Beverages, Shake",¹ 100.00,57,NA,https://www.zomato.com/bangalore/tasty-munch-rajajinagar-bangalore/order
+RR Vatika,4,"North Indian, Street Food",¹ 100.00,49,NA,https://www.zomato.com/bangalore/rr-vatika-jayanagar-bangalore/order
+Hotel Aditya Nonveg Nati Style,3.8,"Kebab, Biryani",¹ 100.00,56,NA,https://www.zomato.com/bangalore/hotel-aditya-nonveg-nati-style-1-jp-nagar-bangalore/order
+Ajji Mane Baadoota,4.1,"Biryani, Kebab",¹ 100.00,46,NA,https://www.zomato.com/bangalore/ajji-mane-baadoota-banashankari-bangalore/order
+Alemane Donne Biriyani,4.1,"Biryani, Shawarma, Grilled Chicken",¹ 100.00,46,NA,https://www.zomato.com/bangalore/alemane-donne-biriyani-1-domlur-bangalore/order
+Rooftop Cafe,3.9,"Pizza, Fast Food, Chinese, Coffee, Beverages",¹ 100.00,55,NA,https://www.zomato.com/bangalore/rooftop-cafe-jayanagar/order
+Arun Icecreams,4.4,Ice Cream,¹ 100.00,46,NA,https://www.zomato.com/bangalore/arun-icecreams-jayanagar-bangalore/order
+Aahar,3.6,"Street Food, North Indian",¹ 100.00,48,30% OFF,https://www.zomato.com/bangalore/aahar-rajajinagar-bangalore/order
+Mughal Treat,4.1,"North Indian, Mughlai, Seafood, Chinese, Rolls, Biryani, Desserts",¹ 400.00,61,50% OFF,https://www.zomato.com/bangalore/mughal-treat-btm-bangalore/order
+Khan Saheb Grills And Rolls,4.1,"North Indian, Rolls, Kebab, Mughlai, Biryani, Beverages",¹ 200.00,37,NA,https://www.zomato.com/bangalore/khan-saheb-grills-and-rolls-commercial-street-bangalore/order
+Sahana's - Since 1993,3.9,"Biryani, Andhra, South Indian, Beverages, Kebab",¹ 200.00,38,NA,https://www.zomato.com/bangalore/sahanas-since-1993-wilson-garden-bangalore/order
+Bansuri Sweets,3.9,"Mithai, North Indian, Street Food, Sandwich, Chinese",¹ 100.00,44,NA,https://www.zomato.com/bangalore/bansuri-sweets-vijay-nagar/order
+Juice Adda,4.2,"Rolls, Fast Food, Chinese",¹ 100.00,53,NA,https://www.zomato.com/bangalore/juice-adda-rajajinagar/order
+The Licious Kitchen,4.2,"North Indian, Kebab, Mughlai, Afghan, BBQ",¹ 200.00,58,60% OFF,https://www.zomato.com/bangalore/the-licious-kitchen-koramangala-6th-block-bangalore/order
+Yummy Sip N Bites,4.1,"Pizza, Sandwich, Burger, Rolls, Fast Food, Shake, Desserts, Ice Cream",¹ 200.00,57,Free Death By Chocolate,https://www.zomato.com/bangalore/yummy-sip-n-bites-basaveshwara-nagar-bangalore/order
+Chung's Chinese Corner,4.3,"Chinese, Malaysian, Seafood",¹ 500.00,31,20% OFF,https://www.zomato.com/bangalore/chungs-chinese-corner-cunningham-road/order
+Punjabi Pure Veg Restaurant Since 1994,3.8,"North Indian, Beverages, Chinese",¹ 150.00,52,NA,https://www.zomato.com/bangalore/punjabi-pure-veg-restaurant-since-1994-1-majestic-bangalore/order
+Sagar Delicacy,4.2,"North Indian, Chinese, South Indian, Beverages",¹ 200.00,41,NA,https://www.zomato.com/bangalore/sagar-delicacy-2-ulsoor-bangalore/order
+Yuki,4.3,"Asian, Japanese, Sushi, Thai, Chinese, Salad, Desserts",¹ 650.00,62,   175 OFF,https://www.zomato.com/bangalore/yuki-indiranagar-bangalore/order
+Element3,4.3,"North Indian, Chinese, Biryani",¹ 400.00,61,NA,https://www.zomato.com/bangalore/element3-indiranagar-bangalore/order
+Ultimate MealBox,4.3,North Indian,¹ 200.00,57,50% OFF,https://www.zomato.com/bangalore/ultimate-mealbox-btm-bangalore/order
+New Sagar Fast Food,4,"South Indian, Street Food, Chinese",¹ 200.00,52,NA,https://www.zomato.com/bangalore/new-sagar-fast-food-yeshwantpur-bangalore/order
+Kouzina Kafe - The Food Court,3.3,"Fast Food, Burger, Momos, Rolls, Desserts, Bakery, Shake",¹ 200.00,29,60% OFF,https://www.zomato.com/bangalore/kouzina-kafe-the-food-court-vasanth-nagar-bangalore/order
+Bangalore Thindies,3.9,South Indian,¹ 200.00,26,NA,https://www.zomato.com/bangalore/bangalore-thindies-infantry-road-bangalore/order
+Tim Hortons,4.2,"Cafe, Coffee, Beverages, Desserts, Sandwich, Fast Food",¹ 200.00,49,   100 OFF,https://www.zomato.com/bangalore/tim-hortons-koramangala-8th-block-bangalore/order
+Al Zaitoon,3.8,"Chinese, North Indian, Mughlai, Lebanese",¹ 200.00,43,NA,https://www.zomato.com/bangalore/al-zaitoon-richmond-road-bangalore/order
+Sri Venkateshwara Sweetmeat Stall,4.6,"Mithai, Street Food, Fast Food, North Indian",¹ 200.00,38,NA,https://www.zomato.com/bangalore/sri-venkateshwara-sweetmeat-stall-majestic/order
+Antarastriya,3.8,"Pizza, Fast Food, Chinese, Beverages, Shake, Italian, Mexican, Juices",¹ 200.00,43,Free Gobi Manchurian,https://www.zomato.com/antarastriya/order
+Sea Meen Restaurant,4.4,"North Indian, Chinese, Seafood, Biryani, Mughlai",¹ 200.00,50,NA,https://www.zomato.com/bangalore/sea-meen-restaurant-koramangala-7th-block-bangalore/order
+Davanagere Benne Dose Manne,4.1,South Indian,¹ 200.00,36,NA,https://www.zomato.com/bangalore/davanagere-benne-dose-manne-basavanagudi-bangalore/order
+Just Chole Bhature,3.7,"North Indian, Street Food",¹ 200.00,47,NA,https://www.zomato.com/bangalore/just-chole-bhature-basavanagudi-bangalore/order
+Tasty Magic,3.5,"Chinese, North Indian, Mughlai, Arabian, Kebab, Seafood, Biryani, Ice Cream",¹ 200.00,53,50% OFF,https://www.zomato.com/bangalore/tasty-magic-btm/order
+Siddique Kabab Centre,4,"Mughlai, Chinese, North Indian, Rolls, Sichuan",¹ 100.00,42,NA,https://www.zomato.com/bangalore/siddique-kabab-centre-frazer-town/order
+Falahaar & Kota Kachori,3.8,"Mithai, Street Food",¹ 100.00,NA,   100 OFF,https://www.zomato.com/bangalore/falahaar-kota-kachori-1-indiranagar-bangalore/order
+Amul Ice Cream Parlour,4.4,"Ice Cream, Desserts, Beverages, Shake",¹ 100.00,51,NA,https://www.zomato.com/bangalore/amul-ice-cream-parlour-btm-bangalore/order
+Masti Masala,4.3,"North Indian, Chinese, Biryani, Beverages, Rolls",¹ 100.00,52,NA,https://www.zomato.com/bangalore/masti-masala-rajajinagar/order
+Hamza Hotel,4.3,"Biryani, North Indian",¹ 100.00,36,NA,https://www.zomato.com/bangalore/hamza-hotel-shivajinagar-bangalore/order
+Le Arabia,3.5,"Arabian, North Indian",¹ 100.00,59,NA,https://www.zomato.com/bangalore/le-arabia-koramangala-5th-block-bangalore/order
+Mane Holige,4.5,"Mithai, Desserts",¹ 100.00,51,NA,https://www.zomato.com/bangalore/mane-holige-1-koramangala-6th-block-bangalore/order
+Cakes By Flower Aura,4.1,Bakery,¹ 100.00,51,NA,https://www.zomato.com/bangalore/cakes-by-flower-aura-brookefield-bangalore/order
+Bangalore Mandarin,4.2,"Chinese, Seafood, Sichuan, Beverages",¹ 100.00,53,NA,https://www.zomato.com/bangalore/bangalore-mandarin-1-indiranagar/order
+Karavali Fine Dine,4,"Mangalorean, Biryani, Chinese, South Indian, Mughlai, Seafood, North Indian",¹ 100.00,35,20% OFF,https://www.zomato.com/bangalore/karavali-fine-dine-brigade-road-bangalore/order
+Marathi Kitchen,4.3,"Maharashtrian, Beverages, Desserts",¹ 100.00,55,NA,https://www.zomato.com/bangalore/marathi-kitchen-jayanagar-bangalore/order
+BOOM Sandwich - Sub of India,4.4,"Sandwich, Healthy Food, Beverages",¹ 100.00,22,50% OFF,https://www.zomato.com/bangalore/boom-sandwich-sub-of-india-langford-town-bangalore/order
+Kunafa World,4.5,Desserts,¹ 150.00,44,NA,https://www.zomato.com/bangalore/kunafa-world-sanjay-nagar-bangalore/order
+Rajajinagar Biriyani Hub,3.6,"Biryani, Chinese",¹ 150.00,52,30% OFF,https://www.zomato.com/bangalore/rajajinagar-biriyani-hub-rajajinagar-bangalore/order
+Shawarma On Wheels,3.5,"Shawarma, Fast Food",¹ 150.00,28,30% OFF,https://www.zomato.com/bangalore/shawarma-on-wheels-st-marks-road-bangalore/order
+Gully Treats,4.2,"North Indian, Sandwich, Fast Food, Street Food, Shake, Beverages",¹ 150.00,52,10% OFF,https://www.zomato.com/bangalore/gully-treats-basaveshwara-nagar-bangalore/order
+Faasos Signature Wraps and Rolls,4.3,"Rolls, Wraps, Shawarma",¹ 150.00,43,20% OFF,https://www.zomato.com/bangalore/faasos-signature-wraps-and-rolls-shanti-nagar-bangalore/order
+Street Foods By Punjab Grill,4,"North Indian, Street Food, Biryani, Chinese, Fast Food, Beverages",¹ 150.00,51,   175 OFF,https://www.zomato.com/bangalore/street-foods-by-punjab-grill-malleshwaram-bangalore/order
+Burgerama,4,Burger,¹ 150.00,53,50% OFF,https://www.zomato.com/bangalore/burgerama-indiranagar-bangalore/order
+Imperial Bakery & Chai - Since 1880,3.6,"Tea, Beverages, Rolls, Bakery, Coffee, Desserts, Burger",¹ 150.00,52,50% OFF,https://www.zomato.com/bangalore/imperial-bakery-chai-since-1880-frazer-town-bangalore/order
+Dwarkamai Pure Veg Restaurant,4.1,"North Indian, South Indian, Chinese, Fast Food, Shake, Desserts, Beverages",¹ 150.00,45,50% OFF,https://www.zomato.com/bangalore/dwarkamai-pure-veg-restaurant-basavanagudi-bangalore/order
+Mayuri,4.1,"Andhra, Biryani, North Indian, Chinese, Desserts",¹ 150.00,61,NA,https://www.zomato.com/bangalore/mayuri-1-jp-nagar-bangalore/order
+Ande Ka Funda,4.4,"North Indian, Rolls",¹ 150.00,56,NA,https://www.zomato.com/bangalore/ande-ka-funda-1-jp-nagar-bangalore/order
+Prerna Punjabi Home Made Food,4,North Indian,¹ 150.00,46,NA,https://www.zomato.com/bangalore/prerna-punjabi-home-made-food-rt-nagar-bangalore/order
+Chapathi Mane,4.1,"Mithai, South Indian",¹ 100.00,40,NA,https://www.zomato.com/bangalore/chapathi-mane-malleshwaram-bangalore/order
+The Betel Leaf Co - PAAN Originally from Bangalore,4.6,"Paan, Desserts, Beverages",¹ 100.00,31,10% OFF,https://www.zomato.com/bangalore/the-betel-leaf-co-paan-originally-from-bangalore-vasanth-nagar-bangalore/order
+Chili's American Grill & Bar,4,"Burger, Mexican, American, Italian, Continental, Desserts, Beverages",¹ 100.00,66,   150 OFF,https://www.zomato.com/bangalore/chilis-american-grill-bar-rajajinagar-bangalore/order
+Udupi Ahara,4,"South Indian, North Indian, Chinese",¹ 100.00,53,10% OFF,https://www.zomato.com/bangalore/udupi-ahara-rajajinagar-bangalore/order
+SLV Ragigudda,4.3,"South Indian, North Indian, Chinese, Street Food",¹ 100.00,51,NA,https://www.zomato.com/bangalore/slv-ragigudda-jayanagar-bangalore/order
+Malleshwaram Dosa Corner,4.5,South Indian,¹ 100.00,43,Free Set Dosa,https://www.zomato.com/bangalore/malleshwaram-dosa-corner-malleshwaram-bangalore/order
+Spice Up,3.9,"Chinese, North Indian, Biryani, Seafood",¹ 100.00,52,NA,https://www.zomato.com/bangalore/spice-up-jp-nagar/order
+Manjit Da Dhaba,4.4,"North Indian, Desserts",¹ 100.00,47,NA,https://www.zomato.com/bangalore/manjit-da-dhaba-frazer-town/order
+Sri Maruthi Gowda's Military Hotel,4.3,South Indian,¹ 100.00,33,NA,https://www.zomato.com/bangalore/sri-maruthi-gowdas-military-hotel-majestic-bangalore/order
+Holige Mane,4.5,South Indian,¹ 100.00,47,NA,https://www.zomato.com/bangalore/holige-mane-vijay-nagar/order
+New Kadai Family Restaurant,3.7,"Chinese, North Indian, Biryani, Rolls, Seafood, Mughlai, Shake, Beverages",¹ 100.00,43,NA,https://www.zomato.com/bangalore/new-kadai-family-restaurant-rt-nagar-bangalore/order
+Main Lassi Shop,4.1,"Beverages, Shake, Juices, Fast Food, Street Food, Sandwich, Ice Cream",¹ 100.00,35,NA,https://www.zomato.com/bangalore/main-lassi-shop-shivajinagar-bangalore/order
+Mr. Biryani,4.1,"Biryani, North Indian, Chinese, Andhra",¹ 100.00,53,NA,https://www.zomato.com/bangalore/mr-biryani-btm-bangalore/order
+Haka,4.3,"Chinese, Momos",¹ 200.00,42,NA,https://www.zomato.com/bangalore/haka-church-street-bangalore/order
+Slurpy Shakes,3.5,"Shake, Ice Cream, Desserts, Fast Food, Beverages",¹ 200.00,35,50% OFF,https://www.zomato.com/bangalore/slurpy-shakes-vasanth-nagar-bangalore/order
+Lakeview Milkbar     Since 1930,4.1,"Ice Cream, Desserts, Bakery, Waffle, Sandwich, Shake",¹ 200.00,32,20% OFF,https://www.zomato.com/bangalore/lakeview-milkbar-since-1930-mg-road-bangalore/order
+Bengoli Food,3.6,"Bengali, North Indian",¹ 150.00,68,NA,https://www.zomato.com/bangalore/bengoli-food-koramangala-1st-block-bangalore/order
+Malgudi's Nati style,4.2,"Biryani, South Indian",¹ 200.00,56,NA,https://www.zomato.com/bangalore/malgudis-nati-style-btm-bangalore/order
+New Shanthi Upahar,4.4,"South Indian, North Indian, Chinese, Street Food, Beverages, Desserts, Juices",¹ 150.00,56,NA,https://www.zomato.com/bangalore/new-shanthi-upahar-jayanagar/order
+New Gongura Grand,3.7,"Andhra, North Indian, Chinese, Mughlai, Seafood, Biryani, Beverages",¹ 400.00,51,Flat 20% OFF,https://www.zomato.com/bangalore/new-gongura-grand-btm-bangalore/order
+Chaayos Chai+Snacks=Relax,4.3,"Tea, Beverages, Sandwich, Street Food",¹ 150.00,30,20% OFF,https://www.zomato.com/bangalore/chaayos-chai-snacks-relax-cunningham-road-bangalore/order
+Temperature Juice Bar,4.2,"Beverages, Shake, Healthy Food, Street Food",¹ 100.00,61,NA,https://www.zomato.com/bangalore/temperature-juice-bar-btm-bangalore/order
+Chole Bhature And Parathas,3.5,North Indian,¹ 150.00,58,50% OFF,https://www.zomato.com/bangalore/chole-bhature-and-parathas-rajajinagar-bangalore/order
+Yum Me Too,3.1,"Kebab, Biryani, Burger, Wraps, Grilled Chicken, Fast Food",¹ 300.00,NA,NA,https://www.zomato.com/bangalore/yum-me-too-banaswadi-bangalore/order
+Samosa Singh,4,"Street Food, North Indian, Mithai, Beverages",¹ 150.00,35,20% OFF,https://www.zomato.com/bangalore/samosa-singh-brigade-road-bangalore/order
+Srinathji's,4.2,"Chinese, Italian, North Indian, Oriental, Mexican, Street Food, Desserts, Beverages",¹ 150.00,56,NA,https://www.zomato.com/bangalore/srinathjis-indiranagar/order
+Umpire Chicken County,3.8,"Rolls, Chinese, North Indian, Biryani",¹ 150.00,44,NA,https://www.zomato.com/bangalore/umpire-chicken-county-richmond-road-bangalore/order
+Basco And Fry,4.1,"Burger, American, Continental",¹ 150.00,62,10% OFF,https://www.zomato.com/bangalore/basco-and-fry-indiranagar-bangalore/order
+Cold Stone Creamery,4.2,"Ice Cream, Desserts, Waffle, Shake, Beverages",¹ 150.00,40,NA,https://www.zomato.com/bangalore/cold-stone-creamery-mg-road-bangalore/order
+Gam's Delicacy,4.4,"North Indian, Chinese, Assamese",¹ 150.00,54,NA,https://www.zomato.com/bangalore/gams-delicacy-koramangala-7th-block/order
+Rajvardhan   s - Since 1998,4.1,"Street Food, Maharashtrian, Fast Food",¹ 150.00,59,NA,https://www.zomato.com/bangalore/rajvardhans-since-1998-jayanagar-bangalore/order
+Sri Bettaiah Military Hotel,4.3,Mughlai,¹ 150.00,42,NA,https://www.zomato.com/bangalore/sri-bettaiah-military-hotel-magadi-road-bangalore/order
+Vaishali Hotel,3.9,"Andhra, North Indian, Mughlai, Seafood, Chinese, Kebab, Biryani",¹ 150.00,61,NA,https://www.zomato.com/bangalore/vaishali-hotel-banashankari-bangalore/order
+LM Paradise Cuisines And Cafe,3.9,"North Indian, Mughlai, Chinese, Sichuan",¹ 150.00,49,NA,https://www.zomato.com/bangalore/lm-paradise-cuisines-and-cafe-rt-nagar-bangalore/order
+Taaka Chinese,2.8,"Chinese, Oriental, Asian",¹ 150.00,35,50% OFF,https://www.zomato.com/bangalore/taaka-chinese-richmond-town-bangalore/order
+Click & Orders,4.2,"Bakery, Desserts, Pancake, Ice Cream",¹ 150.00,72,NA,https://www.zomato.com/bangalore/click-orders-btm-bangalore/order
+Asia Seven     Sizzling Chinese,3.8,"Chinese, Momos, Asian, Sichuan, Thai, Beverages",¹ 300.00,44,   175 OFF,https://www.zomato.com/bangalore/asia-seven-sizzling-chinese-malleshwaram-bangalore/order
+Rolling Fresh,4.2,"Rolls, Fast Food, North Indian",¹ 300.00,56,   125 OFF,https://www.zomato.com/bangalore/rolling-fresh-basavanagudi-bangalore/order
+Hotel Raghavendra Prasanna,4.4,South Indian,¹ 300.00,49,NA,https://www.zomato.com/bangalore/hotel-raghavendra-prasanna-city-market/order
+Big Mishra Pedha,4.3,"Mithai, Fast Food, Street Food",¹ 300.00,40,NA,https://www.zomato.com/bangalore/big-mishra-pedha-rt-nagar-bangalore/order
+Deccan Platters,4,"South Indian, Biryani",¹ 300.00,55,NA,https://www.zomato.com/bangalore/deccan-platters-koramangala-6th-block-bangalore/order
+Poha On Wheels,4.3,Street Food,¹ 300.00,44,20% OFF,https://www.zomato.com/bangalore/poha-on-wheels-koramangala-6th-block-bangalore/order
+The Pastry House,4,Bakery,¹ 300.00,63,NA,https://www.zomato.com/bangalore/the-pastry-house-wilson-garden-bangalore/order
+Delhi Restaurant & Chaat,4,"North Indian, Chinese, Sichuan",¹ 300.00,48,Free Sweet Lassi,https://www.zomato.com/bangalore/delhi-restaurant-chaat-rt-nagar-bangalore/order
+Desi Pakwan,3.8,"Street Food, North Indian",¹ 300.00,55,40% OFF,https://www.zomato.com/bangalore/desi-pakwan-btm-bangalore/order
+Tasty Restaurant,3.8,"Arabian, North Indian, Chinese, Biryani, Mughlai, Beverages, South Indian, Sichuan",¹ 300.00,53,NA,https://www.zomato.com/bangalore/tasty-restaurant-3-btm-bangalore/order
+Mavalli Biryani,3.7,"Biryani, South Indian, Chinese",¹ 300.00,49,NA,https://www.zomato.com/bangalore/mavalli-biryani-basaveshwara-nagar-bangalore/order
+Parkview,4.2,"South Indian, North Indian, Street Food, Chinese, Beverages, Shake, Desserts",¹ 300.00,58,Flat 15% OFF,https://www.zomato.com/bangalore/parkview-jp-nagar/order
+Hotel Green Tara,3.9,"Chinese, Tibetan, Sichuan, Momos",¹ 150.00,41,NA,https://www.zomato.com/bangalore/hotel-green-tara-brigade-road/order
+The Brooklyn Creamery - Healthy Ice Cream,4.2,Ice Cream,¹ 150.00,40,50% OFF,https://www.zomato.com/bangalore/the-brooklyn-creamery-healthy-ice-cream-seshadripuram-bangalore/order
+Lazeez,4.1,"North Indian, Mughlai, Biryani, Kebab, Rolls",¹ 150.00,52,NA,https://www.zomato.com/bangalore/lazeez-koramangala-5th-block/order
+Brahmin's Rotti Ruchi,4.3,South Indian,¹ 150.00,51,NA,https://www.zomato.com/bangalore/brahmins-rotti-ruchi-rajajinagar-bangalore/order
+Sabzi Aur Roti,3.7,North Indian,¹ 150.00,52,40% OFF,https://www.zomato.com/bangalore/sabzi-aur-roti-rajajinagar-bangalore/order
+Sri Udupi Sagar,4.1,"South Indian, Chinese",¹ 150.00,52,NA,https://www.zomato.com/bangalore/sri-udupi-sagar-btm-bangalore/order
+Chaileela,4.3,"Tea, Italian, Pizza, Burger, Fast Food, Street Food, Shake, Beverages",¹ 150.00,32,NA,https://www.zomato.com/bangalore/chaileela-lavelle-road-bangalore/order
+UR. Military Hotel,4.2,"Biryani, Chinese",¹ 150.00,51,Free Jamoon (1pc),https://www.zomato.com/bangalore/ur-military-hotel-btm-bangalore/order
+Maravanthe,4.1,"South Indian, Biryani, Mangalorean, Seafood, North Indian, Desserts, Juices, Beverages",¹ 150.00,55,NA,https://www.zomato.com/bangalore/maravanthe-indiranagar/order
+Stories Bar & Kitchen,3.9,"Bar Food, Chinese, North Indian, Italian, Pizza, Seafood, Desserts",¹ 150.00,59,NA,https://www.zomato.com/bangalore/stories-bar-kitchen-jp-nagar-bangalore/order
+The Breakfast Nook,4,"Sandwich, Fast Food, Street Food, Desserts, Beverages",¹ 150.00,NA,   125 OFF,https://www.zomato.com/bangalore/the-breakfast-nook-indiranagar-bangalore/order
+Say Cheese Cake,4.1,"Bakery, Desserts, Shake",¹ 150.00,53,NA,https://www.zomato.com/bangalore/say-cheese-cake-koramangala-6th-block-bangalore/order
+Tango Sandwich King,4.2,"Sandwich, Fast Food, Street Food",¹ 100.00,46,NA,https://www.zomato.com/bangalore/tango-sandwich-king-basaveshwara-nagar-bangalore/order
+Cafe Krishnam,4.2,"South Indian, North Indian, Sandwich, Chinese, Ice Cream, Shake, Juices, Beverages",¹ 100.00,49,Everything @    169 only,https://www.zomato.com/bangalore/cafe-krishnam-jayanagar-bangalore/order
+Shree Krishna Brahmin's Kitchen,4.3,"North Indian, South Indian",¹ 100.00,59,NA,https://www.zomato.com/bangalore/shree-krishna-brahmins-kitchen-1-kumaraswamy-layout-bangalore/order
+Nasi And Mee,4.5,"Asian, Sushi, Thai",¹ 100.00,58,NA,https://www.zomato.com/bangalore/nasi-and-mee-koramangala-4th-block/order
+New Mahi Da Dhaba,3.9,"Fast Food, North Indian, Chinese, Seafood, Street Food",¹ 100.00,52,Free Sweet Lassi,https://www.zomato.com/bangalore/new-mahi-da-dhaba-rt-nagar-bangalore/order
+Sabzi Aur Roti,3.3,North Indian,¹ 100.00,70,40% OFF,https://www.zomato.com/bangalore/sabzi-aur-roti-btm-bangalore/order
+Boat House Sea Food Kitchen,4.2,"Seafood, South Indian, North Indian, Biryani, Chinese, Mangalorean",¹ 100.00,46,NA,https://www.zomato.com/bangalore/boat-house-sea-food-kitchen-majestic-bangalore/order
+Al - Arabic Shawarma,4.1,Shawarma,¹ 100.00,58,NA,https://www.zomato.com/bangalore/al-arabic-shawarma-btm-bangalore/order
+Dhansagar Restaurant,4.2,"North Indian, Mughlai, Chinese, Biryani, Seafood, Shake",¹ 100.00,56,NA,https://www.zomato.com/bangalore/dhansagar-restaurant-btm-bangalore/order
+South Kitchen,4.4,South Indian,¹ 100.00,40,   125 OFF,https://www.zomato.com/bangalore/south-kitchen-basavanagudi/order
+Chakum Chukum,4.1,"Rolls, North Indian, Fast Food, Biryani, Kebab, Beverages",¹ 100.00,56,NA,https://www.zomato.com/bangalore/chakum-chukum-indiranagar-bangalore/order
+Uthra - By Asha Sweet Center,4.3,"North Indian, Chinese, Pizza, Mithai, Beverages",¹ 100.00,55,10% OFF,https://www.zomato.com/bangalore/uthra-by-asha-sweet-center-indiranagar-bangalore/order
+Pizza Nation,3.2,Pizza,¹ 150.00,45,Free Walnut Brownie,https://www.zomato.com/bangalore/pizza-nation-basavanagudi-bangalore/order
+Roti Curry & Co,3.4,"North Indian, Desserts",¹ 250.00,68,50% OFF,https://www.zomato.com/bangalore/roti-curry-co-wilson-garden-bangalore/order
+Amul Ice Cream Parlour,3.6,"Ice Cream, Sandwich, Street Food, Fast Food, Desserts, Beverages",¹ 150.00,57,NA,https://www.zomato.com/bangalore/amul-ice-cream-parlour-jayanagar-bangalore/order
+Iyengars Bakery,4.4,"Bakery, Desserts, Fast Food, Street Food",¹ 150.00,32,NA,https://www.zomato.com/bangalore/iyengars-bakery-1-richmond-road-bangalore/order
+Magic Wok,3.9,"Momos, Sandwich, Rolls, Chinese, Shake, Beverages, Juices",¹ 150.00,49,NA,https://www.zomato.com/bangalore/magic-wok-btm-bangalore/order
+Udupi Upahar,4.1,"South Indian, North Indian, Chinese, Biryani, Ice Cream, Desserts, Beverages",¹ 200.00,46,NA,https://www.zomato.com/bangalore/udupi-upahar-koramangala-7th-block-bangalore/order
+Grand Wedding Biryani,3.6,"Biryani, South Indian",¹ 400.00,57,NA,https://www.zomato.com/bangalore/grand-wedding-biryani-1-btm-bangalore/order
+Tiwari's Ghee Paratha And Chaats,4,"North Indian, Rajasthani, Street Food",¹ 150.00,46,NA,https://www.zomato.com/bangalore/tiwaris-ghee-paratha-and-chaats-basavanagudi-bangalore/order
+Simplee Shawarma,4.2,"Shawarma, Fast Food",¹ 100.00,61,NA,https://www.zomato.com/bangalore/simplee-shawarma-btm-bangalore/order
+Corn Dawg,3.6,"Fast Food, Korean",¹ 150.00,61,Free Mini Corn Dog (Veg),https://www.zomato.com/bangalore/corn-dawg-koramangala-7th-block-bangalore/order
+Pailwan Pulao,4,"South Indian, Beverages, North Indian",¹ 100.00,49,40% OFF,https://www.zomato.com/bangalore/pailwan-pulao-1-jayanagar-bangalore/order
+The Coffee Brewery,4.2,"Cafe, Coffee, Sandwich, Fast Food, Desserts, Tea, Beverages",¹ 350.00,56,   150 OFF,https://www.zomato.com/bangalore/the-coffee-brewery-koramangala-4th-block-bangalore/order
+Happy Platter,4.1,"Chinese, North Indian, Rolls, Fast Food",¹ 150.00,50,NA,https://www.zomato.com/bangalore/happy-platter-rajajinagar-bangalore/order
+Banashankari Donne Biriyani,4,Biryani,¹ 150.00,45,NA,https://www.zomato.com/bangalore/banashankari-donne-biriyani-banashankari/order
+MCB Donne Biryani,3.7,"Biryani, South Indian",¹ 150.00,45,NA,https://www.zomato.com/bangalore/mcb-donne-biryani-1-rt-nagar-bangalore/order
+Zoey's,3.9,"Cafe, Coffee, Continental, Italian, Chinese, Desserts, Shake, Beverages",¹ 150.00,59,Free Garlic Bread,https://www.zomato.com/bangalore/zoeys-koramangala-5th-block-bangalore/order
+Banarasi Kitchen,3.7,"North Indian, Chinese",¹ 150.00,53,NA,https://www.zomato.com/bangalore/banarasi-kitchen-rajajinagar-bangalore/order
+Udupi Sri Krishna Bhavan - Since 1926,4.4,"South Indian, North Indian, Chinese, Biryani, Desserts",¹ 150.00,47,NA,https://www.zomato.com/bangalore/udupi-sri-krishna-bhavan-since-1926-basavanagudi-bangalore/order
+Roti Tawa Ki,4.2,"North Indian, Chinese",¹ 150.00,55,10% OFF,https://www.zomato.com/bangalore/roti-tawa-ki-koramangala-6th-block-bangalore/order
+Cafe Zyke,3.8,"Fast Food, Street Food, Rolls, Beverages, Shake",¹ 150.00,36,NA,https://www.zomato.com/bangalore/cafe-zyke-shivajinagar-bangalore/order
+Iyengars Bakery,4.3,"Bakery, Desserts, Mithai, Fast Food",¹ 150.00,48,NA,https://www.zomato.com/bangalore/iyengars-bakery-vijay-nagar-bangalore/order
+Bombay Kulfi,4.5,"Ice Cream, Desserts",¹ 150.00,47,NA,https://www.zomato.com/bangalore/bombay-kulfi-koramangala-6th-block-bangalore/order
+Uttara Karnataka Jolada Rotati & Chapati Store,4,"South Indian, Street Food",¹ 150.00,41,NA,https://www.zomato.com/bangalore/uttara-karnataka-jolada-rotati-chapati-store-basavanagudi-bangalore/order
+Chianti,4.2,"Italian, Pizza, Pasta, Desserts, Salad",¹ 150.00,36,30% OFF,https://www.zomato.com/bangalore/chianti-mg-road-bangalore/order
+MCB Donne Biryani,3.8,"Biryani, North Indian, Mughlai, Chinese, Momos, Shake, Ice Cream, Beverages",¹ 400.00,52,NA,https://www.zomato.com/bangalore/mcb-donne-biryani-rt-nagar-bangalore/order
+Savji's Roll 'N' Biryani,4,"North Indian, Chinese, South Indian, Rolls, Biryani, Sandwich, Burger, Fast Food",¹ 200.00,49,NA,https://www.zomato.com/bangalore/savjis-roll-n-biryani-vijay-nagar/order
+Dalma,4.1,"Odia, Seafood, Desserts",¹ 300.00,56,NA,https://www.zomato.com/bangalore/dalma-koramangala-6th-block/order
+Sindhoora Gardenia,4.1,"North Indian, Chinese, Pasta, Biryani, Pizza, Seafood, Continental",¹ 400.00,61,NA,https://www.zomato.com/bangalore/sindhoora-gardenia-1-banashankari-bangalore/order
+Punjab Rajasthan Express Restaurant,3.7,North Indian,¹ 200.00,48,NA,https://www.zomato.com/bangalore/punjab-rajasthan-express-restaurant-majestic-bangalore/order
+Absolute Chinese,4,"Chinese, Asian, Continental, Thai, Sichuan",¹ 200.00,45,NA,https://www.zomato.com/bangalore/absolute-chinese-rajajinagar/order
+Foo Brigade Road,4.4,"Chinese, Sushi, Asian, Japanese, Desserts",¹ 800.00,40,NA,https://www.zomato.com/bangalore/foo-brigade-road-brigade-road-bangalore/order
+Gourmet Ice Cream Cakes By Baskin Robbins,3.8,Ice Cream,¹ 100.00,36,NA,https://www.zomato.com/bangalore/gourmet-ice-cream-cakes-by-baskin-robbins-2-brigade-road-bangalore/order
+Green Chilly,4.2,"North Indian, Chinese, Beverages, Shake",¹ 200.00,46,NA,https://www.zomato.com/bangalore/green-chilly-rajajinagar-bangalore/order
+Nirula's,3.3,"Ice Cream, Desserts, Momos, Beverages",¹ 150.00,54,40% OFF,https://www.zomato.com/bangalore/nirulas-indiranagar-bangalore/order
+Thalassery Cafe,4,"Street Food, Chinese, Kerala, South Indian, Seafood, Desserts, Ice Cream, Beverages",¹ 150.00,47,NA,https://www.zomato.com/bangalore/thalassery-cafe-btm/order
+Little Italy,3.8,"Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages",¹ 950.00,48,   150 OFF,https://www.zomato.com/bangalore/little-italy-jayanagar-bangalore/order
+Sri Durga Chats & Juice,4.2,"Fast Food, Street Food, Beverages, Desserts",¹ 50.00,47,NA,https://www.zomato.com/bangalore/sri-durga-chats-juice-vijay-nagar-bangalore/order
+Melange - By Asha Sweet Center,4.3,"Fast Food, Pizza, Sandwich, Pasta, Tea, Beverages",¹ 50.00,50,NA,https://www.zomato.com/bangalore/melange-by-asha-sweet-center-rajajinagar-bangalore/order
+Zhang's - Chinese Restaurant,4,"Chinese, Asian, Thai",¹ 50.00,58,NA,https://www.zomato.com/bangalore/zhangs-chinese-restaurant-jp-nagar-bangalore/order
+Renjz Kitchen,4.3,South Indian,¹ 50.00,63,NA,https://www.zomato.com/bangalore/renjz-kitchen-btm-bangalore/order
+Maggi Mane,4.2,"Fast Food, Beverages",¹ 50.00,40,NA,https://www.zomato.com/bangalore/maggi-mane-majestic-bangalore/order
+Kadai,4.3,"North Indian, Chinese, South Indian, Seafood",¹ 50.00,52,NA,https://www.zomato.com/bangalore/kadai-basaveshwara-nagar/order
+Kamat Hotel,4,"South Indian, North Indian, Chinese, Street Food, Fast Food, Beverages, Shake",¹ 50.00,41,NA,https://www.zomato.com/bangalore/kamat-hotel-basavanagudi-bangalore/order
+Hotel Bilal Biriyani Centre,3.9,"Biryani, North Indian",¹ 50.00,37,NA,https://www.zomato.com/bangalore/hotel-bilal-biriyani-centre-mysore-road-bangalore/order
+The Dragon,4.3,"Chinese, Asian, Thai, Seafood",¹ 50.00,55,NA,https://www.zomato.com/bangalore/the-dragon-jayanagar-bangalore/order
+Sendhoor Nataraaj Restaurant,4.4,"Kebab, Biryani, BBQ, Roast Chicken",¹ 50.00,42,NA,https://www.zomato.com/bangalore/sendhoor-nataraaj-restaurant-ulsoor-bangalore/order
+Ajji Ruchi Kitchen,4.4,"North Indian, South Indian, Street Food, Beverages",¹ 50.00,48,NA,https://www.zomato.com/bangalore/ajji-ruchi-kitchen-1-koramangala-8th-block-bangalore/order
+S M V Snacks Corner,4.2,"Fast Food, Street Food, Ice Cream, Desserts, Sichuan",¹ 50.00,43,NA,https://www.zomato.com/bangalore/s-m-v-snacks-corner-basavanagudi/order
+Cardamom- Ghar Ka Swad,4,"North Indian, Street Food, Bihari",¹ 200.00,55,40% OFF,https://www.zomato.com/bangalore/cardamom-ghar-ka-swad-1-btm-bangalore/order
+Beegara Mane Baadoota,3.6,"Biryani, North Indian, Mughlai, South Indian",¹ 200.00,51,Free Ragi Ball [1 Piece],https://www.zomato.com/bangalore/beegara-mane-baadoota-vijay-nagar-bangalore/order
+Mayura 1989 Andhra Speciality Restaurant,4.1,"Andhra, Mughlai, Chinese, Kebab, North Indian, Beverages, Desserts",¹ 200.00,44,NA,https://www.zomato.com/bangalore/mayura-1989-andhra-speciality-restaurant-rajajinagar-bangalore/order
+Naidu Garu Biryani,4,"Biryani, Chinese, Andhra, Seafood, Street Food",¹ 200.00,58,NA,https://www.zomato.com/bangalore/naidu-garu-biryani-1-btm-bangalore/order
+Itminaan Matka Biryani - Slow Cooked,4.6,"Biryani, North Indian, Desserts, Beverages",¹ 200.00,39,60% OFF,https://www.zomato.com/bangalore/itminaan-matka-biryani-slow-cooked-shanti-nagar-bangalore/order
+Blends Of Biryani,4.3,"Biryani, Chinese, Mughlai",¹ 200.00,63,NA,https://www.zomato.com/bangalore/blends-of-biryani-2-kammanahalli-bangalore/order
+Cafe Azzure,3.9,"Cafe, Continental, Mexican, Italian, Fast Food, Desserts, Beverages",¹ 200.00,43,NA,https://www.zomato.com/bangalore/cafe-azzure-mg-road/order
+Gabru Di Chaap,3.9,"North Indian, Momos, Fast Food, Wraps, Beverages",¹ 200.00,NA,   150 OFF,https://www.zomato.com/bangalore/gabru-di-chaap-thippasandra-bangalore/order
+Mangalore Sea Palate,4.2,"North Indian, Mughlai, Seafood, Chinese, Biryani, Desserts, Beverages",¹ 200.00,51,NA,https://www.zomato.com/bangalore/mangalore-sea-palate-jayanagar-bangalore/order
+Twiststick House,3.7,"Chinese, Fast Food, Beverages",¹ 200.00,38,NA,https://www.zomato.com/bangalore/twiststick-house-basavanagudi-bangalore/order
+Kartik's Mithai Shoppe,4.4,"Mithai, Street Food",¹ 200.00,52,NA,https://www.zomato.com/bangalore/kartiks-mithai-shoppe-indiranagar/order
+Cane Hut,4.1,"Fast Food, Burger, Beverages, Ice Cream, Momos",¹ 200.00,54,NA,https://www.zomato.com/bangalore/cane-hut-jayanagar-bangalore/order
+Mithaicana,4.2,"Mithai, Desserts",¹ 300.00,56,NA,https://www.zomato.com/bangalore/mithaicana-jayanagar-bangalore/order
+FoodX Restaurant,4,"Chinese, South Indian, Beverages, Sichuan",¹ 150.00,32,NA,https://www.zomato.com/bangalore/foodx-restaurant-vasanth-nagar-bangalore/order
+Parijata Pure Veg,4.1,"South Indian, Street Food, Beverages, Shake",¹ 150.00,26,NA,https://www.zomato.com/bangalore/parijata-pure-veg-richmond-town-bangalore/order
+Hotel Godavari,4,"North Indian, Chinese, Biryani, Beverages",¹ 350.00,51,NA,https://www.zomato.com/bangalore/hotel-godavari-btm/order
+Aadvik Ka Kitchen,4,"North Indian, Chinese, South Indian, Street Food, Beverages, Sichuan",¹ 150.00,56,NA,https://www.zomato.com/bangalore/aadvik-ka-kitchen-2-rt-nagar-bangalore/order
+Milano Ice Cream,4.4,"Ice Cream, Desserts, Beverages",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/milano-ice-cream-indiranagar/order
+Kabab Manor,4.1,"North Indian, Biryani, Fast Food, Chinese, Beverages",¹ 200.00,40,NA,https://www.zomato.com/bangalore/kabab-manor-rt-nagar/order
+Egg Adda Upahara,4.1,Street Food,¹ 100.00,41,NA,https://www.zomato.com/bangalore/egg-adda-upahara-rajajinagar-bangalore/order
+Asia Kitchen By Mainland China,4.3,"Chinese, Thai, Korean, Sushi, Asian",¹ 350.00,38,NA,https://www.zomato.com/bangalore/asia-kitchen-by-mainland-china-church-street-bangalore/order
+Pathaan Sir,3.9,"Rolls, Chinese, Momos, Fast Food",¹ 150.00,42,   200 OFF,https://www.zomato.com/bangalore/pathaan-sir-frazer-town/order
+Sri Krishna Sagar,3.9,"South Indian, North Indian, Chinese, Fast Food, Street Food",¹ 200.00,59,NA,https://www.zomato.com/bangalore/sri-krishna-sagar-2-btm/order
+Fabelle Chocolates - ITC Gardenia,3.8,Desserts,¹ 350.00,29,40% OFF,https://www.zomato.com/bangalore/fabelle-chocolates-itc-gardenia-richmond-road-bangalore/order
+Pizza Nation,3.5,Pizza,¹ 200.00,61,NA,https://www.zomato.com/bangalore/pizza-nation-banashankari-bangalore/order
+Gyani Da Punjabi Dhaba,4.2,"North Indian, Mughlai, Chinese",¹ 200.00,59,15% OFF,https://www.zomato.com/bangalore/gyani-da-punjabi-dhaba-btm/order
+Bhole Ke Chole,3.4,"North Indian, Desserts, Beverages",¹ 150.00,45,20% OFF,https://www.zomato.com/bangalore/bhole-ke-chole-majestic-bangalore/order
+Kake Di Hatti,3.6,"North Indian, Chinese, Fast Food, Desserts, Beverages",¹ 400.00,NA,NA,https://www.zomato.com/bangalore/kake-di-hatti-indiranagar-bangalore/order
+A N Food Corner,3.7,"Biryani, Chinese",¹ 150.00,54,40% OFF,https://www.zomato.com/bangalore/a-n-food-corner-rajajinagar-bangalore/order
+Thar The Taste Of Rajasthan,4,North Indian,¹ 100.00,62,NA,https://www.zomato.com/bangalore/thar-the-taste-of-rajasthan-koramangala-5th-block-bangalore/order
+Davanagere Benne Dose Mane,3.1,South Indian,¹ 100.00,49,NA,https://www.zomato.com/bangalore/davanagere-benne-dose-mane-rajajinagar-bangalore/order
+Pipabu,4,"Continental, Italian, Chinese, Fast Food, Pizza, Burger, Sichuan, Beverages",¹ 400.00,53,NA,https://www.zomato.com/bangalore/pipabu-basavanagudi-bangalore/order
+Namma Kudla,4.2,"Mangalorean, North Indian, Chinese, Biryani, Seafood",¹ 200.00,58,NA,https://www.zomato.com/bangalore/namma-kudla-jp-nagar/order
+Roast 'N' Frost,3.9,Fast Food,¹ 150.00,53,NA,https://www.zomato.com/bangalore/roast-n-frost-1-rajajinagar-bangalore/order
+GLOBO Ice Creams Of The World,4.4,"Ice Cream, Desserts",¹ 100.00,21,50% OFF,https://www.zomato.com/bangalore/globo-ice-creams-of-the-world-shanti-nagar-bangalore/order
+Burger Elite,4.3,"Burger, Fast Food",¹ 100.00,48,NA,https://www.zomato.com/bangalore/burger-elite-rajajinagar-bangalore/order
+Hotel Shangrila,4.1,"Chinese, Tibetan, Asian, Sichuan",¹ 200.00,37,NA,https://www.zomato.com/bangalore/hotel-shangrila-brigade-road/order
+Ambur Star Dum Biryani,3.3,"Biryani, Kebab",¹ 200.00,48,NA,https://www.zomato.com/bangalore/ambur-star-dum-biryani-jayanagar/order
+Melting Cheese,3.3,"Pizza, Sandwich, Burger, Rolls, Pasta, Fast Food, Street Food",¹ 200.00,52,NA,https://www.zomato.com/bangalore/melting-cheese-basavanagudi-bangalore/order
+Dhatu Organic Stores & Kitchen,4.3,"South Indian, Healthy Food, Chinese, Fast Food, Desserts, Beverages",¹ 200.00,59,Free Ragi Laddu,https://www.zomato.com/bangalore/dhatu-organic-stores-kitchen-jayanagar-bangalore/order
+Vijaynagara Egg Adda,4.1,Chinese,¹ 200.00,41,NA,https://www.zomato.com/bangalore/vijaynagara-egg-adda-rajajinagar-bangalore/order
+Hotel Tom's Restaurant,4.2,"Mangalorean, North Indian, Seafood, Chinese, Biryani",¹ 200.00,33,   150 OFF,https://www.zomato.com/bangalore/hotel-toms-restaurant-brigade-road-bangalore/order
+Hello Hotel,3.7,South Indian,¹ 200.00,52,NA,https://www.zomato.com/bangalore/hello-hotel-koramangala-4th-block-bangalore/order
+Marwari Basa,4.1,"Rajasthani, North Indian, Beverages",¹ 200.00,65,NA,https://www.zomato.com/bangalore/marwari-basa-koramangala-1st-block-bangalore/order
+Vijayanagar Vaibhav,4.1,"South Indian, North Indian, Chinese, Fast Food, Street Food, Desserts, Shake, Juices",¹ 200.00,51,NA,https://www.zomato.com/bangalore/vijayanagar-vaibhav-vijay-nagar-bangalore/order
+Enchante by Chai Point,3.1,"Tea, Shake, Desserts, Beverages",¹ 200.00,38,50% OFF,https://www.zomato.com/bangalore/enchante-by-chai-point-1-church-street-bangalore/order
+Yakitori Yard,4.3,"Asian, Chinese, Sichuan, Momos",¹ 200.00,65,NA,https://www.zomato.com/bangalore/yakitori-yard-btm-bangalore/order
+The Happy Panda,3.5,"Chinese, Momos, Sichuan, Seafood, Pizza",¹ 200.00,62,NA,https://www.zomato.com/bangalore/the-happy-panda-btm-bangalore/order
+Pure & Natural,4.2,"Healthy Food, Beverages, Fast Food, Italian, Juices, Salad, Shake",¹ 100.00,58,NA,https://www.zomato.com/bangalore/pure-natural-jayanagar/order
+Omm Nom Nomm,4.7,"Ice Cream, Desserts",¹ 100.00,46,NA,https://www.zomato.com/bangalore/omm-nom-nomm-koramangala-8th-block-bangalore/order
+MM Prashanth Hotel,4.2,"Biryani, South Indian, North Indian, Street Food",¹ 100.00,41,NA,https://www.zomato.com/bangalore/mm-prashanth-hotel-rajajinagar-bangalore/order
+Vera Italiano,4.1,"Italian, Fast Food, Pasta, Pizza, Desserts, Beverages",¹ 100.00,60,NA,https://www.zomato.com/bangalore/vera-italiano-koramangala-6th-block-bangalore/order
+Lassi Day Cafe,3.9,"Shake, Coffee, Beverages, Fast Food, Street Food, Momos, Ice Cream, Desserts",¹ 100.00,49,NA,https://www.zomato.com/bangalore/lassi-day-cafe-rt-nagar-bangalore/order
+The Home Food,3.6,North Indian,¹ 100.00,49,Free Butter Milk,https://www.zomato.com/bangalore/the-home-food-4-rt-nagar-bangalore/order
+Chole Bhatura And Parathas,3.4,North Indian,¹ 100.00,68,40% OFF,https://www.zomato.com/bangalore/chole-bhatura-and-parathas-btm-bangalore/order
+Dakshin,4,"North Indian, South Indian",¹ 100.00,36,NA,https://www.zomato.com/bangalore/dakshin-wilson-garden/order
+Paris Restaurant,4,"North Indian, Chinese, Biryani, Seafood, Mughlai",¹ 100.00,48,NA,https://www.zomato.com/bangalore/paris-restaurant-yeshwantpur/order
+Mallu Family Restaurant,3.8,"Arabian, Biryani, Chinese, South Indian, Kerala, Shake, Juices, Beverages",¹ 100.00,53,20% OFF,https://www.zomato.com/bangalore/mallu-family-restaurant-btm-bangalore/order
+Sree Ganesha Chats & Foods,3.9,"Street Food, Chinese",¹ 100.00,50,NA,https://www.zomato.com/bangalore/sree-ganesha-chats-foods-2-rajajinagar-bangalore/order
+Fanoos Xprss Since 1975,3.4,"Rolls, Fast Food, North Indian, Biryani, Street Food, Mandi, Iranian",¹ 100.00,53,   150 OFF,https://www.zomato.com/bangalore/fanoos-xprss-since-1975-jayanagar-bangalore/order
+Little Baghdad,4.4,"Shawarma, Arabian, Fast Food, BBQ, Desserts",¹ 200.00,65,NA,https://www.zomato.com/bangalore/little-baghdad-kammanahalli-bangalore/order
+Donne Biriyani Hub,4.1,"Biryani, Sandwich, Chinese, North Indian, Rolls, Shake, Juices",¹ 200.00,47,NA,https://www.zomato.com/bangalore/donne-biriyani-hub-1-domlur-bangalore/order
+New Kairali Restaurant,4.1,"Kerala, South Indian, North Indian, Chinese, Biryani",¹ 200.00,55,NA,https://www.zomato.com/bangalore/new-kairali-restaurant-kammanahalli/order
+Pizza-Man,4.5,"Pizza, Italian, Ice Cream, Desserts, Shake, Beverages",¹ 200.00,41,NA,https://www.zomato.com/bangalore/pizza-man-basavanagudi-bangalore/order
+Burger@69,3.2,"Burger, Pizza, Fast Food, Street Food",¹ 200.00,51,NA,https://www.zomato.com/bangalore/burger@69-rajajinagar-bangalore/order
+Cafe Mondo,4.2,"Pizza, Italian, Pasta, Coffee, Desserts, Burger, European, Healthy Food",¹ 200.00,45,20% OFF,https://www.zomato.com/bangalore/cafe-mondo-basavanagudi/order
+Sri Udupi Swadista,3.7,"South Indian, North Indian, Chinese, Sandwich, Street Food, Desserts, Shake, Beverages",¹ 200.00,57,60% OFF,https://www.zomato.com/bangalore/sri-udupi-swadista-btm-bangalore/order
+Dawa Hot Momos - Darjeeling Style,4.1,"Chinese, Momos, Sichuan",¹ 200.00,50,30% OFF,https://www.zomato.com/bangalore/dawa-hot-momos-darjeeling-style-koramangala-5th-block-bangalore/order
+New Ambur Biryani,3.5,"Biryani, Fast Food",¹ 200.00,38,Free Gobhi Pepper Fry,https://www.zomato.com/bangalore/new-ambur-biryani-shanti-nagar/order
+Anupam's Coast II Coast,4.1,"Seafood, South Indian, Chinese, Mangalorean, Oriental",¹ 200.00,36,20% OFF,https://www.zomato.com/bangalore/anupams-coast-ii-coast-church-street-bangalore/order
+Tenzin Kitchen,4.3,"Tibetan, Chinese, Sichuan, Asian",¹ 200.00,58,NA,https://www.zomato.com/bangalore/tenzin-kitchen-koramangala-7th-block/order
+Bhojohori Manna,4.2,"Bengali, North Indian, Seafood, Mishti",¹ 200.00,59,10% OFF,https://www.zomato.com/bangalore/bhojohori-manna-koramangala-6th-block/order
+Dharmik Veg,3.6,South Indian,¹ 100.00,42,NA,https://www.zomato.com/bangalore/dharmik-veg-frazer-town-bangalore/order
+Bhagathram Sweets,3.5,"Mithai, North Indian, Fast Food, Street Food, Beverages",¹ 100.00,37,NA,https://www.zomato.com/bangalore/bhagathram-sweets-commercial-street-bangalore/order
+Chihan Restaurant,4.3,"South Indian, Seafood, Asian",¹ 100.00,55,NA,https://www.zomato.com/bangalore/chihan-restaurant-1-ejipura-bangalore/order
+Jook Taproom,3.8,"North Indian, South Indian, Chinese, Pizza, Fast Food, Biryani, Asian, Bar Food",¹ 100.00,59,NA,https://www.zomato.com/bangalore/jook-taproom-indiranagar-bangalore/order
+BigBites,4,"Fast Food, Momos, Street Food",¹ 100.00,47,   200 OFF,https://www.zomato.com/bangalore/bigbites-seshadripuram-bangalore/order
+Rajasthani Dhaba,3.8,"Rajasthani, North Indian",¹ 100.00,30,NA,https://www.zomato.com/bangalore/rajasthani-dhaba-shanti-nagar-bangalore/order
+CakeWalk,4.3,"Bakery, Fast Food, Desserts, Beverages",¹ 100.00,48,NA,https://www.zomato.com/bangalore/cakewalk-indiranagar/order
+Shyam Mishra Juice Centre,4,Shake,¹ 100.00,29,NA,https://www.zomato.com/bangalore/shyam-mishra-juice-centre-vasanth-nagar-bangalore/order
+Karavali Lunch Home,4,"South Indian, Chinese, Seafood",¹ 100.00,57,NA,https://www.zomato.com/bangalore/karavali-lunch-home-jp-nagar-bangalore/order
+Udupi Upachar,3.6,South Indian,¹ 100.00,58,Free Lime Juice,https://www.zomato.com/bangalore/udupi-upachar-btm-bangalore/order
+Vindhu Restaurant,3.7,"South Indian, Chinese",¹ 100.00,62,NA,https://www.zomato.com/bangalore/vindhu-restaurant-indiranagar-bangalore/order
+Poha House,3.8,"Street Food, Maharashtrian",¹ 100.00,58,NA,https://www.zomato.com/bangalore/poha-house-btm-bangalore/order
+Cafe Noir,4.3,"Italian, Continental, French, Cafe, Pizza, Desserts, Juices, Beverages",¹ 300.00,28,30% OFF,https://www.zomato.com/bangalore/cafe-noir-lavelle-road/order
+Suchali's Artisan Bakehouse,4.3,"Bakery, Desserts, Beverages",¹ 300.00,40,10% OFF,https://www.zomato.com/bangalore/suchalis-artisan-bakehouse-infantry-road-bangalore/order
+Swaad Kitchen Mart,4.1,"Pasta, South Indian, Beverages, Italian, North Indian, Juices",¹ 300.00,46,Free Plain Buttermilk,https://www.zomato.com/bangalore/swaad-kitchen-mart-rajajinagar-bangalore/order
+Priyadarshini Restaurant,4.4,"South Indian, Mithai, Beverages, Juices, Shake, Ice Cream",¹ 300.00,36,NA,https://www.zomato.com/bangalore/priyadarshini-restaurant-majestic/order
+Hotel Fanoos Since 1975,4,"Rolls, Biryani, Fast Food, Arabian",¹ 300.00,31,   100 OFF,https://www.zomato.com/bangalore/hotel-fanoos-since-1975-richmond-road-bangalore/order
+Shyam Mishra Juice Centre,4.2,Juices,¹ 300.00,37,Free Bread Butter Jam,https://www.zomato.com/bangalore/shyam-mishra-juice-centre-rajajinagar-bangalore/order
+Ultimate Parathas,4.4,North Indian,¹ 300.00,56,50% OFF,https://www.zomato.com/bangalore/ultimate-parathas-btm-bangalore/order
+DJ's Momo,4.2,"Momos, Chinese, Pasta",¹ 300.00,61,   125 OFF,https://www.zomato.com/bangalore/djs-momo-btm-bangalore/order
+The Sip Shop,4.3,"Fast Food, Ice Cream, Desserts, Beverages, Shake",¹ 300.00,42,Free Belgian Chocolate Mocktail,https://www.zomato.com/bangalore/the-sip-shop-city-market-bangalore/order
+Richie Rich,4.4,"Ice Cream, Desserts",¹ 300.00,31,NA,https://www.zomato.com/bangalore/richie-rich-race-course-road-bangalore/order
+Naati Mane,4.1,"South Indian, Biryani",¹ 300.00,47,NA,https://www.zomato.com/bangalore/naati-mane-1-basaveshwara-nagar-bangalore/order
+Satvik Grand,4,North Indian,¹ 300.00,42,NA,https://www.zomato.com/bangalore/satvik-grand-malleshwaram-bangalore/order
+Yak Kitchen,4.2,"Tibetan, Chinese, Beverages",¹ 250.00,51,NA,https://www.zomato.com/bangalore/yak-kitchen-koramangala-5th-block-bangalore/order
+Karachi Bakery,4.1,"Fast Food, Salad, Wraps, Chinese, Sandwich, Pasta, Burger, Pizza",¹ 250.00,50,NA,https://www.zomato.com/bangalore/karachi-bakery-1-indiranagar-bangalore/order
+Kulfilicious,4.3,"Ice Cream, Desserts, Coffee",¹ 250.00,48,NA,https://www.zomato.com/bangalore/kulfilicious-jayanagar-bangalore/order
+Veg Daawat By Behrouz,2.1,"Biryani, Kebab",¹ 250.00,38,20% OFF,https://www.zomato.com/bangalore/veg-daawat-by-behrouz-shanti-nagar-bangalore/order
+Banashankari Donne Biryani Hotel,4,"South Indian, Biryani",¹ 250.00,44,NA,https://www.zomato.com/bangalore/banashankari-donne-biryani-hotel-banashankari-bangalore/order
+Magic Chef Restaurant,4,"Rolls, Chinese, Biryani, North Indian, Beverages",¹ 250.00,52,NA,https://www.zomato.com/bangalore/magic-chef-restaurant-btm-bangalore/order
+Chin Lung Resto Bar,3.7,"Bar Food, Chinese, North Indian",¹ 250.00,36,NA,https://www.zomato.com/bangalore/chin-lung-resto-bar-residency-road-bangalore/order
+Eat N Drink,4.2,"Fast Food, Sandwich, Burger, Wraps, Rolls, Shake, Juices, Beverages",¹ 250.00,48,NA,https://www.zomato.com/bangalore/eat-n-drink-btm/order
+Jalpaan,4.2,"North Indian, Italian, Street Food, Desserts, Beverages",¹ 250.00,57,NA,https://www.zomato.com/bangalore/jalpaan-rajajinagar/order
+Chef Bakers,2.9,"Bakery, Fast Food, Pizza, Sandwich, Burger, Desserts",¹ 250.00,39,   150 OFF,https://www.zomato.com/bangalore/chef-bakers-1-new-bel-road-bangalore/order
+Simply Chats,3.6,"Street Food, Sandwich, Ice Cream, Beverages",¹ 250.00,52,NA,https://www.zomato.com/bangalore/simply-chats-basaveshwara-nagar-bangalore/order
+Jain & Veg Cuisines,3.7,"Chinese, Fast Food, Pizza, Sichuan",¹ 250.00,42,NA,https://www.zomato.com/bangalore/jain-veg-cuisines-basavanagudi-bangalore/order
+Sri Madanatamma Nati Ruchi,2.9,South Indian,¹ 100.00,57,NA,https://www.zomato.com/bangalore/sri-madanatamma-nati-ruchi-rajajinagar-bangalore/order
+Jain Meals by EatFit,4,"Healthy Food, North Indian",¹ 100.00,51,   150 OFF,https://www.zomato.com/bangalore/jain-meals-by-eatfit-rajajinagar-bangalore/order
+Fishland,4.2,"Seafood, South Indian, Biryani, Ice Cream, Beverages",¹ 100.00,38,NA,https://www.zomato.com/bangalore/fishland-majestic/order
+Wok Fire,3.7,"Chinese, Asian, Thai, Japanese, Momos",¹ 100.00,58,NA,https://www.zomato.com/bangalore/wok-fire-koramangala-7th-block-bangalore/order
+NR Donne Biriyani,4.1,"South Indian, Mughlai, Biryani",¹ 100.00,47,NA,https://www.zomato.com/bangalore/nr-donne-biriyani-jayanagar-bangalore/order
+Shetty Lunch Home,4.1,"Mangalorean, Seafood, North Indian, Chinese, Mughlai, Street Food, Desserts, Beverages",¹ 100.00,60,NA,https://www.zomato.com/bangalore/shetty-lunch-home-1-jayanagar-bangalore/order
+Sri Guru Kotturreshwara Butter Dosa Hotel,4.3,South Indian,¹ 100.00,50,NA,https://www.zomato.com/bangalore/sri-guru-kotturreshwara-butter-dosa-hotel-vijay-nagar-bangalore/order
+Pizzeria House,3.4,"Pizza, Italian, Fast Food, Desserts, Shake, Beverages",¹ 100.00,60,NA,https://www.zomato.com/bangalore/pizzeria-house-jayanagar-bangalore/order
+Kebab Xpress,3.9,"North Indian, Chinese, Mughlai, Parsi, Kebab",¹ 100.00,54,NA,https://www.zomato.com/bangalore/kebab-xpress-banashankari-bangalore/order
+Dum Biryani Hub,3.1,"Biryani, North Indian, Chinese, Desserts, Beverages, Sichuan",¹ 100.00,47,60% OFF,https://www.zomato.com/bangalore/dum-biryani-hub-btm-bangalore/order
+Sri Lakshmi Janardhana Iyengar Bakery,4.3,Bakery,¹ 100.00,40,NA,https://www.zomato.com/bangalore/sri-lakshmi-janardhana-iyengar-bakery-basaveshwara-nagar-bangalore/order
+Casino Restaurant,4.1,"North Indian, Mughlai, Biryani, Chinese",¹ 100.00,46,NA,https://www.zomato.com/bangalore/casino-restaurant-new-bel-road-bangalore/order
+Kalia's Kitchen,3.9,"North Indian, Rolls, Street Food",¹ 300.00,57,   125 OFF,https://www.zomato.com/bangalore/kalias-kitchen-btm-bangalore/order
+Swathi Restaurant,4.3,"Seafood, North Indian, Chinese, Street Food",¹ 300.00,64,NA,https://www.zomato.com/bangalore/swathi-restaurant-jp-nagar-bangalore/order
+Al Fillfilah Mandi Majlis,3.7,"Arabian, Rolls, North Indian, Mughlai",¹ 300.00,52,NA,https://www.zomato.com/bangalore/al-fillfilah-mandi-majlis-jayanagar-bangalore/order
+Bun World,4.3,"Bakery, Fast Food, Beverages",¹ 300.00,43,NA,https://www.zomato.com/bangalore/bun-world-malleshwaram/order
+Mangaluru Oota,4.2,"South Indian, Seafood, Chinese, Biryani",¹ 300.00,56,Free Kokum Juice,https://www.zomato.com/bangalore/mangaluru-oota-koramangala-6th-block-bangalore/order
+Makhani Darbar,3.5,North Indian,¹ 300.00,43,60% OFF,https://www.zomato.com/bangalore/makhani-darbar-vasanth-nagar-bangalore/order
+Queens Restaurant,4.3,"North Indian, Fast Food, Street Food, Desserts, Beverages",¹ 300.00,54,Flat 10% OFF,https://www.zomato.com/bangalore/queens-restaurant-new-bel-road-bangalore/order
+Donne Biriyani Kendra,4.2,"Biryani, South Indian",¹ 300.00,48,NA,https://www.zomato.com/bangalore/donne-biriyani-kendra-1-banashankari-bangalore/order
+Theertham Cafe,4,"South Indian, Ice Cream, Tea, Beverages",¹ 300.00,48,Free Kesari Bath,https://www.zomato.com/bangalore/theertham-cafe-koramangala-7th-block-bangalore/order
+Xero Degrees,4,"Cafe, Coffee, Fast Food, Pizza, Burger, Sandwich, Waffle, Beverages",¹ 300.00,56,NA,https://www.zomato.com/bangalore/xero-degrees-koramangala-5th-block-bangalore/order
+New Spice Tandoori,4.1,"Chinese, North Indian, South Indian, Andhra",¹ 300.00,51,NA,https://www.zomato.com/bangalore/new-spice-tandoori-basaveshwara-nagar-bangalore/order
+South Idlis,4,"South Indian, Beverages",¹ 300.00,47,NA,https://www.zomato.com/bangalore/south-idlis-rajajinagar/order
+Egg Zone,4.3,"Chinese, Street Food",¹ 100.00,51,NA,https://www.zomato.com/bangalore/egg-zone-vijay-nagar-bangalore/order
+Midnight Cafeteria,3.5,"Fast Food, Chinese, Street Food, Desserts, Shake, Beverages",¹ 200.00,55,NA,https://www.zomato.com/bangalore/midnight-cafeteria-banashankari-bangalore/order
+Vasavi Andhra Mess,3.7,"Andhra, South Indian, North Indian, Fast Food",¹ 150.00,45,NA,https://www.zomato.com/bangalore/vasavi-andhra-mess-malleshwaram-bangalore/order
+Lucknowee - Nawabi Rolls & Kebabs,4.1,"Rolls, Biryani, Kebab, North Indian, Mughlai, Desserts",¹ 250.00,62,50% OFF,https://www.zomato.com/bangalore/lucknowee-nawabi-rolls-kebabs-koramangala-7th-block-bangalore/order
+The Bangalore Cafe,4.1,"North Indian, Italian, Continental, Biryani, Chinese, Desserts",¹ 400.00,33,   125 OFF,https://www.zomato.com/bangalore/the-bangalore-cafe-1-shanti-nagar-bangalore/order
+Sheesh Kebab,3.9,"North Indian, Biryani, Chinese, Rolls, Mughlai, Kebab, Desserts, Beverages",¹ 450.00,46,   100 OFF,https://www.zomato.com/bangalore/sheesh-kebab-frazer-town-bangalore/order
+Hotel Savajis,4.2,"Biryani, South Indian",¹ 150.00,52,NA,https://www.zomato.com/bangalore/hotel-savajis-rajajinagar-bangalore/order
+The Rolls Zone,4.1,"Rolls, Shake",¹ 150.00,46,NA,https://www.zomato.com/bangalore/the-rolls-zone-1-basavanagudi-bangalore/order
+Jo Mess,4.2,"South Indian, Seafood",¹ 150.00,54,NA,https://www.zomato.com/bangalore/jo-mess-2-koramangala-2nd-block-bangalore/order
+Thela Tapri By Sharma's Kitchen,3.8,"North Indian, Fast Food",¹ 100.00,62,20% OFF,https://www.zomato.com/bangalore/thela-tapri-by-sharmas-kitchen-btm-bangalore/order
+Juice Junction,4.1,"Beverages, Sandwich, Juices, Shake",¹ 100.00,49,10% OFF,https://www.zomato.com/bangalore/juice-junction-koramangala-5th-block-bangalore/order
+Vegan Vogue,4.3,"North Indian, Italian, Continental, Chinese, Desserts, Tea, Juices, Beverages",¹ 500.00,59,NA,https://www.zomato.com/bangalore/vegan-vogue-indiranagar-bangalore/order
+Vani's Hyderabadi Biryani,3.9,Biryani,¹ 100.00,60,30% OFF,https://www.zomato.com/bangalore/vanis-hyderabadi-biryani-btm-bangalore/order
+Sri Maruthi Hotel,4.2,"South Indian, Biryani",¹ 200.00,46,NA,https://www.zomato.com/bangalore/sri-maruthi-hotel-1-rajajinagar-bangalore/order
+Biriyani Depot,4.2,"Biryani, South Indian",¹ 150.00,46,NA,https://www.zomato.com/bangalore/biriyani-depot-koramangala-6th-block-bangalore/order
+Sri Sangameshwar Rotti Mane,4,"South Indian, Mithai",¹ 100.00,45,NA,https://www.zomato.com/bangalore/sri-sangameshwar-rotti-mane-vijay-nagar-bangalore/order
+Yummy Sip N Bites,4.2,"Fast Food, Ice Cream, Desserts, Beverages",¹ 150.00,46,Free Death By Chocolate,https://www.zomato.com/bangalore/yummy-sip-n-bites-vijay-nagar-bangalore/order
+Kannur Restaurant,3.4,"South Indian, Kerala, Chinese, Biryani, Mughlai, Beverages",¹ 200.00,65,NA,https://www.zomato.com/bangalore/kannur-restaurant-kammanahalli/order
+Aramane Donne Biriyani,3.4,"Biryani, Andhra",¹ 150.00,64,NA,https://www.zomato.com/bangalore/aramane-donne-biriyani-1-banashankari-bangalore/order
+Go Native,4.1,"Healthy Food, Desserts, Beverages, Coffee, Pizza, Oriental, Salad",¹ 500.00,29,NA,https://www.zomato.com/bangalore/go-native-1-lavelle-road-bangalore/order
+Akram Hotel,3.4,"South Indian, Biryani, Mughlai",¹ 100.00,57,NA,https://www.zomato.com/bangalore/akram-hotel-kumaraswamy-layout-bangalore/order
+Local Panda,4.4,"Chinese, Momos, Thai, Sichuan",¹ 150.00,57,NA,https://www.zomato.com/bangalore/local-panda-banashankari-bangalore/order
+Shettys Red,4.2,"Mangalorean, Seafood, North Indian",¹ 150.00,54,NA,https://www.zomato.com/bangalore/shettys-red-banashankari-bangalore/order
+Hotel Sanman,4.3,South Indian,¹ 40.00,44,NA,https://www.zomato.com/bangalore/hotel-sanman-basavanagudi-bangalore/order
+Raj Restaurant,4.1,"Andhra, Biryani",¹ 250.00,32,NA,https://www.zomato.com/bangalore/raj-restaurant-majestic-bangalore/order
+Merwans Cake Stop,4.5,Bakery,¹ 250.00,56,NA,https://www.zomato.com/bangalore/merwans-cake-stop-jayanagar-bangalore/order
+Craving O Clock,4.2,"Burger, Sandwich, Wraps, Street Food, Fast Food, Shake, Beverages",¹ 250.00,66,NA,https://www.zomato.com/bangalore/craving-o-clock-btm-bangalore/order
+Occasions,4.2,"Bakery, Desserts",¹ 250.00,60,Free Chocolate Brownie Box,https://www.zomato.com/bangalore/occasions-koramangala-4th-block/order
+Bake N Bloom,3.9,"Bakery, Desserts",¹ 250.00,40,NA,https://www.zomato.com/bangalore/bake-n-bloom-residency-road-bangalore/order
+Half Tea,4.2,"Tea, Coffee, Shake, Beverages, Pizza, Burger, Sandwich, Street Food",¹ 250.00,51,NA,https://www.zomato.com/bangalore/half-tea-1-basaveshwara-nagar-bangalore/order
+Brahmins' Upahar,4.3,"South Indian, Street Food",¹ 250.00,42,NA,https://www.zomato.com/bangalore/brahmins-upahar-rt-nagar-bangalore/order
+Uttar Karnataka Jolada Rotti Mattu Chapati Angadi,4.1,"South Indian, Mithai",¹ 250.00,49,NA,https://www.zomato.com/bangalore/uttar-karnataka-jolada-rotti-mattu-chapati-angadi-jayanagar-bangalore/order
+Simpli Namdhari's,4.3,"Healthy Food, European, Pizza, Fast Food, Beverages",¹ 250.00,50,NA,https://www.zomato.com/bangalore/simpli-namdharis-jayanagar-bangalore/order
+North Indian Food,3.5,Chinese,¹ 250.00,60,40% OFF,https://www.zomato.com/bangalore/north-indian-food-1-rajajinagar-bangalore/order
+Chinese Square,4.2,"Chinese, Fast Food, Beverages, Shake",¹ 250.00,41,NA,https://www.zomato.com/bangalore/chinese-square-basavanagudi-bangalore/order
+Momo Rice Noodles,3.4,"Momos, Chinese, Thai, Sichuan",¹ 250.00,56,NA,https://www.zomato.com/bangalore/momo-rice-noodles-btm-bangalore/order
+Aasife Biriyani,3.9,Biryani,¹ 200.00,62,   125 OFF,https://www.zomato.com/bangalore/aasife-biriyani-koramangala-2nd-block-bangalore/order
+South Stories,3.3,"South Indian, Pizza, Burger, Fast Food, Street Food, Desserts, Shake, Beverages",¹ 150.00,51,NA,https://www.zomato.com/bangalore/south-stories-vijay-nagar-bangalore/order
+The Lassi Corner,3.8,"Fast Food, Street Food, Sandwich, Juices, Ice Cream, Beverages, Desserts, Shake",¹ 150.00,38,NA,https://www.zomato.com/bangalore/the-lassi-corner-sadashiv-nagar-bangalore/order
+Shawarma Grill House,3.9,"Biryani, North Indian, Arabian, Chinese, Beverages",¹ 200.00,39,NA,https://www.zomato.com/bangalore/shawarma-grill-house-rajajinagar-bangalore/order
+Uncle Peter's Pancakes,3.9,"Sandwich, American, Pancake, Desserts, Fast Food, Beverages",¹ 200.00,NA,20% OFF,https://www.zomato.com/bangalore/uncle-peters-pancakes-indiranagar-bangalore/order
+Sri Maruthi Miltry Hotel,3.5,"South Indian, Biryani, Chinese",¹ 200.00,45,NA,https://www.zomato.com/bangalore/sri-maruthi-miltry-hotel-rajajinagar/order
+Bist Dhaba,3.5,"Chinese, North Indian",¹ 150.00,66,NA,https://www.zomato.com/bangalore/bist-dhaba-btm-bangalore/order
+Bolas Sweets & Savouries,4,Mithai,¹ 100.00,36,20% OFF,https://www.zomato.com/bangalore/bolas-sweets-savouries-wilson-garden-bangalore/order
+Qissa,4.3,"Arabian, Lebanese, Turkish, Middle Eastern, Rolls, Beverages, Desserts",¹ 750.00,58,NA,https://www.zomato.com/bangalore/qissa-indiranagar-bangalore/order
+Bentoz Pizza,3.4,"Pizza, Pasta, Italian, Fast Food, Beverages",¹ 100.00,67,50% OFF,https://www.zomato.com/bangalore/bentoz-pizza-koramangala-5th-block-bangalore/order
+Chicago Pizza,3.8,"Pizza, Fast Food, Pasta",¹ 200.00,59,   150 OFF,https://www.zomato.com/bangalore/chicago-pizza-koramangala-5th-block-bangalore/order
+Nomad Pizza - Traveller Series,4.2,"Pizza, Desserts, Beverages",¹ 400.00,46,   100 OFF,https://www.zomato.com/bangalore/nomad-pizza-traveller-series-commercial-street-bangalore/order
+Utsav Restaurant,4.2,"North Indian, Chinese",¹ 150.00,44,NA,https://www.zomato.com/bangalore/utsav-restaurant-banashankari/order
+Bunt's Biriyani Palace,3.7,"Biryani, Mughlai, Chinese, Seafood, Sichuan",¹ 150.00,50,NA,https://www.zomato.com/bangalore/bunts-biriyani-palace-banashankari/order
+Shakes Theory,4.5,"Beverages, Fast Food, Sandwich, Momos, Street Food",¹ 150.00,54,NA,https://www.zomato.com/bangalore/shakes-theory-1-jayanagar-bangalore/order
+Burma Burma - Brigade Road,4.4,"Burmese, Asian, Salad, Bubble Tea, Ice Cream, Desserts",¹ 150.00,39,NA,https://www.zomato.com/bangalore/burma-burma-brigade-road-brigade-road-bangalore/order
+Witty Litti,3.9,"North Indian, Bihari, Momos",¹ 150.00,58,NA,https://www.zomato.com/bangalore/witty-litti-btm-bangalore/order
+Cothas Coffee,4,"Coffee, Shake, Street Food",¹ 150.00,37,NA,https://www.zomato.com/bangalore/cothas-coffee-2-shivajinagar-bangalore/order
+Basaveshwar Khanavali,4.4,South Indian,¹ 150.00,36,NA,https://www.zomato.com/bangalore/basaveshwar-khanavali-3-majestic-bangalore/order
+L&K's Pizza,4.4,Pizza,¹ 150.00,60,NA,https://www.zomato.com/bangalore/l-ks-pizza-jayanagar-bangalore/order
+The Baklava Company,3.7,"Mithai, Desserts",¹ 150.00,67,NA,https://www.zomato.com/bangalore/the-baklava-company-kammanahalli-bangalore/order
+Adukale,3.9,"South Indian, Street Food",¹ 150.00,47,Free Rice Kodubale | Best Indian Snack | Adukale - 180g Pack,https://www.zomato.com/bangalore/adukale-basavanagudi-bangalore/order
+Salt Mango Tree,4.1,"Kerala, Biryani, South Indian, Seafood, Chinese, Desserts, Beverages",¹ 150.00,55,NA,https://www.zomato.com/bangalore/salt-mango-tree-indiranagar/order
+Raghavendra Upahara,4.2,"South Indian, Street Food, Chinese, Beverages, Desserts",¹ 150.00,54,NA,https://www.zomato.com/bangalore/raghavendra-upahara-jayanagar/order
+Boba Bar By Frozen Bottle,3.7,"Bubble Tea, Beverages",¹ 100.00,44,30% OFF,https://www.zomato.com/bangalore/boba-bar-by-frozen-bottle-city-market-bangalore/order
+Shree Guru Sagar,3.8,"Chinese, North Indian, South Indian, Beverages",¹ 150.00,50,NA,https://www.zomato.com/bangalore/shree-guru-sagar-basaveshwara-nagar/order
+Iyengar's Delicacies,4.2,"South Indian, North Indian, Chinese",¹ 100.00,31,NA,https://www.zomato.com/bangalore/iyengars-delicacies-richmond-road-bangalore/order
+Al-Zaitoon Restaurant & Grills,3.7,"North Indian, Arabian, Chinese, Rolls, Seafood",¹ 400.00,35,NA,https://www.zomato.com/bangalore/al-zaitoon-restaurant-grills-richmond-town-bangalore/order
+Punjabi Swag,3.7,"North Indian, Mughlai, Biryani, Chinese, Asian, Desserts",¹ 500.00,60,   200 OFF,https://www.zomato.com/bangalore/punjabi-swag-btm/order
+Indian Coffee House & Restaurant,4.2,"South Indian, North Indian, Mughlai, Biryani, Chinese, Fast Food, Juices, Beverages",¹ 400.00,52,NA,https://www.zomato.com/bangalore/indian-coffee-house-restaurant-koramangala-5th-block/order
+RR Fish Land,3.9,"Seafood, Chinese, Biryani",¹ 150.00,49,NA,https://www.zomato.com/bangalore/rr-fish-land-jayanagar-bangalore/order
+Mom's Dabba,3.7,North Indian,¹ 150.00,56,NA,https://www.zomato.com/bangalore/moms-dabba-koramangala-7th-block-bangalore/order
+Cafe Gujjubhai,3.8,Gujarati,¹ 100.00,51,NA,https://www.zomato.com/bangalore/cafe-gujjubhai-jayanagar-bangalore/order
+Sweets By Bhartiya Jalpan,4.2,"Mithai, North Indian, Street Food",¹ 400.00,56,NA,https://www.zomato.com/bangalore/sweets-by-bhartiya-jalpan-indiranagar-bangalore/order
+Atithi Satkaar,4.1,"North Indian, South Indian, Chinese, Fast Food, Ice Cream, Beverages, Shake, Sichuan",¹ 250.00,33,NA,https://www.zomato.com/bangalore/atithi-satkaar-city-market-bangalore/order
+Naati Cafe,4.3,"Biryani, South Indian",¹ 350.00,47,NA,https://www.zomato.com/bangalore/naati-cafe-ulsoor-bangalore/order
+Ambur Darbar Biryani Point,3.9,"Biryani, South Indian, Chinese",¹ 100.00,34,20% OFF,https://www.zomato.com/bangalore/ambur-darbar-biryani-point-rt-nagar-bangalore/order
+Mangalore Pearl - Seafood Restaurant,4.3,"Mangalorean, Seafood, Desserts",¹ 100.00,44,NA,https://www.zomato.com/bangalore/mangalore-pearl-seafood-restaurant-ulsoor-bangalore/order
+The Light House Restaurant,4.3,"North Indian, Chinese, Seafood, Desserts, Beverages, Shake, Juices",¹ 100.00,48,NA,https://www.zomato.com/bangalore/the-light-house-restaurant-new-bel-road-bangalore/order
+Udupi Brahmins Kitchen,4.3,"Chinese, South Indian",¹ 100.00,44,NA,https://www.zomato.com/bangalore/udupi-brahmins-kitchen-vijay-nagar-bangalore/order
+Zed The Baker,4.1,"Bakery, Pizza, Pasta, Chinese, Sandwich, Coffee, Juices, Beverages",¹ 100.00,31,   200 OFF,https://www.zomato.com/bangalore/zed-the-baker-church-street-bangalore/order
+SGS Non Veg Gundu Palav,4.1,South Indian,¹ 100.00,44,NA,https://www.zomato.com/bangalore/sgs-non-veg-gundu-palav-1-malleshwaram-bangalore/order
+Myfroyoland Premium Frozen Yoghurt,3.8,"Ice Cream, Desserts, Frozen Yogurt",¹ 100.00,36,   100 OFF,https://www.zomato.com/bangalore/myfroyoland-premium-frozen-yoghurt-seshadripuram-bangalore/order
+Navya Foods,4,"North Indian, Mughlai, Chinese, Biryani",¹ 100.00,44,NA,https://www.zomato.com/bangalore/navya-foods-btm-bangalore/order
+Eshanya Street Food Cafe,3.9,"North Indian, Chinese, Biryani, Ice Cream, Desserts, Beverages",¹ 100.00,56,NA,https://www.zomato.com/bangalore/eshanya-street-food-cafe-jayanagar-bangalore/order
+Big Bang Pizza,4.1,"Pizza, Pasta, Burger, Fast Food, Beverages",¹ 100.00,47,NA,https://www.zomato.com/bangalore/big-bang-pizza-3-frazer-town-bangalore/order
+Crown Land Restaurant,4,South Indian,¹ 100.00,37,NA,https://www.zomato.com/bangalore/crown-land-restaurant-langford-town-bangalore/order
+Momoz,3.7,"Chinese, Momos, Seafood, Thai, Sichuan",¹ 100.00,65,NA,https://www.zomato.com/bangalore/momoz-btm/order
+Rajanna Military Hotel,3.9,"South Indian, Biryani",¹ 200.00,50,NA,https://www.zomato.com/bangalore/rajanna-military-hotel-2-basaveshwara-nagar-bangalore/order
+Hornbill   s Kitchen,4.2,"South Indian, Naga, Beverages",¹ 400.00,60,NA,https://www.zomato.com/bangalore/hornbills-kitchen-koramangala-7th-block-bangalore/order
+Soni   s Cafe - Juice & Sandwiches,4,"Sandwich, Pizza, Pasta, Shake, Juices, Beverages",¹ 200.00,45,Free Mushroom Onion Grilled Sandwich,https://www.zomato.com/bangalore/sonis-cafe-juice-sandwiches-rajajinagar-bangalore/order
+Sakath Momos,3.6,"Momos, Street Food, Fast Food",¹ 150.00,43,Free Brownie Shake,https://www.zomato.com/bangalore/sakath-momos-basavanagudi-bangalore/order
+Crepito,3.9,"Pizza, Burger, Sandwich, Fast Food, Chinese, Street Food, Beverages, Desserts",¹ 300.00,61,Free Masala Macaroni Pasta,https://www.zomato.com/bangalore/crepito-rajajinagar-bangalore/order
+The Fritter Company,4.1,"Burger, American, Sandwich, Salad, Wraps, Drinks Only, Desserts",¹ 150.00,61,   125 OFF,https://www.zomato.com/bangalore/the-fritter-company-btm-bangalore/order
+Ice Fort,4.3,"Ice Cream, Desserts, Beverages, Shake, Sandwich",¹ 150.00,53,NA,https://www.zomato.com/bangalore/ice-fort-vijay-nagar/order
+Juice Therapy,4.2,"Beverages, Juices, Desserts",¹ 100.00,60,NA,https://www.zomato.com/bangalore/juice-therapy-hosur-road-bangalore/order
+Keventers - Milkshakes & Desserts,4.3,"Beverages, Shake",¹ 200.00,36,40% OFF,https://www.zomato.com/bangalore/keventers-milkshakes-desserts-brigade-road-bangalore/order
+Rishi's Paratha Plaza,4.4,"North Indian, Fast Food, Street Food, Beverages, Desserts",¹ 100.00,50,NA,https://www.zomato.com/bangalore/rishis-paratha-plaza-sanjay-nagar/order
+The Boba King,3.9,"Bubble Tea, Sandwich, Burger, Juices",¹ 150.00,36,NA,https://www.zomato.com/bangalore/the-boba-king-brigade-road-bangalore/order
+Navya Samrat,4.4,"North Indian, Chinese, South Indian, Ice Cream, Desserts, Beverages",¹ 350.00,31,NA,https://www.zomato.com/bangalore/navya-samrat-infantry-road-bangalore/order
+Sea Spice,4.3,"Biryani, South Indian, Seafood, Chinese, North Indian, Sichuan",¹ 250.00,49,NA,https://www.zomato.com/bangalore/sea-spice-malleshwaram-bangalore/order
+Hotel Empark,4,"South Indian, North Indian, Chinese, Mughlai, Biryani, Street Food, Beverages",¹ 250.00,41,NA,https://www.zomato.com/bangalore/hotel-empark-wilson-garden/order
+Orange Bake And Juice,4,"Bakery, Desserts",¹ 250.00,52,NA,https://www.zomato.com/bangalore/orange-bake-and-juice-btm-bangalore/order
+Shree Ganesh Fruits Juice,3.8,"Beverages, Juices, Fast Food",¹ 250.00,46,NA,https://www.zomato.com/bangalore/shree-ganesh-fruits-juice-rajajinagar-bangalore/order
+Basaveshwara Khanavali,3.9,South Indian,¹ 250.00,56,NA,https://www.zomato.com/bangalore/basaveshwara-khanavali-koramangala-1st-block-bangalore/order
+Sri Krishna Nandagokula Veg,4.1,"South Indian, North Indian, Chinese, Street Food, Beverages",¹ 250.00,58,NA,https://www.zomato.com/bangalore/sri-krishna-nandagokula-veg-indiranagar-bangalore/order
+Champak,4,"North Indian, Biryani",¹ 250.00,55,Free Gulam Jamoon,https://www.zomato.com/bangalore/champak-1-koramangala-6th-block-bangalore/order
+Cheesecakes By CakeZone,4,"Bakery, Desserts, Mithai",¹ 250.00,53,50% OFF,https://www.zomato.com/bangalore/cheesecakes-by-cakezone-hosur-road-bangalore/order
+Lassi 'n' Mock,4.1,"Desserts, Beverages, Ice Cream, Sandwich, Salad, Shake, Juices, Healthy Food",¹ 250.00,46,NA,https://www.zomato.com/bangalore/lassi-n-mock-sanjay-nagar-bangalore/order
+Curry Leaves,4,"Andhra, North Indian, Chinese, Biryani, Seafood, Beverages, Desserts",¹ 250.00,61,NA,https://www.zomato.com/bangalore/curry-leaves-basavanagudi/order
+Aaha Nati Style,3.5,"North Indian, Biryani, Mughlai, Chinese",¹ 250.00,46,NA,https://www.zomato.com/bangalore/aaha-nati-style-vijay-nagar-bangalore/order
+Chillies,4.1,"South Indian, Biryani, Street Food, Juices, Beverages",¹ 250.00,62,   175 OFF,https://www.zomato.com/bangalore/chillies-koramangala-5th-block-bangalore/order
+S G Rao   s Military Hotel,4.2,"South Indian, Biryani",¹ 150.00,40,NA,https://www.zomato.com/bangalore/s-g-raos-military-hotel-majestic-bangalore/order
+Sultans Of Spice,3.9,"North Indian, Mughlai, Afghan, Biryani, Desserts, Beverages",¹ 150.00,59,NA,https://www.zomato.com/bangalore/sultans-of-spice-koramangala-5th-block-bangalore/order
+Juice Junction & Snacks,4.2,"Fast Food, Sandwich, Rolls, Beverages, Shake, Juices",¹ 150.00,56,NA,https://www.zomato.com/bangalore/juice-junction-snacks-jayanagar-bangalore/order
+Mumbai Masala,4,"Street Food, Fast Food",¹ 150.00,45,NA,https://www.zomato.com/bangalore/mumbai-masala-1-basavanagudi-bangalore/order
+Royal Savera Family Restaurant,4.2,"North Indian, Mughlai, Chinese, Rolls",¹ 150.00,43,NA,https://www.zomato.com/bangalore/royal-savera-family-restaurant-frazer-town-bangalore/order
+Donne Biriyani Angadi Mane,4.2,"South Indian, Biryani",¹ 150.00,44,NA,https://www.zomato.com/bangalore/donne-biriyani-angadi-mane-rajajinagar-bangalore/order
+Madhappa Hindu Military Hotel,4.5,South Indian,¹ 150.00,62,NA,https://www.zomato.com/bangalore/madhappa-hindu-military-hotel-banashankari/order
+Nisarga Garden Restaurant,3.9,"South Indian, Chinese, Desserts, Beverages",¹ 150.00,49,10% OFF,https://www.zomato.com/bangalore/nisarga-garden-restaurant-basavanagudi/order
+DiabeSmart - Sugarfree Foods,3,"Healthy Food, North Indian, Sandwich, Salad",¹ 150.00,36,30% OFF,https://www.zomato.com/bangalore/diabesmart-sugarfree-foods-shanti-nagar-bangalore/order
+Round The Clock,3.6,"South Indian, Seafood",¹ 150.00,54,NA,https://www.zomato.com/bangalore/round-the-clock-banashankari-bangalore/order
+Maddani Foods Nati Style,2.9,"Biryani, South Indian",¹ 150.00,57,NA,https://www.zomato.com/bangalore/maddani-foods-nati-style-rajajinagar-bangalore/order
+Abees Mess,4,"Kerala, Chinese, South Indian",¹ 150.00,45,NA,https://www.zomato.com/bangalore/abees-mess-btm-bangalore/order
+Nimma Mane,3.5,"South Indian, Chinese",¹ 150.00,49,NA,https://www.zomato.com/bangalore/nimma-mane-1-domlur-bangalore/order
+Amaiya - The Bakehouse,4,"Bakery, Desserts, Beverages",¹ 150.00,49,20% OFF,https://www.zomato.com/bangalore/amaiya-the-bakehouse-ulsoor-bangalore/order
+San Tung Chinese,4.1,"Chinese, Momos, Sichuan",¹ 150.00,43,NA,https://www.zomato.com/bangalore/san-tung-chinese-malleshwaram-bangalore/order
+ZOROY Luxury Chocolate,4.4,"Desserts, Ice Cream, Beverages",¹ 150.00,27,NA,https://www.zomato.com/bangalore/zoroy-luxury-chocolate-church-street/order
+Luckhnow Street,4.1,"Awadhi, Rolls, Biryani, Lucknowi, Desserts",¹ 150.00,29,NA,https://www.zomato.com/bangalore/luckhnow-street-st-marks-road-bangalore/order
+abCoffee,4,Coffee,¹ 150.00,NA,30% OFF,https://www.zomato.com/bangalore/abcoffee-1-domlur-bangalore/order
+Edesia,3.6,"Desserts, Pasta, Sandwich",¹ 150.00,41,60% OFF,https://www.zomato.com/bangalore/edesia-richmond-road-bangalore/order
+Naachiyar's,4.1,"Chettinad, Biryani, Seafood",¹ 150.00,39,   200 OFF,https://www.zomato.com/bangalore/naachiyars-1-ulsoor/order
+Boba Tree,4.4,"Tea, Beverages",¹ 150.00,33,NA,https://www.zomato.com/bangalore/boba-tree-brigade-road-bangalore/order
+The Sandwich Wala,3.6,"Sandwich, Fast Food",¹ 150.00,53,NA,https://www.zomato.com/bangalore/the-sandwich-wala-basavanagudi-bangalore/order
+Jalaram Sweets,4.4,Mithai,¹ 150.00,48,NA,https://www.zomato.com/bangalore/jalaram-sweets-jayanagar/order
+Kappa City,4.3,"Kerala, Seafood, South Indian",¹ 150.00,60,20% OFF,https://www.zomato.com/bangalore/kappa-city-btm-bangalore/order
+Bala Pankaj Restaurant,4.3,"South Indian, Chinese, North Indian, Fast Food, Arabian, Biryani, Beverages, Shake",¹ 150.00,59,NA,https://www.zomato.com/bangalore/bala-pankaj-restaurant-3-btm-bangalore/order
+Santhanam Balaji Sweets,4.4,Mithai,¹ 100.00,57,NA,https://www.zomato.com/bangalore/santhanam-balaji-sweets-kammanahalli-bangalore/order
+New Aaradhya Food Line,4.2,"Fast Food, North Indian",¹ 200.00,51,NA,https://www.zomato.com/bangalore/new-aaradhya-food-line-jayanagar-bangalore/order
+Star Ambur Biryani & Kabab,4.2,"Biryani, South Indian, North Indian",¹ 200.00,47,NA,https://www.zomato.com/bangalore/star-ambur-biryani-kabab-jayanagar-bangalore/order
+Karnataka State Co-Operative Fisheries Federation Mysore,4,Seafood,¹ 150.00,46,NA,https://www.zomato.com/bangalore/karnataka-state-co-operative-fisheries-federation-mysore-jayanagar-bangalore/order
+Ragoo's,4.1,"Italian, Pizza, Pasta, North Indian, Salad, Fast Food, Beverages",¹ 350.00,50,50% OFF,https://www.zomato.com/bangalore/ragoos-jayanagar/order
+Svadu Pure Ghee Sweets,3.3,"Fast Food, Street Food, Mithai, Desserts",¹ 200.00,50,NA,https://www.zomato.com/bangalore/svadu-pure-ghee-sweets-1-btm-bangalore/order
+Sangam Military Hotel,4.2,South Indian,¹ 200.00,47,NA,https://www.zomato.com/bangalore/sangam-military-hotel-jayanagar/order
+Nisarga Garden,4,"South Indian, Chinese, Sichuan, North Indian, Biryani, Street Food, Shake, Beverages",¹ 350.00,45,10% OFF,https://www.zomato.com/bangalore/nisarga-garden-1-basavanagudi-bangalore/order
+Hem Biriyani Bowl,2.8,"Biryani, South Indian",¹ 100.00,58,Free Buttermilk,https://www.zomato.com/bangalore/hem-biriyani-bowl-basaveshwara-nagar-bangalore/order
+Naidu's Nati Cafe,3.8,"Biryani, Pizza, Burger, Sandwich, Fast Food, Salad, Waffle, Shake",¹ 150.00,38,NA,https://www.zomato.com/bangalore/naidus-nati-cafe-vasanth-nagar-bangalore/order
+Naivedhyam Veg,4.1,South Indian,¹ 100.00,56,NA,https://www.zomato.com/bangalore/naivedhyam-veg-jayanagar-bangalore/order
+Old Bangalore The Flavours Of Time,4.3,"South Indian, Desserts",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/old-bangalore-the-flavours-of-time-banashankari-bangalore/order
+Sri Udupi Vaibahva,4.1,"South Indian, Chinese, Beverages",¹ 150.00,47,15% OFF,https://www.zomato.com/bangalore/sri-udupi-vaibahva-jayanagar-bangalore/order
+Eshmeet Da Dhaba,4.1,"North Indian, Chinese, Kebab, Seafood, Biryani, Beverages",¹ 200.00,51,NA,https://www.zomato.com/bangalore/eshmeet-da-dhaba-koramangala-7th-block-bangalore/order
+J K Coastal Curry,4.2,"Seafood, Chinese, North Indian, Ice Cream, Shake, Beverages",¹ 400.00,44,NA,https://www.zomato.com/bangalore/j-k-coastal-curry-basavanagudi-bangalore/order
+The Boba King,4,Bubble Tea,¹ 150.00,36,NA,https://www.zomato.com/bangalore/the-boba-king-majestic-bangalore/order
+Bombay Ice Cream Co.,4,"Ice Cream, Desserts",¹ 100.00,37,NA,https://www.zomato.com/bangalore/bombay-ice-cream-co-1-brigade-road-bangalore/order
+Oh! Biryani,3.7,"Biryani, Chinese",¹ 250.00,51,NA,https://www.zomato.com/bangalore/oh-biryani-koramangala-7th-block-bangalore/order
+Naidu's Sakath Utta,4.2,"Chinese, South Indian",¹ 200.00,48,NA,https://www.zomato.com/bangalore/naidus-sakath-utta-rajajinagar-bangalore/order
+Baisakhi,4.2,"North Indian, Biryani, Desserts, Beverages",¹ 450.00,45,NA,https://www.zomato.com/bangalore/baisakhi-basavanagudi/order
+The Noodle Theory,3.9,"Chinese, Sushi, Beverages",¹ 150.00,39,NA,https://www.zomato.com/bangalore/the-noodle-theory-seshadripuram-bangalore/order
+Lassi Town,3.7,"Beverages, Fast Food, Shake, Juices, Coffee, Ice Cream",¹ 100.00,43,NA,https://www.zomato.com/bangalore/lassi-town-vijay-nagar-bangalore/order
+New Mahi Di Rasoi,4.3,"Bengali, Chinese, Biryani, Kebab, Fast Food, Beverages, North Indian",¹ 200.00,58,NA,https://www.zomato.com/bangalore/new-mahi-di-rasoi-rt-nagar-bangalore/order
+Karnataka Biryani Point,3.5,"Biryani, South Indian",¹ 100.00,36,NA,https://www.zomato.com/bangalore/karnataka-biryani-point-rajajinagar-bangalore/order
+The Krishna Grand,4.4,"South Indian, North Indian, Biryani, Chinese, Desserts, Beverages",¹ 100.00,54,NA,https://www.zomato.com/bangalore/the-krishna-grand-banashankari-bangalore/order
+Mushroom Point,4,"Chinese, Biryani",¹ 100.00,36,NA,https://www.zomato.com/bangalore/mushroom-point-vasanth-nagar-bangalore/order
+Boba Cafe - A True Bubble Tea,4.2,"Bubble Tea, Shake",¹ 100.00,35,Free Classic French Fries,https://www.zomato.com/bangalore/boba-cafe-a-true-bubble-tea-vasanth-nagar-bangalore/order
+Basvangudi Donne Biryani,3.5,"Biryani, South Indian",¹ 100.00,51,NA,https://www.zomato.com/bangalore/basvangudi-donne-biryani-basavanagudi-bangalore/order
+Jai Mataji Farsan And Sweets,4.1,"Mithai, Gujarati, Street Food",¹ 100.00,40,NA,https://www.zomato.com/bangalore/jai-mataji-farsan-and-sweets-yeshwantpur-bangalore/order
+Navarang Fast Food,4.2,"North Indian, Chinese",¹ 100.00,59,NA,https://www.zomato.com/bangalore/navarang-fast-food-kammanahalli/order
+KFDC Mathsya Darshini,4,"Mangalorean, Seafood",¹ 100.00,54,NA,https://www.zomato.com/bangalore/kfdc-mathsya-darshini-rajajinagar-bangalore/order
+Mangalore Magic,3.2,"South Indian, North Indian, Fast Food, Chinese, Street Food",¹ 100.00,51,NA,https://www.zomato.com/bangalore/mangalore-magic-1-vijay-nagar-bangalore/order
+The Coorg Food Co.,4.2,"South Indian, Beverages",¹ 100.00,53,NA,https://www.zomato.com/bangalore/the-coorg-food-co-koramangala-6th-block-bangalore/order
+Bengali Dhekur,4,"Bengali, Fast Food",¹ 100.00,61,NA,https://www.zomato.com/bangalore/bengali-dhekur-btm-bangalore/order
+Melange - By Asha Sweet Center,4.1,"Street Food, Bakery, Fast Food, Beverages",¹ 100.00,47,NA,https://www.zomato.com/bangalore/melange-by-asha-sweet-center-malleshwaram-bangalore/order
+New Mayura,4.1,"North Indian, Chinese, Biryani",¹ 200.00,35,NA,https://www.zomato.com/bangalore/new-mayura-mysore-road-bangalore/order
+Sanman,4.3,"South Indian, North Indian, Chinese, Biryani, Fast Food, Desserts, Beverages",¹ 200.00,42,NA,https://www.zomato.com/bangalore/sanman-seshadripuram/order
+Jain Uncle,4.3,"Rajasthani, North Indian, Beverages",¹ 200.00,68,NA,https://www.zomato.com/bangalore/jain-uncle-koramangala-1st-block-bangalore/order
+Sheeshkebab Xpress,3.9,"Kebab, Rolls, Biryani",¹ 200.00,32,NA,https://www.zomato.com/bangalore/sheeshkebab-xpress-st-marks-road-bangalore/order
+Aappir Aamontron,4.1,Bengali,¹ 200.00,53,NA,https://www.zomato.com/bangalore/aappir-aamontron-rt-nagar-bangalore/order
+LV Venkateshwara Jolada Rotti Oota,4.5,"South Indian, Street Food",¹ 200.00,46,NA,https://www.zomato.com/bangalore/lv-venkateshwara-jolada-rotti-oota-malleshwaram-bangalore/order
+Shree Sagar Veg,3.6,"North Indian, Chinese, Biryani, South Indian, Beverages, Shake",¹ 200.00,53,NA,https://www.zomato.com/bangalore/shree-sagar-veg-malleshwaram-bangalore/order
+Your Green Factory,3.3,"Fast Food, Desserts",¹ 200.00,51,NA,https://www.zomato.com/bangalore/your-green-factory-city-market-bangalore/order
+ENSO - Sourdough Pizza By Nomad,4.1,"Pizza, Fast Food, Desserts",¹ 200.00,50,   100 OFF,https://www.zomato.com/bangalore/enso-sourdough-pizza-by-nomad-commercial-street-bangalore/order
+Mahesh Lunch Home,4.2,"Seafood, Mangalorean, South Indian, North Indian, Continental, Desserts, Beverages",¹ 200.00,56,NA,https://www.zomato.com/bangalore/mahesh-lunch-home-1-indiranagar-bangalore/order
+Gudbud,4.3,"Ice Cream, Shake, Beverages",¹ 200.00,50,NA,https://www.zomato.com/bangalore/gudbud-ejipura-bangalore/order
+UP Style North Indian Food,4.6,North Indian,¹ 200.00,58,NA,https://www.zomato.com/bangalore/up-style-north-indian-food-jayanagar/order
+ROMA Italian Deli,4.6,"Sandwich, Salad, Continental, Desserts",¹ 200.00,63,40% OFF,https://www.zomato.com/bangalore/roma-italian-deli-koramangala-5th-block-bangalore/order
+The Waffle Man - From The House Of Cookie Man,3.8,"Waffle, Ice Cream, Desserts",¹ 100.00,45,   125 OFF,https://www.zomato.com/bangalore/the-waffle-man-from-the-house-of-cookie-man-1-malleshwaram-bangalore/order
+Biergarten,4.1,"Continental, European, BBQ, Chinese, Asian, Beverages","¹ 1,000.00",61,NA,https://www.zomato.com/bangalore/biergarten-koramangala-5th-block/order
+Kim Lee Restaurant,4.3,"Chinese, Seafood, Momos",¹ 400.00,51,NA,https://www.zomato.com/bangalore/kim-lee-restaurant-indiranagar/order
+The Pizza Project by Oven Story,3.4,Pizza,¹ 100.00,39,50% OFF,https://www.zomato.com/bangalore/the-pizza-project-by-oven-story-langford-town-bangalore/order
+Beyondburg Inc,4.6,"Burger, Fast Food",¹ 150.00,40,40% OFF,https://www.zomato.com/bangalore/beyondburg-inc-race-course-road-bangalore/order
+Food Adda,4,"Sandwich, Pizza, Burger, Momos, Fast Food, Street Food, Shake, Beverages",¹ 200.00,45,NA,https://www.zomato.com/bangalore/food-adda-basavanagudi-bangalore/order
+Kolkata Kitchen,4.3,"Bengali, Chinese, Seafood, Sichuan",¹ 250.00,60,20% OFF,https://www.zomato.com/bangalore/kolkata-kitchen-btm-bangalore/order
+Chaatimes,4.1,"Street Food, Fast Food",¹ 100.00,59,NA,https://www.zomato.com/bangalore/chaatimes-jayanagar-bangalore/order
+Donne Biryani Hatti,3.6,"Biryani, South Indian",¹ 150.00,33,NA,https://www.zomato.com/bangalore/donne-biryani-hatti-vasanth-nagar/order
+Sri Shivanandi Mushroom Donne Biriyani House,4.3,"Biryani, Kebab, North Indian",¹ 100.00,44,NA,https://www.zomato.com/bangalore/sri-shivanandi-mushroom-donne-biriyani-house-2-basaveshwara-nagar-bangalore/order
+Go Naati,4.2,"South Indian, Biryani, Chinese",¹ 200.00,42,NA,https://www.zomato.com/bangalore/go-naati-rajajinagar-bangalore/order
+Pizza Stop,3.9,"Pizza, Pasta, Fast Food",¹ 300.00,30,NA,https://www.zomato.com/bangalore/pizza-stop-lavelle-road/order
+Pondy Bistro,3.5,"Fast Food, Street Food, Healthy Food, Sandwich, Shake, Beverages, Desserts",¹ 300.00,50,NA,https://www.zomato.com/bangalore/pondy-bistro-btm-bangalore/order
+Virinchi Cafe,4.1,"South Indian, Beverages",¹ 300.00,27,   125 OFF,https://www.zomato.com/bangalore/virinchi-cafe-residency-road-bangalore/order
+Davanagere Benne Dose - DBD,3.1,South Indian,¹ 300.00,47,NA,https://www.zomato.com/bangalore/davanagere-benne-dose-dbd-rajajinagar-bangalore/order
+Puliyogare Palace,3,"South Indian, Desserts",¹ 300.00,52,50% OFF,https://www.zomato.com/bangalore/puliyogare-palace-wilson-garden-bangalore/order
+Vasu Donne Biriyani,4.4,"Biryani, South Indian",¹ 300.00,38,NA,https://www.zomato.com/bangalore/vasu-donne-biriyani-basavanagudi-bangalore/order
+Coffee Time,3.5,"North Indian, Chinese, South Indian, Desserts, Beverages",¹ 300.00,48,NA,https://www.zomato.com/bangalore/coffee-time-city-market-bangalore/order
+Azukii Bistro,4.6,"Japanese, Asian, Rolls, Sushi, Salad, Tea, Beverages",¹ 300.00,32,NA,https://www.zomato.com/bangalore/azukii-bistro-richmond-town-bangalore/order
+Kongsi Tea Bar,4.1,"Tea, Coffee, Shake, Beverages",¹ 300.00,28,20% OFF,https://www.zomato.com/bangalore/kongsi-tea-bar-st-marks-road-bangalore/order
+Pattegar Donne Biriyani,3.8,"Chinese, North Indian, Rolls, Biryani, Desserts",¹ 300.00,49,NA,https://www.zomato.com/bangalore/pattegar-donne-biriyani-1-vijay-nagar-bangalore/order
+Gundappa Donne Biryani,3.9,"Biryani, South Indian",¹ 300.00,44,NA,https://www.zomato.com/bangalore/gundappa-donne-biryani-seshadripuram/order
+Pizzza Next,4,"Pizza, Italian, Burger",¹ 300.00,61,NA,https://www.zomato.com/bangalore/pizzza-next-new-bel-road-bangalore/order
+Simplifry,4.4,"Biryani, Asian, Desserts",¹ 200.00,37,NA,https://www.zomato.com/bangalore/simplifry-richmond-road-bangalore/order
+The Caffeine Baar,4.1,"Cafe, Italian, Continental, Bakery, Desserts, Beverages",¹ 200.00,63,NA,https://www.zomato.com/bangalore/the-caffeine-baar-jayanagar-bangalore/order
+Taaza Upahara,4.1,South Indian,¹ 200.00,50,NA,https://www.zomato.com/bangalore/taaza-upahara-vijay-nagar-bangalore/order
+Shanthala Icecreams,4.3,"Ice Cream, Desserts, Beverages",¹ 200.00,43,NA,https://www.zomato.com/bangalore/shanthala-icecreams-rajajinagar/order
+Srinagar Kabab Corner,4.3,"South Indian, Biryani",¹ 200.00,49,NA,https://www.zomato.com/bangalore/srinagar-kabab-corner-banashankari/order
+Rolls & Wraps by HRX,3.8,"Rolls, Wraps",¹ 200.00,38,40% OFF,https://www.zomato.com/bangalore/rolls-wraps-by-hrx-infantry-road-bangalore/order
+Thunder Shawarma,3.5,Shawarma,¹ 200.00,60,NA,https://www.zomato.com/bangalore/thunder-shawarma-basaveshwara-nagar-bangalore/order
+The Clay Hut,4.1,Bengali,¹ 200.00,59,NA,https://www.zomato.com/bangalore/the-clay-hut-koramangala-7th-block-bangalore/order
+Five Star Chicken,4.3,"Burger, Rolls, Fast Food",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/five-star-chicken-2-wilson-garden-bangalore/order
+Mallika Biryani Estd. 2015,4.1,"Biryani, South Indian",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/mallika-biryani-estd-2015-indiranagar-bangalore/order
+Kwality Wall's Ice Cream and more,4,"Ice Cream, Desserts",¹ 200.00,NA,   150 OFF,https://www.zomato.com/bangalore/kwality-walls-ice-cream-and-more-vijay-nagar-bangalore/order
+Onesta,3.5,"Pizza, Pasta, Sandwich, Fast Food, Desserts, Beverages",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/onesta-koramangala-5th-block-bangalore/order
+Brahmins' Thatte Idli,4.1,South Indian,¹ 200.00,NA,20% OFF,https://www.zomato.com/bangalore/brahmins-thatte-idli-2-rt-nagar-bangalore/order
+Lassi Shop,3.8,"Beverages, Juices, Shake",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/lassi-shop-majestic-bangalore/order
+IDC Kitchen,4.2,"South Indian, Beverages",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/idc-kitchen-1-residency-road-bangalore/order
+Dairy Day Ice Creams & Frozen Desserts,4.2,"Ice Cream, Desserts",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/dairy-day-ice-creams-frozen-desserts-city-market-bangalore/order
+Shaadi Ki Biryani Nousho Ka Naashta,4.2,"North Indian, Biryani, Chinese, Mughlai",¹ 200.00,55,NA,https://www.zomato.com/bangalore/shaadi-ki-biryani-nousho-ka-naashta-hbr-layout-bangalore/order
+FNP Cakes By Ferns N Petals,4,"Bakery, Desserts",¹ 200.00,NA,20% OFF,https://www.zomato.com/bangalore/fnp-cakes-by-ferns-n-petals-hebbal-bangalore/order
+Absolute Shawarma,4,"Shawarma, Burger, Wraps, Momos, Fast Food, Shake, Beverages",¹ 200.00,NA,20% OFF,https://www.zomato.com/bangalore/absolute-shawarma-vijay-nagar-bangalore/order
+Kolkata Famous Kati Roll,4.2,Rolls,¹ 200.00,NA,NA,https://www.zomato.com/bangalore/kolkata-famous-kati-roll-koramangala-7th-block-bangalore/order
+Khichdi Bar,4.2,"Healthy Food, North Indian",¹ 200.00,NA,30% OFF,https://www.zomato.com/bangalore/khichdi-bar-koramangala-6th-block-bangalore/order
+Zomoz - The Momo Company,4,"Momos, Fast Food",¹ 150.00,NA,   125 OFF,https://www.zomato.com/bangalore/zomoz-the-momo-company-koramangala-3rd-block-bangalore/order
+Al Ameen Rolls Corner,4.1,"Rolls, Fast Food",¹ 100.00,NA,   125 OFF,https://www.zomato.com/bangalore/al-ameen-rolls-corner-kammanahalli-bangalore/order
+Aramane Donne Biriyani,3.9,"Biryani, South Indian, Chinese",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/aramane-donne-biriyani-malleshwaram-bangalore/order
+Aastha Bengali Mess,4.2,"Bengali, North Indian, Chinese",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/aastha-bengali-mess-yeshwantpur-bangalore/order
+Raidan Restaurant,4,"Arabian, Lebanese, North Indian, Chinese, Mughlai, Beverages",¹ 400.00,NA,NA,https://www.zomato.com/bangalore/raidan-restaurant-1-frazer-town-bangalore/order
+By 2 Coffee,4.4,South Indian,¹ 100.00,NA,NA,https://www.zomato.com/bangalore/by-2-coffee-basavanagudi/order
+Just Shawarma,3.9,"Shawarma, Fast Food, Beverages, Lebanese",¹ 150.00,NA,   200 OFF,https://www.zomato.com/bangalore/just-shawarma-kalyan-nagar-bangalore/order
+Biriyani Treat,3.8,"Biryani, Kebab, Tamil",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/biriyani-treat-basaveshwara-nagar-bangalore/order
+Bhole Ke Chole,3.2,North Indian,¹ 100.00,NA,40% OFF,https://www.zomato.com/bangalore/bhole-ke-chole-indiranagar-bangalore/order
+Bihari Bowl,4.1,Bihari,¹ 200.00,NA,30% OFF,https://www.zomato.com/bangalore/bihari-bowl-koramangala-6th-block-bangalore/order
+Grand Foodies Restaurant,4.1,"Biryani, Chinese, Kebab, Rolls",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/grand-foodies-restaurant-vasanth-nagar-bangalore/order
+Roti Sabji.Com,3.7,"North Indian, Beverages, Rajasthani, Shake",¹ 150.00,NA,50% OFF,https://www.zomato.com/bangalore/roti-sabji-com-1-btm-bangalore/order
+Lassi Corner,3.9,"Beverages, Juices, Shake, Desserts, Ice Cream, Sandwich, Street Food",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/lassi-corner-koramangala-8th-block-bangalore/order
+Veena Stores Since 1977,4.4,South Indian,¹ 150.00,NA,   100 OFF,https://www.zomato.com/bangalore/veena-stores-since-1977-malleshwaram-bangalore/order
+Hotel Prashanth,3.7,"South Indian, Biryani, Mughlai, Chinese, Street Food",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/hotel-prashanth-1-city-market-bangalore/order
+AL-Arabic Shawarma,4,Shawarma,¹ 150.00,NA,NA,https://www.zomato.com/bangalore/al-arabic-shawarma-indiranagar-bangalore/order
+Broast Khan,4.1,"Fast Food, Shawarma, Rolls, Pizza, Burger, Pasta, Beverages",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/broast-khan-kammanahalli-bangalore/order
+Hot Coffee,4.5,"South Indian, Beverages",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/hot-coffee-rajajinagar/order
+Hotel Dwarka,4.3,South Indian,¹ 150.00,NA,NA,https://www.zomato.com/bangalore/hotel-dwarka-basavanagudi/order
+Vidyarthi Bhavan - Since 1943,4.4,South Indian,¹ 150.00,NA,NA,https://www.zomato.com/bangalore/vidyarthi-bhavan-since-1943-basavanagudi-bangalore/order
+Bhartiya Jalpan,4,"North Indian, Fast Food, Street Food, Biryani, Chinese, Desserts, Beverages",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/bhartiya-jalpan-commercial-street-bangalore/order
+Eat N Drink,3.9,"Shake, Juices, Beverages, Sandwich, Rolls, Fast Food, Desserts",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/eat-n-drink-btm-bangalore/order
+Calcutta Victoria Chat House,3.6,"Street Food, North Indian, Beverages",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/calcutta-victoria-chat-house-rt-nagar/order
+Abubakar Siddiq Hotel,4.3,"Chinese, Rolls, South Indian, Mughlai, North Indian",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/abubakar-siddiq-hotel-malleshwaram-bangalore/order
+GOPIZZA,4,"Pizza, Fast Food",¹ 100.00,NA,50% OFF,https://www.zomato.com/bangalore/gopizza-jayanagar-bangalore/order
+Poha Point,4.3,"Maharashtrian, Street Food, Fast Food, Sandwich, Beverages",¹ 100.00,57,NA,https://www.zomato.com/bangalore/poha-point-koramangala-6th-block-bangalore/order
+Burnout Cafe,3.3,"Cafe, Beverages, Continental, Italian, Chinese, Fast Food, Asian, Desserts",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/burnout-cafe-infantry-road-bangalore/order
+Chikkanna Tiffin Room,4.3,South Indian,¹ 100.00,NA,NA,https://www.zomato.com/bangalore/chikkanna-tiffin-room-1-city-market-bangalore/order
+Cool Town,3.6,"Ice Cream, Desserts, Beverages, Street Food, Juices",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/cool-town-richmond-road-bangalore/order
+Rooh's Biryani,4.4,"Biryani, Kebab",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/roohs-biryani-indiranagar-bangalore/order
+Namma Madurai,4.3,"South Indian, Beverages",¹ 100.00,NA,Flat 20% OFF,https://www.zomato.com/bangalore/namma-madurai-thippasandra-bangalore/order
+Pondy Bistro,3.8,"Fast Food, Street Food, Healthy Food, Sandwich, Shake, Beverages, Desserts",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/pondy-bistro-1-btm-bangalore/order
+HELLO! Dose Master,4.2,South Indian,¹ 100.00,NA,NA,https://www.zomato.com/bangalore/hello-dose-master-basavanagudi-bangalore/order
+New Fresh Cane Juice,4.4,"Juices, Shake, Beverages, Desserts, Healthy Food",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/new-fresh-cane-juice-btm-bangalore/order
+Tronic Rolls,4.4,Rolls,¹ 100.00,NA,NA,https://www.zomato.com/bangalore/tronic-rolls-indiranagar-bangalore/order
+The Chaat Cult,3.2,Street Food,¹ 150.00,NA,40% OFF,https://www.zomato.com/bangalore/the-chaat-cult-indiranagar-bangalore/order
+Kolkata King Rolls,2.6,"Momos, Rolls",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/kolkata-king-rolls-btm-bangalore/order
+New Kadai Family Restaurant,4.1,"North Indian, Chinese",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/new-kadai-family-restaurant-2-kammanahalli-bangalore/order
+Sri Melukote Puliyogre,4,South Indian,¹ 100.00,46,NA,https://www.zomato.com/bangalore/sri-melukote-puliyogre-banashankari-bangalore/order
+Andhra Kitchen,4.3,"South Indian, Biryani, Andhra",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/andhra-kitchen-1-rt-nagar-bangalore/order
+DBD - Davanagere Benne Dosa,4.3,South Indian,¹ 100.00,NA,NA,https://www.zomato.com/bangalore/dbd-davanagere-benne-dosa-vijay-nagar-bangalore/order
+Giani,4.4,"Ice Cream, Desserts, Shake, Beverages",¹ 150.00,NA,NA,https://www.zomato.com/bangalore/giani-koramangala-5th-block-bangalore/order
+Puliyogare Palace,2.8,"South Indian, Desserts",¹ 150.00,NA,50% OFF,https://www.zomato.com/bangalore/puliyogare-palace-btm-bangalore/order
+Dose of Davangere,4.2,South Indian,¹ 100.00,NA,30% OFF,https://www.zomato.com/bangalore/dose-of-davangere-jayanagar-bangalore/order
+Lassi Shop,3.6,"Beverages, Juices, Desserts, Ice Cream",¹ 100.00,NA,NA,https://www.zomato.com/bangalore/lassi-shop-2-rt-nagar-bangalore/order
+Thunder Shawarma,2.1,Shawarma,¹ 150.00,NA,NA,https://www.zomato.com/bangalore/thunder-shawarma-koramangala-5th-block-bangalore/order
+Taj Restaurant,3.9,"North Indian, Biryani",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/taj-restaurant-city-market-bangalore/order
+Roti Curry & Co,4,"North Indian, Desserts",¹ 250.00,NA,50% OFF,https://www.zomato.com/bangalore/roti-curry-co-btm-bangalore/order
+Samosa Amsa,3.5,"Street Food, Tea, Beverages",¹ 250.00,NA,NA,https://www.zomato.com/bangalore/samosa-amsa-1-indiranagar-bangalore/order
+Nuthan Foods Since - 2023,4.4,"South Indian, Sandwich",¹ 250.00,NA,NA,https://www.zomato.com/bangalore/nuthan-foods-since-2023-vijay-nagar-bangalore/order
+Veettile Ruchi,3.9,"South Indian, Chinese, Biryani, Street Food",¹ 250.00,NA,NA,https://www.zomato.com/bangalore/veettile-ruchi-koramangala-2nd-block-bangalore/order
+Davangere Benne Dose Hut,4.1,South Indian,¹ 250.00,NA,NA,https://www.zomato.com/bangalore/davangere-benne-dose-hut-banashankari-bangalore/order
+Mad Over Shawarma,2.9,"Shawarma, Rolls, Fast Food, Beverages",¹ 250.00,NA,NA,https://www.zomato.com/bangalore/mad-over-shawarma-rajajinagar-bangalore/order
+Kolkata Famous Katti Rolls,4.4,Rolls,¹ 250.00,NA,NA,https://www.zomato.com/bangalore/kolkata-famous-katti-rolls-btm/order
+Brahmins Tiffin Centre,4.3,South Indian,¹ 250.00,NA,NA,https://www.zomato.com/bangalore/brahmins-tiffin-centre-thippasandra-bangalore/order
+Andhra Meal Co,3.1,Andhra,¹ 250.00,NA,50% OFF,https://www.zomato.com/bangalore/andhra-meal-co-btm-bangalore/order
+Nutribites,4.2,"Healthy Food, Juices",¹ 250.00,NA,Flat 10% OFF,https://www.zomato.com/bangalore/nutribites-richmond-town-bangalore/order
+Shero Home Food,3.7,"South Indian, Healthy Food, Andhra",¹ 250.00,NA,NA,https://www.zomato.com/bangalore/shero-home-food-1-btm-bangalore/order
+The Baklava Company,4.3,Desserts,¹ 250.00,NA,NA,https://www.zomato.com/bangalore/the-baklava-company-race-course-road-bangalore/order
+Smoky Docky,4.2,"Shawarma, Desserts, Beverages",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/smoky-docky-sanjay-nagar-bangalore/order
+Fries Factory,3.8,"Fast Food, Beverages",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/fries-factory-vijay-nagar-bangalore/order
+Shero Home Food - Chettinad,4.3,"South Indian, Healthy Food, Desserts, Chettinad",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/shero-home-food-chettinad-2-kammanahalli-bangalore/order
+Sri Ganesh Davangere Benne Dose,4.4,"South Indian, Beverages",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/sri-ganesh-davangere-benne-dose-banashankari-bangalore/order
+Egg Adda,3.2,"Fast Food, Chinese",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/egg-adda-2-vijay-nagar-bangalore/order
+Midnight Eats,4.1,"Rolls, North Indian, Chinese, Beverages, Sichuan",¹ 200.00,NA,Free Mineral Water [1 litre],https://www.zomato.com/bangalore/midnight-eats-shivajinagar-bangalore/order
+Kunafa Story,4,Desserts,¹ 200.00,NA,NA,https://www.zomato.com/bangalore/kunafa-story-rt-nagar-bangalore/order
+Mumbai Vada Pav No 1,4,"Street Food, Sandwich, Fast Food",¹ 200.00,NA,10% OFF,https://www.zomato.com/bangalore/mumbai-vada-pav-no-1-indiranagar-bangalore/order
+Bismillah Kabab Center,3.9,"Kebab, Fast Food",¹ 200.00,NA,NA,https://www.zomato.com/bangalore/bismillah-kabab-center-hebbal-bangalore/order
