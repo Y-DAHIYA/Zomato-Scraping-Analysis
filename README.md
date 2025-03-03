@@ -38,13 +38,6 @@ This project involves web scraping restaurant data from **Zomato**, cleaning and
 ---
 
 ## 📊 Power BI Dashboard
-### 🔥 Key Visuals & Insights
-- **Avg. Delivery Time (min) vs. Rating** (Line Chart)
-- **Restaurant Count by Cost for One (Binned)** (Bar Chart)
-- **Top-Rated Restaurants** (Card Visualization)
-- **Delivery Time Distribution** (Histogram)
-- **Delivery Time Distribution** (Histogram)
-- 
 
 ### 📌 Theme Customization
 - **Background**: Light gray to muted pink
@@ -52,24 +45,30 @@ This project involves web scraping restaurant data from **Zomato**, cleaning and
 - **Text & Borders**: Black (0% darker)
 
 ### 🖼️ Dashboard Preview:
-![Power BI Dashboard](dashboard_image.png)
+![Image](https://github.com/user-attachments/assets/567bd7e5-a571-4c2c-92ae-dfaa6995aa55)
 
 ---
 
 ## 📊 Charts Included
 | Chart Name | Type |
 |------------|----------------------|
+| Total Restaurants | Card |
+| Avg. Rating | Card |
+| Avg. Delivery Time (min) | Card |
+| Avg. Cost for One | Card |
+| Top Rating by Restaurant | Bar Chart |
+| Delivery Time by Restaurant | Bar Chart |
 | Avg. Delivery Time vs. Rating | Line Chart |
+| Avg. Cost vs. Rating | Line Chart |
+| Restaurant Count by Price Range | Column Chart |
 | Restaurant Count by Rating | Column Chart |
-| Count of Restaurants by Cost for One (Bins) | Bar Chart |
-| Avg. Cost for One by Rating | Column Chart |
 
 ---
 
 ## 🎯 Final Insights
-📌 **Most restaurants have a rating between 4.0 - 4.5**
-📌 **Higher-rated restaurants tend to have faster delivery times**
-📌 **Most restaurants charge between ₹100 - ₹500 per meal**
+📌 **Most restaurants have a rating between 4.0 - 4.5**.
+📌 **Higher-rated restaurants tend to have faster delivery times**.
+📌 **Most restaurants charge between ₹100 - ₹500 per meal**.
 
 ---
 
@@ -89,9 +88,9 @@ This project involves web scraping restaurant data from **Zomato**, cleaning and
 ---
 
 ## 📢 Contributors
-👤 **Yash** - Data Collection, Analysis & Power BI Dashboard
+👤 **Yash** - Data Scientist
 
-🔗 **Connect with Me**: [LinkedIn](#) | [GitHub](#)
+🔗 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/yashcoding/) 
 
 ---
 
