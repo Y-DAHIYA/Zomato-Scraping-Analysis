@@ -1,4 +1,3 @@
-# Zomato-Scraping-Analysis
 # 📊 Zomato Restaurant Data Analysis & Dashboard
 
 ## 🔥 Project Overview
