@@ -30,10 +30,10 @@ This project involves web scraping restaurant data from **Zomato**, cleaning and
 
 ## 🛠️ Data Cleaning & Preprocessing
 ### 📌 Steps Taken:
-✅ Removed missing values from `Rating` and `Cost for One`
-✅ Extracted numerical values from discount offers
-✅ Converted cost values into numerical format
-✅ Created `Cost for One (Bins)` for grouped analysis
+- ✅ Removed missing values from `Rating` and `Cost for One`
+- ✅ Extracted numerical values from discount offers
+- ✅ Converted cost values into numerical format
+- ✅ Created `Cost for One (Bins)` for grouped analysis
 
 ---
 
@@ -66,9 +66,9 @@ This project involves web scraping restaurant data from **Zomato**, cleaning and
 ---
 
 ## 🎯 Final Insights
-📌 **Most restaurants have a rating between 4.0 - 4.5**.
-📌 **Higher-rated restaurants tend to have faster delivery times**.
-📌 **Most restaurants charge between ₹100 - ₹500 per meal**.
+- 📌 **Most restaurants have a rating between 4.0 - 4.5**.
+- 📌 **Higher-rated restaurants tend to have faster delivery times**.
+- 📌 **Most restaurants charge between ₹100 - ₹500 per meal**.
 
 ---
 
